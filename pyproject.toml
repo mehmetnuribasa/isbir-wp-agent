@@ -1,0 +1,77 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "isbir-wp-agent"
+version = "1.0.0"
+description = "İşbir Elektrik WhatsApp AI Chatbot — Clean architecture with Gemini AI"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    {name = "İşbir Elektrik"}
+]
+
+dependencies = [
+    # Google GenAI SDK for Gemini integration (AI Studio)
+    "google-genai>=0.3.0",
+
+    # Web framework and async support
+    "fastapi>=0.109.0",
+    "uvicorn>=0.24.0",
+
+    # HTTP client for WhatsApp Cloud API
+    "httpx>=0.26.0",
+
+    # Retry logic
+    "tenacity>=8.2.0",
+
+    # Configuration and utilities
+    "pydantic>=2.5.0",
+    "pydantic-settings>=2.1.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+    "pytest-mock>=3.12.0",
+    "black>=23.11.0",
+    "isort>=5.12.0",
+    "mypy>=1.7.0",
+]
+
+[project.scripts]
+isbir-wp-agent = "aiChatbot.main:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/aiChatbot"]
+
+[tool.black]
+line-length = 88
+target-version = ['py311']
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 88
+known_first_party = ["aiChatbot"]
+
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+addopts = "-v --tb=short"
+asyncio_mode = "auto"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+    "pytest-asyncio>=1.2.0",
+    "pytest-mock>=3.15.1",
+]

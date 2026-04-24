@@ -1,12 +1,12 @@
-### İsbir Elektrik Hakkında
-İsbir Elektrik Sanayi A.Ş. 1977'den beri jeneratör ve enerji çözümleri üretmektedir.
+### İşbir Elektrik Hakkında — Genel
+İşbir Elektrik Sanayi A.Ş. 1977'den beri jeneratör ve enerji çözümleri üretmektedir.
 TSKGV (Türk Silahlı Kuvvetlerini Güçlendirme Vakfı) bünyesinde faaliyet göstermektedir.
 600'den fazla müşteri ve 10,000'den fazla proje deneyimine sahibiz.
 Slogan: "Yaşamla Kesintisiz İşbirliği"
 46+ yıllık deneyim ile Türkiye'nin en köklü jeneratör üreticilerinden biriyiz.
 
 ### TSKGV Bağlantısı
-İsbir Elektrik, TSKGV (Türk Silahlı Kuvvetlerini Güçlendirme Vakfı) kuruluşudur.
+İşbir Elektrik, TSKGV (Türk Silahlı Kuvvetlerini Güçlendirme Vakfı) kuruluşudur.
 TSKGV bağlı diğer ortaklıklar: ASELSAN, HAVELSAN, TUSAŞ, ROKETSAN, ASPİLSAN
 Askeri standartlarda üretim yapma yetkinliğimiz bu bağlantıdan gelmektedir.
 
@@ -24,81 +24,5200 @@ Telefon: +90 (312) 473 2600
 
 Arıza Destek WhatsApp: +90 530 919 61 83
 
-### Hibrit Jeneratörler HBR Serisi
-HBR serisi hibrit jeneratörlerimiz 15-50 kVA aralığında üretilmektedir.
-Motor seçenekleri: Yanmar, Perkins, Kubota
-Özellikler: Çevre dostu teknoloji, yakıt tasarrufu, düşük emisyon
-Hibrit sistem sayesinde hem jeneratör hem akü desteği sağlar.
-Sessiz çalışma özelliği vardır.
+### 1.80 kW 2.25 kVA
+İşbir Elektrik Sanayi A.Ş.'nin 1.80 kW 2.25 kVA portatif dizel jeneratörü, kompakt tasarımı ve yüksek performansıyla dikkat çeken bir güç kaynağıdır. Bu
+PORTATİF DİZEL
+JENERATÖR 1.80 kW 2.25 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 1.80 kW 2.25 kVA portatif dizel jeneratörü, kompakt tasarımı ve yüksek performansıyla dikkat çeken bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda güvenilir bir şekilde çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 95 kg olup, boyutları 595 x 760 x 750 mm’dir. Ayrıca, 7 metre mesafede 82 dB gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+2,5 kW (3000N 25°C)
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (25°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+82 dB (7 m)
+Kuru Ağırlık :
+95 kg
+Ölçüler E x B x Y :
+595 x 760 x 750 mm
+Termal İzi :
+–
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 0.84 lt/h | %50 Güç 0.54 lt/h
+Alternatör Marka :
+(AVRUPA)
+Tipi :
+Senkron
+Frekans :
+50Hz
+Gerilim :
+220V
+Devri :
+3000 rpm
+Faz Sayısı :
+2
+Alternatör Koruma Sınıfı :
+IP23
+İzolasyon Sınıfı :
+H
+Güç Faktörü :
+0,8
+Soğutma Sistemi :
+Hava Soğutmalı
+Voltaj Stabilitesi :
++-3[220 V]
+Voltaj Regülatörü :
+AVR
+Voltaj Regülatör Duyarlılığı :
++-%2
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+ODYSSEY
+Model :
+PC545
+Volt :
+12V
+Amper :
+18 Ah (2 Adet)
+En (mm) :
+80
+Boy (mm) :
+175
+Yükseklik (mm) :
+120
 
-### Yat ve Marin Jeneratörleri
-ISB serisi ve MG serisi deniz tipi jeneratörlerimiz mevcuttur.
-Türk Loydu sertifikalıdır.
-Özellikler: Deniz suyu soğutmalı, gemi açısal hareketlerine dayanıklı
-ISB serisi: 7.5-34 kVA aralığında, Kubota motorlu
-MG serisi: Yat ve marin uygulamaları için özel tasarım
-Tam deniz şartlarına uygun üretim.
+### 10 kW 12.5 kVA
+İşbir Elektrik Sanayi A.Ş.'nin 10 kW 12.5 kVA su soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu
+TAKTİK SESSİZ KABİNLİ
+JENERATÖR 10 kW 12.5 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 10 kW 12.5 kVA su soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 800 kg olup, boyutları 660 x 1600 x 1400 mm’dir. Ayrıca, 7 metre mesafede 64 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 10 kW (3000N 25°C)
+Cos 1 – In/Cos 0.8 – In : 15, 15A/18, 94 A
+Çalışma Sıcaklığı : -32°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+60°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : +90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 64 dB (7 m)
+Kuru Ağırlık : 800 kg
+Ölçüler E x B x Y : 660 x 1600 x 1400 mm
+Termal İzi : Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi : Dizel/24 Saat
+Yakıt Sarfiyatı : %100 Güç 5.2 lt/h | %50 Güç 3.6 lt/h
+Alternatör Marka : İŞBİR
+Tipi : Asenkron
+Sürekli Gücü : 18W (3000 m, 25°C)
+İkaz : Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] : 2
+Faz Sayısı : 1
+Frekans : 50Hz
+Gerilim : 220V
+Alternatör Soğutma Sistemi : Su Soğutmalı
+Alternatör Devri : 3000 rpm
+Alternatör Koruma Sınıfı : IP54
+İzolasyon Sınıfı : H
+Voltaj Stabilitesi : +-3V (220V)
+Güç Faktörü : 0,8
+Harmonik THD : <3
+Kurtarma Zamanı : 2sn
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka : Mutlu
+Model : AGM
+Volt : 12V
+Amper : 70 Ah (1 Adet)
+CCA (EN) : 815
+En (mm) : 175
+Boy (mm) : 278
+Yükseklik (mm) : 190
+
+### 13 kW 15 kVA
+İşbir Elektrik Sanayi A.Ş.'nin 13 kW 15 kVA su soğutmalı jeneratörü, yüksek performansı ve dayanıklılığıyla dikkat çeken bir güç kaynağıdır. Bu jeneratör,
+TAKTİK SESSİZ KABİNLİ
+JENERATÖRLER 13 kW 15 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 13 kW 15 kVA su soğutmalı jeneratörü, yüksek performansı ve dayanıklılığıyla dikkat çeken bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda güvenilir bir şekilde çalışabilir. Depolama koşulları ise -40°C ile +90°C arasındadır. Cihazın kuru ağırlığı 750 kg olup, boyutları 640 x 1600 x 1600 mm’dir. Ayrıca, 7 metre mesafede 64 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+13 kW (3000N 25°C)
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+90°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+64 dB (7 m)
+Kuru Ağırlık :
+750 kg
+Ölçüler E x B x Y :
+640 x 1600 x 1600 mm
+Termal İzi :
+Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 6.8 lt/h | %50 Güç 3.2 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Asenkron
+Maksimum Gücü :
+25W (3000 m, 25°C)
+Sürekli Gücü :
+20W (3000 m, 25°C)
+İkaz :
+Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] :
+2
+Faz Sayısı :
+1
+Frekans :
+50Hz
+Gerilim :
+220V
+Alternatör Soğutma Sistemi :
+Su Soğutmalı
+Alternatör Devri :
+3000 rpm
+Alternatör Koruma Sınıfı :
+IP54
+İzolasyon Sınıfı :
+H
+Voltaj Stabilitesi :
++-3V (220V)
+Güç Faktörü :
+0,8
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2sn
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (1 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### 2.52 kW 3.15 kVA
+İşbir Elektrik Sanayi A.Ş.'nin 2.52 kW 3.15 kVA portatif dizel jeneratörü, kompakt tasarımı ve yüksek performansıyla dikkat çeken bir güç kaynağıdır. Bu
+PORTATİF DİZEL
+JENERATÖR 2.52 kW 3.15 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 2.52 kW 3.15 kVA portatif dizel jeneratörü, kompakt tasarımı ve yüksek performansıyla dikkat çeken bir güç kaynağıdır. Bu jeneratör, -20°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda güvenilir bir şekilde çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 170 kg olup, boyutları 675 x 625 x 900 mm’dir. Ayrıca, 7 metre mesafede 64 dB gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+2,5 kW (3000N 25°C)
+Çalışma Sıcaklığı :
+-20°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (25°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+64 dB (7 m)
+Kuru Ağırlık :
+170 kg
+Ölçüler E x B x Y :
+675 x 625 x 900 mm
+Termal İzi :
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/18 Saat
+Yakıt Sarfiyatı :
+%100 Güç 1.4 lt/h | %50 Güç 0.82 lt/h
+Alternatör Marka :
+(AVRUPA)
+Tipi :
+Fırçalı/Fırçasız
+Sürekli Gücü :
+4,8 kVA
+Frekans :
+50Hz
+Gerilim :
+220V
+Devri :
+3000 rpm
+Kutup Sayısı :
+2
+Faz Sayısı :
+1
+Güç Faktörü :
+0,8
+Alternatör Koruma Sınıfı :
+IP23
+İzolasyon Sınıfı :
+H
+Uyartım:
+Kendinden Uyarmalı
+Soğutma Sistemi :
+Hava Soğutmalı
+Voltaj Regülatörü :
+AVR
+Voltaj Regülatör Duyarlılığı :
++-%2
+Elektromanyetik Uyumluluk :
+IEC 61000-6-2
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Sprinter P12V875 AGM
+Volt :
+12V
+Amper :
+40 Ah
+Maksimum Amper :
+875 A
+Çalışma Sıcaklığı :
+-20°C / +50°C
+En (mm) :
+198
+Boy (mm) :
+168
+Yükseklik (mm) :
+175
+
+### 20 kW 25 kVA Hava Soğutmalı
+İşbir Elektrik Sanayi A.Ş.'nin 20 kW 25 kVA hava soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu
+TAKTİK SESSİZ KABİNLİ
+JENERATÖR 20 kW 25 kVA Hava Soğutmalı
+İşbir Elektrik Sanayi A.Ş.’nin 20 kW 25 kVA hava soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 1250 kg olup, boyutları 660 x 1900 x 1430 mm’dir. Ayrıca, 7 metre mesafede 62 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+20 kW (3000N 25°C)
+Cos 1 – In/Cos 0.8 – In :
+30,3A/37,8A
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+62 dB (7 m)
+Kuru Ağırlık :
+1250 kg
+Ölçüler E x B x Y :
+660 x 1900 x 1430 mm
+Termal İzi :
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 9.8 lt/h | %50 Güç 5.4 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Asenkron
+Maksimum Gücü :
+32W (3000 m, 25°C)
+Sürekli Gücü :
+25,6W (3000 m, 25°C)
+İkaz :
+Uyartılı
+Polarite [Kutup Sayısı] :
+4
+Faz Sayısı :
+3
+Frekans :
+50Hz
+Gerilim :
+380/220V
+Alternatör Soğutma Sistemi :
+Hava Soğutmalı
+Alternatör Devri :
+1500 rpm
+Alternatör Koruma Sınıfı :
+IP23
+İzolasyon Sınıfı :
+H
+Voltaj Stabilitesi :
++-3V (220V)
+Güç Faktörü :
+0,8
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2sn
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (2 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### 20 kW 25 kVA Su Soğutmalı
+İşbir Elektrik Sanayi A.Ş.'nin 20 kW 25 kVA su soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu
+TAKTİK SESSİZ KABİNLİ
+JENERATÖRLER 20 kW 25 kVA Su Soğutmalı
+İşbir Elektrik Sanayi A.Ş.’nin 20 kW 25 kVA su soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 1000 kg olup, boyutları 660 x 1900 x 1430 mm’dir. Ayrıca, 7 metre mesafede 62 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+20 kW (3000N 25°C)
+Cos 1 – In/Cos 0.8 – In :
+30,3A/37,8A
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+62 dB (7 m)
+Kuru Ağırlık :
+1000 kg
+Ölçüler E x B x Y :
+660 x 1900 x 1430 mm
+Termal İzi :
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 9.8 lt/h | %50 Güç 5.4 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Asenkron
+Maksimum Gücü :
+32W (3000 m, 25°C)
+Sürekli Gücü :
+27W (3000 m, 25°C)
+İkaz :
+Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] :
+2
+Faz Sayısı :
+3
+Frekans :
+50Hz
+Gerilim :
+380/220V
+Alternatör Soğutma Sistemi :
+Su Soğutmalı
+Alternatör Devri :
+3000 rpm
+Alternatör Koruma Sınıfı :
+IP54
+İzolasyon Sınıfı :
+H
+Voltaj Stabilitesi :
++-3V (220V)
+Güç Faktörü :
+0,8
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2sn
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (2 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### 28 Klimatize
+İşbir Elektrik Sanayi A.Ş.'nin 28V Klimatize jeneratörü, zorlu çevre koşullarında güvenilir enerji sağlamak üzere tasarlanmış, entegre klima sistemiyle
+ASKERİ MONBİNE JENERATÖR
+28 Klimatize
+İşbir Elektrik Sanayi A.Ş.’nin 28V Klimatize jeneratörü, zorlu çevre koşullarında güvenilir enerji sağlamak üzere tasarlanmış, entegre klima sistemiyle donatılmış yüksek performanslı bir güç kaynağıdır.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+18 kW (3000m 25°C)
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
+%90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+64 dB (7 m)
+Kuru Ağırlık :
+570 kg
+Ölçüler :
+E x B x Y 960 x 2100 x 780 mm
+Termal İzi :
+Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 6 lt/h / %50 Güç 3.6 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Pençe
+Maksimum Gücü :
+800A (3000 m, 25°C)
+Sürekli Gücü :
+600A (3000 m, 25°C)
+Gerilim :
+28V
+Alternatör Soğutma Sistemi :
+Hava Soğutmalı
+Alternatör Devri :
+1000-4800 rpm
+Alternatör Koruma Sınıfı :
+IP23
+İzolasyon Sınıfı :
+H
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2 sn
+Açma/Kapama Düğmeleri
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler
+Anahtar Hata By Pass (Switch Failre By Pass
+Military Paint Ral 1001 Sand Khaki
+Military Paint Ral 1019 Desert Storm
+Military Paint Ral 6003 Olive Green
+Military Paint Ral 6014 Olive Drap
+Military Paint Ral 6031 Forest Green
+Military Paint Ral 7013 Brown Uniform
+Military Paint Ral 7016 Anthracite
+Military Paint Ral 7038 Grey
+Military Paint Ral 8027 Mud Brown
+Military Paint Ral 9010 Flat White
+Military Paint Ral 9021 Flat Black
+Military Paint Camouflage Design
+Klima Gücü :
+3 kW (3000m 25°C)
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Isıtma :
+17/23°C
+Soğutma :
+17/23°C
+Nem Alma :
+%95/%40
+CE102
+CS114
+CS115
+CS116
+CS118
+RE102
+RS103
+Alçak Basınç Metod500. 4, Pr. II ve Pr. I
+Yüksek Sıcaklık Metod501. 4, Pr. II ve Pr. I
+Düşük Sıcaklık Metod502. 4, Pr. II ve Pr. I
+Yağış Metod506. 4, Pr. I
+Nem Metod507. 4
+Küf Metod508. 5
+Tuz Sisi Metod509. 4
+Kum Toz Metod510. 4, Pr. II ve Pr. I
+Şok Metod514. 5, Pr. I, Mtd.C-VII, Mtd.5C-III
+Sarsıntı Metod516. 5, Fgr.C3
+Buzlanma Metod521. 2, Pr. I
+Güneş Yükü Metod505.5-A2
+
+### 28V 60A / 56V 60A Klimatize
+İşbir Elektrik Sanayi A.Ş.'nin 28V 60A / 56V 60A askeri kombine jeneratörü, zorlu çevre koşullarında güvenilir ve kesintisiz enerji sağlamak üzere tasarlanmış
+ASKERİ MONBİNE JENERATÖR
+28V 60A / 56V 60A Klimatize
+İşbir Elektrik Sanayi A.Ş.’nin 28V 60A / 56V 60A askeri kombine jeneratörü, zorlu çevre koşullarında güvenilir ve kesintisiz enerji sağlamak üzere tasarlanmış yüksek performanslı bir güç kaynağıdır.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+6 kW (3000m 25°C)
+Çalışma Sıcaklığ :
+ı -32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
+%90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+64 dB (7 m)
+Kuru Ağırlık :
+550 kg
+Ölçüler :
+E x B x Y 680 x 1600 x 675 mm
+Termal İzi :
+Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 2 lt/h / %50 Güç 1.3 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Pençe
+Maksimum Gücü :
+80A (3000 m, 25°C)
+Sürekli Gücü :
+60A (3000 m, 25°C)
+Gerilim :
+28V/56V
+Alternatör Soğutma Sistemi :
+Hava Soğutmalı
+Alternatör Devri :
+1000-4800 rpm
+Alternatör Koruma Sınıfı :
+IP23
+İzolasyon Sınıfı :
+H
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2 sn
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (6 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### 30 kW 37.5 kVA Hava Soğutmalı
+İşbir Elektrik Sanayi A.Ş.'nin 30 kW 37.5 kVA hava soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır.
+TAKTİK SESSİZ KABİNLİ
+JENERATÖR 30 kW 37.5 kVA Hava Soğutmalı
+İşbir Elektrik Sanayi A.Ş.’nin 30 kW 37.5 kVA hava soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -30°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 1200 kg olup, boyutları 670 x 2010 x 1470 mm’dir. Ayrıca, 7 metre mesafede 64 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+30 kW (3000N 25°C)
+Çalışma Sıcaklığı :
+-30°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+64 dB (7 m)
+Kuru Ağırlık :
+1200 kg
+Ölçüler E x B x Y :
+670 x 2010 x 1470 mm
+Termal İzi :
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 13.3 lt/h | %50 Güç 7.3 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Asenkron
+Sürekli Gücü :
+42W (3000 m, 25°C)
+İkaz :
+Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] :
+4
+Faz Sayısı :
+3
+Frekans :
+50Hz
+Gerilim :
+380/220V
+Alternatör Soğutma Sistemi :
+Hava Soğutmalı
+Alternatör Devri :
+1500 rpm
+Alternatör Koruma Sınıfı :
+IP23
+İzolasyon Sınıfı :
+H
+Voltaj Stabilitesi :
++-3V (220V)
+Güç Faktörü :
+0,8
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2sn
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (2 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### 30 kW 37.5 kVA Su Soğutmalı
+İşbir Elektrik Sanayi A.Ş.'nin 30 kW 37.5 kVA su soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu
+TAKTİK SESSİZ KABİNLİ
+JENERATÖRLER 30 kW 37.5 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 30 kW 37.5 kVA su soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -30°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 1200 kg olup, boyutları 670 x 2010 x 1470 mm’dir. Ayrıca, 7 metre mesafede 64 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+30 kW (3000N 25°C)
+Çalışma Sıcaklığı :
+-30°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+64 dB (7 m)
+Kuru Ağırlık :
+1200 kg
+Ölçüler E x B x Y :
+670 x 2010 x 1470 mm
+Termal İzi :
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 13.3 lt/h | %50 Güç 7.3 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Asenkron
+Sürekli Gücü :
+42W (3000 m, 25°C)
+İkaz :
+Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] :
+2
+Faz Sayısı :
+3
+Frekans :
+50Hz
+Gerilim :
+380/220V
+Alternatör Soğutma Sistemi :
+Su Soğutmalı
+Alternatör Devri :
+3000 rpm
+Alternatör Koruma Sınıfı :
+IP54
+İzolasyon Sınıfı :
+H
+Voltaj Stabilitesi :
++-3V (220V)
+Güç Faktörü :
+0,8
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2sn
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (2 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### 400 Hz
+İşbir Elektrik Sanayi A.Ş.'nin 400 Hz mobil jeneratörleri, özellikle askeri ve havacılık uygulamaları için tasarlanmış, yüksek frekanslı enerji ihtiyacını
+MOBİL
+JENERATÖR 400 Hz
+İşbir Elektrik Sanayi A.Ş.’nin 400 Hz mobil jeneratörleri, özellikle askeri ve havacılık uygulamaları için tasarlanmış, yüksek frekanslı enerji ihtiyacını karşılayan güvenilir ve dayanıklı güç kaynaklarıdır. Özellikle askeri operasyonlar ve havacılık sektöründe tercih edilen bu sistemler, mobilite ve dayanıklılık açısından üstün özellikler sunar.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Bakım Gerektirmeyen Tip Akü
+7 Gün / 24 Saat Tam Yükte Çalışabilme
+2 Bakım Personelinin Aynı Anda Çalışmasına Uygun Yapı
+Helikopter ile Havadan Taşınabilecek Özellikte
+Yan %20, Dikine %60 Eğimde Hareket Kabiliyetine Sahip
+Tam Yükte 12 Saat Çalışma Kapasiteli Yakıt Tankı
+40/60/80 mt Güç Çıkış Kablosu (Opsiyonel)
+Mobil Enerji Kaynağı Asfalt Yollarda; en az 60 (Altmış) km/saat Hız Kabiliyeti Asfalt Olmayan Stabilize Yollarda; En Az 30 (Otuz) km/saat hız kabiliyeti
+1.1. Alternatör 1 :
+SGB 60/32 400Hz 75 kVA 3 Faz 220 V AC
+1.2. Alternatör 2 :
+SGB 43/4 50Hz 100 kVA 3 Faz 220 V AC
+1.3. Kaplin 1 :
+ME 240
+1.4. Kaplin 2 :
+E 220
+1.5. Araflanş :
+SAE ½-SAE 2
+1.6. Şase :
+3700 mm
+1.7. Akü :
+12V 150 Ah
+1.8. Pano Ölçüleri :
+(600+400)x1000x350 mm
+2.0. Römork :
+Çift Akslı 4750×2000 mm
+3.0. Kabin Ebatları :
+4750x2000x1900 mm
+4.0. Kablo Özellikleri :
+2×40 mt 3×50+25 mm² BLDL 2X40 mt 3×35 + 16 mm² BLDL
+1.1. Alternatör 1 :
+SGB 60/32 400Hz 75 kVA 3 Faz 220 V AC
+1.2. Alternatör 2 :
+SGB 29/4 50Hz 15 kVA 1 Faz 220 V AC
+1.3. Kaplin 1 :
+ME 220
+1.4. Kaplin 2 :
+E 150
+1.5. Araflanş :
+SAE ½-SAE 2
+1.6. Şase :
+3300 mm
+1.7. Akü :
+12V 150 Ah.
+1.8. Pano Ölçüleri :
+(600+400)x1000x350 mm
+2.0. Römork :
+Çift Akslı 4750×2000 mm
+3.0. Kabin Ebatları :
+4750x2000x1900 mm
+4.0. Kablo Özellikleri :
+1×40 mt 3×10 BLDL 1×40 mt 3×35 + 16 mm² BLDL
+1.1. Alternatör 1 :
+SGB 60/32 400Hz 125 kVA 3 Faz 220 V AC
+1.2. Alternatör 2 :
+SGB 29/4 50Hz 15 kVA 1 Faz 220 V AC
+1.3. Kaplin 1 :
+ME 240
+1.4. Kaplin 2 :
+E 150
+1.5. Araflanş :
+SAE ½-SAE 2
+1.6. Şase :
+3700 mm
+1.7. Akü :
+12V 150 Ah.
+1.8. Pano Ölçüleri :
+(600+400)x1000x350 mm
+2.0. Römor :
+k Çift Akslı 4750×2000 mm
+3.0. Kabin Ebatları :
+4750x2000x1900 mm
+4.0. Kablo Özellikleri :
+1×40 mt 3×10 BLDL 1X40 mt 3×70 + 35 mm² BLDL
+1.1. Alternatör 1 :
+SGB 60/32 400Hz 75 kVA 3 Faz 220 V AC
+1.2. Alternatör 2 :
+SGB 29/4 50Hz 15 kVA 1 Faz 220 V AC
+1.3. Kaplin 1 :
+ME 220
+1.4. Kaplin 2 :
+E 150
+1.5. Araflanş :
+SAE ½-SAE 2
+1.6. Şase :
+3700 mm
+1.7. Akü :
+12V 150 Ah.
+1.8. Pano Ölçüleri :
+(600+400)x1000x350 mm
+2.0. Römork :
+Çift Akslı 4750×2000 mm
+3.0. Kabin Ebatları :
+4750x2000x1900 mm
+4.0. Kablo Özellikleri :
+1×40 mt 3×10 BLDL 1X40 mt 3×70 BLDL, 1×40 mt 4×10 BLDL
+5.0. Trafo Özellikleri :
+25 kVA, Giriş 3 Faz 400Hz 220 V AC Çıkış 54 V DC (± 27 V DC)
+Fırçasız/Senkron/Kendinden İkazlı
+110-500V / 50-40Hz / 1-3 Faz / 1.500 Dev/Dak 0.8 Güç Faktörü
+Elektronik Regülasyon
+Voltaj Ayar Poyansiyometresi
+TS 3033/EN 60529/IP 23 Koruma Sınıfı
+Rotoru Dinamik Balanslı
+%15 Max Geçici Gerilim
+%1 Max Kararlı Hal
+%3,5 Max Harmonik Salınım
+TS 3336/EN 60085 H Sınıfı
+Aşırı İkaz Koruması
+27 V DC Çıkış (Opsiyonel)
+32 Kutuplu (400 Hz)
+Tipi :
+SGB 605/4-H
+Frekans :
+400 Hz
+Standartlar :
+ISO 8528/EN 12601/55011
+Koruma Derecesi :
+IP23
+Gerilim :
+127/220 V
+Akımı :
+197/328 Amper
+Yataklar :
+Çift
+Voltaj Regülasyonu :
+± %1
+Geçici Voltaj Değişimi :
+<%18 (Pf:0.8)
+Yükseklik, Sıcaklık :
+<1000m. 40°C
+Isınma Sınırı :
+90°C
+İzolasyon Sınıfı :
+F/H Sınıf
+Uyartım Sistemi :
+Fırçasız
+İkaz Şekli :
+Kendinden İkazlı
+Kısa Devre Kapasitesi :
+2.5 – 4 x In
+Sargı Adımı :
+2/3
+Parazit Bastırma Derecesi :
+VDE0875N
+AVR Modeli :
+ISAVR
+Devir Sayısı :
+1500/1800 Dev/Dak
+Sürekli Güç :
+200 kVA
+Aşırı Güç Yüklenebilme Sınırı :
+2 Dakika Süre ile %150
+Arıza ve Aşırı Yüke Karşı Koruma :
+Var
+Amortisör Sargısı :
+Var
+Gerilim Ayar Sınırı :
+± %10
+Bağlantı Şekli :
+Yıldız Bağlantı
+Güç Faktörü :
+0.8-1
+Elektromanyetik Uyumluluk :
+EN 61000-6-2
+TIF :
+<%50
+THD :
+<%3.5
+THF :
+<%3.5
+STANAG 4101’e Uygun Taşıma Mekanizması
+Karayolları Trafik Tüzüğüne Uygun ve Tescilli
+Şok Emici Yay Sistemi ile Destekli Bağlantı Halkası
+6000 kg Ağırlık Taşıyacak Kapasite Çift Dingilli
+Hareket Esnasında Katlanabilir 1 Adet Taşıma Tekeri
+En Az %40 Eğimli Yolda Römorku Emniyetle Tutabilecek Havalı Fren Sistemi
+En Az %20 Yan Eğimde ve En Az %60 Dikine Eğimde Hareket Kabiliyet
+En Az 80 cm Sert Zeminde Su Geçme Kabiliyeti
+Araca Bağlantı için Taşıma Kolu veya 2 Adet Zincir
+12,5×20 Ebatlarında Tubeless Lastik, 1 Adet Stepne ve Stepne Yeri
+Şok Emici Yay Sistemi
+Dört Tarafına Monteli Teleskopik Ayaklar
+Tam Yükte Çalışma Esnasında Lastik Değişimine İmkan Veren Kriko Sistem
+24 V DC Römork Elektrik Sistemi
+Elle Kumanda Edilen Park Freni
+Park/Fren/Karartma/Arka Boyut Lambaları, Sağ-Sol Dönüş Sinyalleri ile Arka ve Yanlarda Yuvarlak Reflektör
+Özel Yağmur Oluğu
+Kapaklar Lastik Conta ile Dış Hava Koşullarına KarşıKorumalı (IP44)
+Özel Tip Susturucu
+Yağ ve Kum Parçalarına Karşı Koruma
+Paslanmaya ve Korozyana Karşı Koruma
+Römorkun Sağında ve Solunda 1’er Adet Kızaklı Merdiven
+Güç Çıkış Kablolarının Dolanarak SaklanmasınıSağlayan Makara Sistemi
+Kabin İçinde ve Dışında Aydınlatma
+
+### 5 kW 6.25 kVA
+5 kW (6,25 kVA) su soğutmalı jeneratör, enerji ihtiyaçlarını karşılamak için üstün performans ve dayanıklılığı bir araya getirir. Su soğutmalı sistemi,
+TAKTİK SESSİZ KABİNLİ
+JENERATÖR 13 KW/15 KVA
+5 kW (6,25 kVA) su soğutmalı jeneratör, enerji ihtiyaçlarını karşılamak için üstün performans ve dayanıklılığı bir araya getirir. Su soğutmalı sistemi, jeneratörün uzun süreli çalışmalarda bile optimum sıcaklıkta kalmasını sağlar. Bu özellik, cihazın verimliliğini artırırken aşırı ısınma riskini en aza indirir. Sessiz çalışma mekanizması, hem ev kullanımı hem de ticari alanlar için ideal bir çözüm sunar. Güçlü motoru ve sağlam yapısı, zorlu koşullarda dahi kesintisiz enerji sağlar.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+5 kW (3000N 25°C)
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+56 dB (7 m)
+Kuru Ağırlık :
+650 kg
+Ölçüler E x B x Y :
+620 x 1120 x 1120 mm
+Termal İzi :
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Sarfiyatı :
+%100 Güç 2.3 lt/h | %50 Güç 1.6 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Asenkron
+Sürekli Gücü :
+11kW (3000 m, 25°C)
+İkaz :
+Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] :
+2
+Faz Sayısı :
+1
+Frekans :
+50Hz
+Gerilim :
+220V
+Alternatör Soğutma Sistemi :
+Su Soğutmalı
+Alternatör Devri :
+3000 rpm
+Alternatör Koruma Sınıfı :
+IP54
+İzolasyon Sınıfı :
+H
+Voltaj Stabilitesi :
++-3V (220V)
+Güç Faktörü :
+0,8
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2sn
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (1 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### 50 Hz DUAL
+İşbir Elektrik Sanayi A.Ş.'nin 50 Hz Dual mobil jeneratörleri, çift jeneratör setiyle kesintisiz ve güvenilir enerji sağlayan, özellikle askeri ve endüstriyel
+MOBİL
+JENERATÖRLER 50 Hz DUAL
+İşbir Elektrik Sanayi A.Ş.’nin 50 Hz Dual mobil jeneratörleri, çift jeneratör setiyle kesintisiz ve güvenilir enerji sağlayan, özellikle askeri ve endüstriyel uygulamalar için tasarlanmış mobil enerji kaynaklarıdır. Bu sistemler, 2×15 kVA’dan 2×70 kVA’ya kadar farklı güç seçenekleri sunar ve 7 gün 24 saat tam yükte çalışabilme kapasitesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+2×15 kVA / 2×70 kVA (2x Talep Edilen Güç) Mobil Dual Enerji Kaynağı
+7 Gün / 24 Saat Tam Yükte Çalışabilme
+Uzaktan Kontrol Edilebilme Kabiliyeti
+Asfalt Yollarda en az 60km/saat, Asfalt Olmayan Stabilize Yollarda en az 30km/saat Hız Kabiliyeti
+Yan %20, Dik %60 Eğimde Hareket Kabiliyeti
+Helikopter ile Havadan Taşınabilme Kabiliyeti
+2 Bakım Personelinin Aynı Anda Çalışmasına Uygun Yapı
+Tüm Yükte 24 saatlik Ortak Yakıt Tankı
+Kolay Çalıştırma için İki Farklı Isıtma Sistemi
+Senkron Çalışma
+TS 3033, EN 60523, IP52 Standardında Kontrol Sistemi
+DIN VDE 530, N VDE 0875 Radyo Frekans Bastırma Elektrik, Radyo Frekansı, Radyasyon ve Darbelere Karşı Koruma
+Uyarı Sinyalleri ve Sistemleri
+Kendinden Soğutuculu Akü Şark Redresörü
+Acil Durdurma Butonu
+Güç kesintisi olmaksızın, bir set çalışırken, ikinci setin bakımının yapabilme imkanı
+Sadece kontrol ünitesi kullanarek, meydana gelebilecek arızaların en az %90’ını teşhis edebilme imkanı
+İki Farklı Ön Isıtma Sistemi
+Şehir Şebekesinden Beslenme İmkanı
+Aşırı Şarjı Önleyen Elektronik Koruma
+Fırçasız, Senkron, Kendinden İkazlı
+230V, 50 Hz, 1500 devir/dakika, 0,8 Güç Faktörü
+Elektronik Regülasyon
+Voltaj Ayar Potansiyometresi
+TS 3033, EN 60529, IP 23 Koruma Sınıfı
+Rotoru Dinamik Balanslı
+%15 Maksimum Geçici Gerilim
+%1 Maksimum Kararlı Hal
+%3,5 Maksimum Harmonik Salınım
+TS 3336, EN 60085, H sınıfı izolasyon
+Aşırı İkaz Koruması
+Frekans/Voltaj/Akım/İşletme Zaman/Aşırı Yük/Yağ Sıcaklığı/Yağ Basıncı/Yakıt Seviyesi/Akü Bakımı/Çıkış Gücü/Çıkış Voltajı/Çıkış Akımı
+Aşırı-Düşük Frekans/Aşırı-Düşük Voltaj/Aşırı-Düşük DC Voltaj/Aşırı Akım/Aşırı Sıcaklık/Düşük Basınç/Şarj Arızası/Start Arızası/Bakım Zamanı/vb.
+1 adet şebeke girişi
+2 adet yük çıkışı
+1 adet uzak komuta girişi
+STANAG 4101’e Uygun Taşıma Mekanizması
+Şok Emici Yay Sistemi ile Destekli Bağlantı Halkası
+Hareket Esnasında Katlanabilir 1 Adet Taşıma Tekeri
+En Az %40 Eğimli Yolda Römorku Emniyetle Tutabilecek Fren Sistemi
+Araca Bağlantı için Taşıma Kolu veya 2 Adet Zincir
+12,5 x 20 Ebatlarında Tubeless Lastik, 1 Adet Stepne ve Stepne Yeri
+Şok Emici Yay Sistemi
+Arka Tarafa Monteli Teleskopik Ayaklar
+Amortisörler Yardımıyla Açılan Kabin Yan Kapakları
+Çevre Sıcaklığına Bağlı Olarak Açılıp Kapanabilen Otomatik Termostat Kontrollü Jaluzi Sistemi
+Tam Yükte Çalışma Esnasında Lastik Değişimine İmkan Veren Kriko Sistemi
+24 V Dc Römork Elektrik Sistemi
+Park/Fern/Karartma/Arka Boyut Lambaları, Sağ-Sol Dönüş Sinyalleri İle Arka ve Yanlarda Toplam 6 Adet Yuvarlak Reflektör
+Özel Yağmur Oluğu
+Kapaklar Lastik Conta İle Dış Hava Koşullarına Karşı Korumalı
+Özel Tip Susturucu
+En Az 80 Cm Sert Zeminde Su Geçme Kabiliyeti
+Yağ ve Yakıt İkmali Uygun Tasarım
+Toz ve Kum Parçalarına Karşı Koruma
+Paslanmaya ve Korozyona Karşı Koruma
+Infrared Boya
+(-) 40°C ile (+) 55°C Sıcaklık Arasında
+(+) 40°C Sıcaklıkta En Az %90 Bağıl Nem Oranında
+3000 metre yükseklikte güç kaybı olmadan çalışabilme
+İşbir Mobil Dual Dizel Jeneratörleri akredite olmuş laboratuvar ortamında şartlandırılmış çevre koşullarındaki performans testlerinden başarıyla geçmiştir.
+1. Manuel
+2 .Otomatik
+a. Öncelikli Jeneratör Setinde Arıza Oluşması Durumunda Yedek Jeneratör Devreye Girer ve Yükü Otomatik Olarak Üzerine Alırb. Ayarlanan Çalışma Süresi Sonunda Sistemi Besleyen Jeneratör Yedek Jeneratör ile Senkrona Girer ve Yedek Jeneratör yükü üzerine alır.
+3. Test (Yükte/Yüksüz)
+Güç Dağıtım Panosu
+Şebeke Dağıtım Kutusu
+Bakım Gerektirmeyen Jel Akü
+Makaraya Sarılı Her İki Ucu Konnektörlü 50 Metre Güç Kablosu (Hd 21 Ve Hd 22 Uyumlu)
+TS 862-7 En 3-7’ye Uygun Tip Yangın Söndürücü (2 Kg)
+10 Metre Uzatma Kablolu Seyyar Lamba
+Manuel ve Elektrikli Yakıt İkmal Pompas
+Yedek Parça (Hava-Yağ-Yakıt Filtre Seti)
+Takoz (2 adet)
+Bakım ve Tamir Set
+
+### Alternatör
+Farklı devirde çalışarak güç üretebilecek, farklı kutup sayılarına sahip alternatör çalışmaları,
+İŞBİR Elektrik Sanayi A.Ş. Alternatör Bilgileri;
+Farklı devirde çalışarak güç üretebilecek, farklı kutup sayılarına sahip alternatör çalışmaları,
+EMC /EMI ve Çevre koşulları açısından Military standartlarını karşılayabilecek alternatörlerin geliştirilmesi,
+Standart alternatörlere göre daha kompakt, verimi yüksek ve zor şartlar altında çalışabilecek alternatörlerin üretimi ile ilgili AR-GE çalışmaları devam etmektedir.
+
+### ARGE
+Hava, deniz ve kara sistemleri için her sektörde yenilikçi çözümler geliştirme misyonuyla, araştırma ve geliştirme süreçlerimize büyük önem veriyoruz. Ar-Ge
+Araştırma ve Geliştirme (Ar-Ge)
+Hava, deniz ve kara sistemleri için her sektörde yenilikçi çözümler geliştirme misyonuyla, araştırma ve geliştirme süreçlerimize büyük önem veriyoruz. Ar-Ge departmanımız, en son teknolojileri ve mühendislik yaklaşımlarını kullanarak, yüksek performanslı jeneratör sistemleri tasarlamakta ve üretmektedir. Sektördeki ihtiyaçlara en hızlı ve etkili şekilde yanıt verebilmek için sürekli olarak yeni ürünler ve çözümler üzerinde çalışıyoruz.
+
+### Arıza Destek
+Jeneratörün çalışmaması (Başlama arızası vermesi) Yakıt durumunu kontrol ediniz. Aküyü kontrol ediniz. Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz. Yağ
+Genel Arıza Nedenleri;
+ARIZA NEDENİ
+ÇÖZÜM
+Jeneratörün çalışmaması (Başlama arızası vermesi)
+Yakıt durumunu kontrol ediniz.
+Aküyü kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Yağ basınç arızası
+Motor yağını kontrol ediniz.
+Yağ basınç müşürini kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Hararet arızası
+Motor soğutma suyunu kontrol ediniz
+Hararet müşirini kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Şarj dinoma arızası
+Şarj dinomasını kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Jeneratör voltajı düşük arızası
+Voltajın nominal değerler arasında olduğunu ölçünüz.
+(Faz.Faz=400 Volt,Faz.Nötr = 231 Volt)
+Voltaj regülatörünü kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Jeneratör hız arızası
+Motor devrini kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Batarya arızası
+Akü gerilimini kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
 
 ### Askeri Jeneratörler
-İsbir Elektrik askeri standartlarda jeneratör üretimi yapmaktadır.
+Taktik Sessiz Kabinli Jeneratör
+Detaylı İncele
 
-Taktik Sessiz Kabinli Jeneratörler:
-- Güç aralığı: 5kW, 10kW, 13kW, 20kW, 30kW
-- Ses seviyesi: 56-64 dB
-- Su soğutmalı ve hava soğutmalı modeller
-- MIL-STD standartlarına uygun
-- Zorlu arazi şartlarında çalışabilir
+### Bakım
+Jeneratör ün devreye alınması ile kullanma kılavuzlarında belirtilen Periyodik Bakım esaslarına göre Elektrojen Grubu nun kontrolleri aşağıda “Günlük ve
+Periyodik Bakım
+Jeneratör ün devreye alınması ile kullanma kılavuzlarında belirtilen Periyodik Bakım esaslarına göre Elektrojen Grubu nun kontrolleri aşağıda “Günlük ve Periyodik Bakım Talimatı”nda belirtilen usullere göre kontrolleri ve bakımların yapılması gerekmektedir. Bu kontrollerin yapılma zorunluluğu, Elektrojen Grubu nun (jeneratörün) çalışma süresi ve sıklığı ile doğru orantılıdır.
+Dolayısı ile Elektrojen Grubu (jeneratörün) sorunsuz ve verimli bir şekilde hizmet sunabilmesi için, arızaların en kısa sürede giderilmesi ve mümkünse arızaların oluşumunun engellenmesi için günlük ve periyodik bakımın aksaksız yapılmalı veya yaptırılmalıdır.
+Bakım talep edilen Elektrojen Grupları (jeneratörler) için aşağıda belirtilen bilgilerin jeneratör üzerinden alınarak Hizmetler linki altında bulunan “Arıza Destek” bölümünün detaylar bölümüne veya S.S.H. sorumlusuna sözlü olarak bildirilmesi gerekmektedir.
+İhtiyaç Duyulan Bilgiler;
+Jeneratör/Motor/Alternatör-Marka-Model
+Jeneratör/Motor/Alternatör-Seri No
+Kumanda Sistemi
+Transfer Sistemi
+Çalışma Saati
+Jeneratörün Son Durumu- arızası veya eksik aksam, bakım durumu
+Firma Bilgileri (Adres/Tel)
+Yetkili ve Kullanıcı (Adı Soyadı/ Telefon)
+İŞBİR Elektrik Sanayii A.Ş.’nin üretmiş olduğu ürünlerin Türk Silahlı Kuvvetleri ihtiyaçlarını karşılamasının yanı sıra Sivil Naklen Yayın Araçlarında, Mobil Hizmet Araçlarında ve Yatlarda da kullanılabilir özelliktedir.
+İŞBİR Elektrik Sanayii A.Ş.’nin öncelikle yerli malı kullanarak (%75/80) üretmiş olduğu;; Alternatör, Pano, Fan, Radyatör, Kabin ve birçok malzemesi yerli malı kullanılarak üretilen Taktik Sessiz Jeneratör ile ülkemize katma değer oluşturarak Türk Savunma Sanayisine ve Ülke Ekonomisine büyük destek sağlamayı hedeflemektedir.
+İŞBİR; geliştirilen özgün ürünler ve yürütülen modernizasyon projelerinin yanı sıra, AR-GE merkezi bünyesinde, yoğun bilgi birikimi ve tecrübeli uzman mühendis kadrosu ile hali hazırda, ürün geliştirme, araştırma ve teknoloji geliştirme, süreç yeniliği ve kavram çalışmaları olmak üzere geniş bir çeşitlilik ile projeler yürütmeye devam ediyor. Bu projelerin tamamlanmalarına müteakip, İŞBİR birçok ilke daha imza atmaya devam edecektir.
+Günlük ve Periyodik Bakım Talimatı PDF
 
-Askeri Kombine Jeneratörler:
-- 28V/56V DC çıkışlı
-- Klimatize kabinli modeller
-- Elektromanyetik uyumlu
+### Çok Amaçlı Afet Jeneratörü
+İşbir Elektrik’in Çok Amaçlı Afet Jeneratörü, acil durumlarda güvenilir enerji ve aydınlatma sağlayarak afet bölgeleri, saha operasyonları ve kritik
+Yaşamla Kesintisiz İşbirliği!
+Çok Amaçlı Afet Jeneratörü
+İşbir Elektrik’in
+Çok Amaçlı Afet Jeneratörü
+,
+acil durumlarda güvenilir enerji ve aydınlatma
+sağlayarak
+afet bölgeleri, saha operasyonları ve kritik altyapılar için hayati bir çözüm sunar
+.
+Yüksek performansı, taşınabilir yapısı ve geniş aydınlatma kapasitesiyle
+, kriz anlarında
+kesintisiz güç
+ve
+yüksek lümen ışık kaynağı
+ile destek sağlar.
+Jeneratör Modelleri
+E-Kataloğu İncele
+JENERATÖR MODELLERİ
+JENERATÖR MODELLERİ
+MODEL
+PRIME KVA
+STANDBY KVA
+DEVİR RPM
+FREKANS
+MOTOR
+ALTERNATÖR
+RLG10V1.0
+10
+11
+1500
+50 Hz
+RICARDO
+ISBECO10
+RLG20V1.0
+20
+22
+1500
+50 Hz
+RICARDO
+ISBECO20
+RLG30V1.0
+30
+33
+1500
+50 Hz
+RICARDO
+ISBECO30
+RLG40V1.0
+40
+44
+1500
+50 Hz
+RICARDO
+ISBECO40
+RLG50V1.0
+50
+55
+1500
+50 Hz
+RICARDO
+ISBECO50
 
-Askeri Tip Güç Konteyneri:
-- 2x250 kVA Dual sistem
-- Senkronize çalışma
-- 7/24 kesintisiz enerji
-- Elektromanyetik uyumlu tasarım
+### demo
+Sürdürülebilir Hizmet
+Sürdürülebilir Hizmet
+Hizmetlerimiz
+İşiniz için Dünya Standartlarında Çözümler
 
-### Mobil Jeneratörler
-Römorklı mobil jeneratörlerimiz askeri standartlara uygundur.
-Çift akslı taşıma sistemi
-Helikopter ile taşınabilir modeller
-50Hz Dual modeller ve 400Hz modeller mevcut
-Hızlı konuşlandırma özelliği
+### Eco Jeneratörler
+İşbir Elektrik’in ECO Jeneratör Setleri, düşük yakıt tüketimi, yüksek verimlilik ve uzun ömürlü kullanım avantajlarıyla öne çıkan yenilikçi enerji
+Güçlü performans, Uygun Fiyatlı Çözüm
+ECO JENERATÖR SETLERİ
+İşbir Elektrik’in
+ECO Jeneratör Setleri
+,
+düşük yakıt tüketimi, yüksek verimlilik ve uzun ömürlü kullanım
+avantajlarıyla öne çıkan yenilikçi enerji çözümleridir.
+Ekonomik, stabil ve dayanıklı
+yapısıyla endüstriyel, ticari ve savunma sanayii gibi birçok farklı sektörde
+kesintisiz güç kaynağı
+sunar.
+Jeneratör Setleri
+E-Kataloğu İncele
+ECO JENERATÖR SETLERİ
+ECO JENERATÖR SETLERİ
+MODEL
+PRIME KVA
+STANDBY KVA
+DEVİR RPM
+FREKANS
+MOTOR
+ALTERNATÖR
+ECO20RIC_V1.0
+20
+22
+1500
+50 Hz
+RICARDO
+ISBECO20
+ECO30RIC_V1.0
+30
+33
+1500
+50 Hz
+RICARDO
+ISBECO30
+ECO40RIC_V1.0
+40
+44
+1500
+50 Hz
+RICARDO
+ISBECO40
+ECO50RIC_V1.0
+50
+55
+1500
+50 Hz
+RICARDO
+ISBECO50
+ECO60RIC_V1.0
+60
+66
+1500
+50 Hz
+RICARDO
+ISBECO60
+ECO75RIC_V1.0
+75
+82
+1500
+50 Hz
+RICARDO
+ISBECO75
+ECO100RIC_V1.0
+100
+110
+1500
+50 Hz
+RICARDO
+ISBECO100
+ECO150RIC_V1.0
+150
+165
+1500
+50 Hz
+RICARDO
+ISBECO150
+ECO200RIC_V1.0
+200
+220
+1500
+50 Hz
+RICARDO
+ISBECO200
+ECO250RIC_V1.0
+250
+275
+1500
+50 Hz
+RICARDO
+ISBECO250
+ECO300RIC_V1.0
+300
+330
+1500
+50 Hz
+RICARDO
+ISBECO300
+ECO40WEI_V1.0
+40
+44
+1500
+50 Hz
+WEICHAI
+ISBECO40
+ECO50WEI_V1.0
+50
+55
+1500
+50 Hz
+WEICHAI
+ISBECO50
+ECO75WEI_V1.0
+75
+82
+1500
+50 Hz
+WEICHAI
+ISBECO75
+ECO150WEI_V1.0
+150
+165
+1500
+50 Hz
+WEICHAI
+ISBECO150
+ECO250WEI_V1.0
+250
+275
+1500
+50 Hz
+WEICHAI
+ISBECO250
+ECO300WEI_V1.0
+300
+330
+1500
+50 Hz
+WEICHAI
+ISBECO300
 
-### Pro Jeneratörler
-13 kVA ile 2000 kVA arası geniş güç aralığı
-Motor seçenekleri: Perkins, Baudouin, Volvo, FPT
-Profesyonel ve endüstriyel kullanım için ideal
-Yüksek performans ve dayanıklılık
-Geniş model yelpazesi
+### Elektromanyetik Uyumlu Senkronize Konteyner
+İşbir Elektrik Sanayi A.Ş.'nin Elektromanyetik Uyumlu Senkronize Konteyneri, özellikle askeri uygulamalar için tasarlanmış, yüksek elektromanyetik uyumluluk
+ASKERİ GÜÇ KONTEYNERİ
+Elektromanyetik Uyumlu Senkronize Konteyner
+İşbir Elektrik Sanayi A.Ş.’nin Elektromanyetik Uyumlu Senkronize Konteyneri, özellikle askeri uygulamalar için tasarlanmış, yüksek elektromanyetik uyumluluk ve senkronizasyon kabiliyetine sahip mobil bir enerji çözümüdür. Bu sistem, zorlu çevre koşullarında güvenilir ve kesintisiz enerji sağlamak üzere geliştirilmiştir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+2 x 250 kVA (2 x Talep Edilen Güç) Mobil Dual Enerji Kaynağı
+7 Gün / 24 Saat Tam Yükte Çalışabilme
+2 Bakım Personelinin Aynı Anda Çalışmasına Uygun Yapı
+Yan %24, Dikine %18 Eğimde Çalıştırabilme
+Harici Yakıt İkmal Kabiliyeti
+Tam Yükte 48 Saat Çalışma Kapasiteli Yakıt Tankı
+50/100/200 mt Güç Çıkış Kablosu (Opsiyonel)
+Kolay Çalıştırma için İki Farklı Isıtma Sistemi
+Uzaktan Kontrol Edilebilme Kabiliyeti
+Bakım Gerektirmeyen Tip Akü
+(-) 40°C ile (+) 55°C Sıcaklık Arasında
+(+) 40°C Sıcaklıkta En Az %90 Bağıl Nem Oranında
+3000 metre yükseklikte güç kaybı olmadan çalışabilme
+İşbir Mobil Dual Dizel Jeneratörleri akredite olmuş laboratuvar ortamında şartlandırılmış çevre koşullarındaki performans testlerinden başarıyla geçmiştir.
+Sürekli Çıkış Gücü :
+2×250 kVA(3000 m 25°C)
+Güç Faktörü :
+0.8-1
+Çıkış Voltajı :
+380/220V
+Frekans :
+50Hz
+Çalışma Devri :
+1500 rpm
+Ağırlık :
+17.500 kg
+Yakıt Tankı Kapasitesi :
+2 x 360 lt
+Yakıt Tipi :
+Dizel
+Voltaj Regülasyonu :
+< 4 %
+Voltaj Stabilitesi :
+< 4 %
+Voltaj THD :
+< 15 %
+Frekans Regülasyonu :
+< 4 %
+Frekans Regülasyonu :
+< 4 %
+Soğutma Sistemi :
+Su Soğutmalı
+Çalıştırma Sistemi :
+Elektrik Startlı(Ops. Hava Startlı)
+1. Manuel
+2 .Otomatik
+a. Öncelikli Jeneratör Setinde Arıza Oluşması Durumunda Yedek Jeneratör Devreye Girer ve Yükü Otomatik Olarak Üzerine Alır
+b. Ayarlanan Çalışma Süresi Sonunda Sistemi Besleyen Jeneratör Yedek Jeneratör ile Senkrona Girer ve Yedek Jeneratör yükü üzerine alır.
+3. Test (Yükte/Yüksüz
+TS ISO 668 Standartına Uygun Konteyner
+TS ISO 1161 Standartına Uygun Bağlantı Parçaları
+AL 5754 Alüminyum Karkas Yapı
+4 Adet Ağır Bakım Kapısı
+1 Adet Personel Kullanım Kapısı
+Pasif/Aktif Yangın Algılama ve Söndürme
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Özel Yağmur Oluğu
+Kapaklar Lastik Conta İle Dış Hava Koşullarına Karşı Korumalı
+Özel Tip Susturucu
+Yağ ve Yakıt İkmali Uygun Tasarım
+Toz ve Kum Parçalarına Karşı Koruma
+Paslanmaya ve Korozyona Karşı Koruma
+Infrared Boya
+Şok Emici Yay Sistemi
+Amortisörler Yardımıyla Açılan Kabin Yan Kapakları
+Fırçasız, Senkron, Kendinden İkazlı
+230 V, 50 Hz, 1500 devir/dakika, 0.8 Güç Faktörü
+Elektronik Regülasyon
+Voltaj Ayar Potansiyometresi
+TS 3033, EN 60529, IP 23 Koruma Sınıfı
+Rotoru Dinamik Balanslı
+%15 Maksimum Geçici Gerilim
+%1 Maksimum Kararlı Hal
+%3,5 Maksimum Harmonik Salınım
+TS 3336, EN 60085, H sınıfı izolasyon
+Aşırı İkaz Koruması
+CE102
+CS114
+CS115
+CS116
+CS118
+RE102
+RS103
+Alçak Basınç :
+Metod500. 4, Pr. II ve Pr. I
+Yüksek Sıcaklık :
+Metod501. 4, Pr. II ve Pr. I
+Düşük Sıcaklık :
+Metod502. 4, Pr. II ve Pr. I
+Yağış :
+Metod506. 4, Pr. I
+Nem :
+Metod507. 4
+Küf :
+Metod508. 5
+Tuz Sisi :
+Metod509. 4
+Kum Toz :
+Metod510. 4, Pr. II ve Pr. I
+Şok :
+Metod514. 5, Pr. I, Mtd.C-VII, Mtd.5C-III
+Sarsıntı :
+Metod516. 5, Fgr.C3
+Buzlanma :
+Metod521. 2, Pr. I
+Güneş Yükü :
+Metod505.5-A2
+Senkron çalışma
+TS 3033, EN 60523, IP52 Standardında Kontrol Sistemi
+DIN VDE 530, N VDE 0875 Radyo Frekans BastırmaElektrik, Radyo Frekansı, Radyasyon ve Darbelere karşı Koruma
+Uyarı Sinyalleri ve Sistemleri
+Kendinden Soğutuculu Akü Şarj Redresörü
+Acil Durdurma Butonu
+Güç kesintici olmaksızın, bir set çalışırken, ikinci setin bakımının yapabilme imkanı
+Sadece kontrol ünitesi kullanarak, meydana gelebilecek arızaların en az %90’ını teşhis edebilme imkanı
+İki Farklı Ön Isıtma Sistemi
+Şehir Şebekesinden Beslenme İmkanı
+Aşırı Şarjı Önleyen Elektronik Koruma
+Frekans/Voltaj/Akım/İşletme Zaman/Aşırı Yük/Yağ Sıcaklığı/Yağ Basıncı/Yakıt Seviyesi/Akü Akımı/Çıkış Gücü/Çıkış Voltajı/Çıkış Akımı
+Aşırı-Düşük Frekans/Aşırı- Düşük Voltaj/Aşırı-Düşük DC Voltaj/Aşırı Akım/Aşırı Sıcaklık/Düşük Basınç/Şarj Arızası/Start Arızası/Bakım Zamanı/vb.
+4 adet şebeke girişi
+4 adet yük çıkışı
+1 adet uzak komuta girişi
+1 adet ethernet girişi
+1 adet fiber optik girişi
+2 adet DC girişi
+Güç Dağırım Panosu
+Şebeke Dağıtım Kutusu
+Bakım Gerektirmeyen Jel Akü
+Makaraya Sarılı Her İki Ucu Konnektörlü 50 Metre Güç Kablosu (Hd 21 Ve Hd 22 Uyumlu)
+TS 862-7 En 3-7’Ye Uygun Tip Yangın Söndürücü (2 Kg)
+10 Metre Uzatma Kablolu Seyyar Lamba
+Manuel ve Elektrikli Yakıt İkmal Pompası
+Yedek Parça (Hava-Yağ-Yakıt Filtre Seti)
+Bakım ve Tamir Set
 
-### Eco Jeneratörler ECO Serisi
-Güç aralığı: 20-300 kVA
-Motor seçenekleri: Ricardo motorlu ve Weichai motorlu modeller
-Özellikler: Düşük yakıt tüketimi, yüksek verimlilik, çevre dostu
-Ekonomik işletme maliyeti
-Uzun ömürlü motor teknolojisi
+### Etik İlkeler
+Çalışanlar aile fertleri ile, dostlarıyla veya ilişkide bulunulan diğer üçüncü şahıslarla hiçbir surette karşılıklı veya karşılıksız menfaat ilişkisinde
+Etik İlkelerimiz
+Çalışanlar aile fertleri ile, dostlarıyla veya ilişkide bulunulan diğer üçüncü şahıslarla hiçbir surette karşılıklı veya karşılıksız menfaat ilişkisinde bulunmamalıdırlar.
+Herhangi bir nedenle işten ayrılan, kritik görevlerde bulunan personel (genel müdür, müdürler, satış ve pazarlama elemanları, vb.) Aynı sektörde görev almamalıdırlar.
+Tüm faaliyet ve işlemlerde her türlü kamu kurum ve kuruluşu, idari oluşum, sivil toplum örgütü ve siyasi partilere herhangi bir menfaat beklentisi olmaksızın eşit mesafede yer alarak ve bu sorumluluk bilinci ile yükümlülükler yerine getirilmelidir.
+Aidiyet bilincinin oluşturularak, tüm personel şirketi adına her türlü fedakarlığı yapabilecek seviyeye getirilmelidir.
+Çalışanların güvenli, sağlıklı, huzurlu ve iş koşullarına uygun ortamlarda görev yapmaları sağlanmalıdır.
+Müşteri ilişkilerinde dürüst, samimi, adil davranarak kaliteli ve üst düzeyde hizmet sunulmalıdır.
+Gizlilik kurallarına riayet ederek şirket sırları saklanmalıdır.
+Her tür harcamalarda özen gösterilerek tasarruf dikkate alınmalıdır.
+Sektörde yer alan diğer firmalar ile iyi ilişkilerde bulunulmalı ve etik davranılmalıdır.
+Şirket aleyhine haberler çıkarılmamalı ve aleyhte konuşulmamalıdır.
+Tedarikçilere eşit davranılmalıdır.
+Çevrenin ve doğal hayatın korunması, tüketici hakları ve kamu sağlığı konularında duyarlı olunmalıdır.
+Tüm işbir çalışanlarınca bilim ve bilimsel yöntemler rehber edinilmelidir.
+Değişim, gelişim ve eleştirilere açık olunmalıdır.
+
+### Garanti
+İŞBİR ELEKTRİK SANAYİİ A.Ş. ; yurt geneline yayılmış ve Türkiye’nin tüm bölgelerinde bulunan “Yetkili Servisleri” ile Satış Sonrası Hizmetleri müşterilerine
+Garanti Bilgileri;
+İŞBİR ELEKTRİK SANAYİİ A.Ş. ; yurt geneline yayılmış ve Türkiye’nin tüm bölgelerinde bulunan “Yetkili Servisleri” ile Satış Sonrası Hizmetleri müşterilerine sunmaktadır.
+Ana felsefemiz, öncelikle arızanın giderilmesi ve EG gruplarının faal halde tutulmasıdır. İŞBİR tarafından üretilen ürünler, sevk tarihinden itibaren Yurtiçinde 2 yıl veya 1500 saat İŞBİR Elektrik A.Ş. garantisi altındadır. Yurtdışında ise yetkili servis ek giderleri karşılandığı takdirde (Ulaşım, konaklama, işçilik, tercüme hizmetleri, vb.) servis hizmeti verilmektedir.
+Kullanım hatasından veya yanlış malzeme kullanımından ortaya çıkan arızalar hasarlar ile iklim şartlarına bağlı oluşan arızalar ve hasarlar (Şebeke Dalgalanması, Yıldırım Düşmesi, Doğal Afetler, vb.) garanti kapsamı dışındadır.
+Ayrıca Garanti süresi içerisinde ürünlerin periyodik bakım ve onarımlarının İşbir Elektrik Sanayii A.Ş.’nin “Yetkili Servisleri” tarafından yapılması zorunludur. İşbir Elektrik ürünlerine ait Garanti Esas ve Şartlarına aşağıdaki linkten ulaşabilirsiniz.
+PDF Görüntüle
+
+### Genel Arıza Nedenleri
+Jeneratörün çalışmaması (Başlama arızası vermesi) Yakıt durumunu kontrol ediniz. Aküyü kontrol ediniz. Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz. Yağ
+İŞBİR Elektrik Sanayi A.Ş. Genel Arıza Nedenleri;
+ARIZA NEDENİ
+ÇÖZÜM
+Jeneratörün çalışmaması (Başlama arızası vermesi)
+Yakıt durumunu kontrol ediniz.
+Aküyü kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Yağ basınç arızası
+Motor yağını kontrol ediniz.
+Yağ basınç müşürini kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Hararet arızası
+Motor soğutma suyunu kontrol ediniz
+Hararet müşirini kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Şarj dinoma arızası
+Şarj dinomasını kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Jeneratör voltajı düşük arızası
+Voltajın nominal değerler arasında olduğunu ölçünüz.
+(Faz.Faz=400 Volt,Faz.Nötr = 231 Volt)
+Voltaj regülatörünü kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Jeneratör hız arızası
+Motor devrini kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+Batarya arızası
+Akü gerilimini kontrol ediniz.
+Bunlar dışında ise İŞBİR SSH ile irtibata geçiniz.
+
+### Hakkımızda
+Enerji ihtiyacınız, çalışma ortamınız, kullanım süreniz ve özel gereksinimleriniz doğrultusunda, su veya hava soğutmalı, mobil, marin, 400 Hz uçak yer destek
+İŞBİR Elektrik Sanayi A.Ş. Mühendisleri ve Teknisyenleri tarafından özel olarak tasarlanan ve üretilen pano, alternatör ve dual setler sahada başarılara imza atarak kendini kanıtlamıştır.
+Endüstriyel, Marin ve Savunma Sanayi için gerçekleştirilen bir çok özel proje kapsamında Sessiz / Mobil / Senkronize / Dual / Yedekli / 50/60Hz / 400Hz / Askeri Kombine / Askeri Portatif; enerji kaynakları, İŞBİR Elektrik Sanayi A.Ş. tarafından üretilmektedir.
+3 TEMEL ADIM
+Neden Bizi Seçmelisiniz?
+İhtiyaç Analizi ve Ürün Seçimi
+Enerji ihtiyacınız, çalışma ortamınız, kullanım süreniz ve özel gereksinimleriniz
+doğrultusunda,
+su veya hava soğutmalı, mobil, marin, 400 Hz uçak yer destek jeneratörleri gibi farklı çözümler
+arasından en uygun modeli seçmenize yardımcı oluyoruz.
+Teklif Alma ve Satın Alma Süreci
+Seçtiğiniz jeneratör veya alternatör modeli için
+teknik detaylar ve fiyat teklifleri
+tarafınıza sunulur. İhtiyacınıza göre
+standart modellerimizden seçim yapabilir veya özel tasarım bir enerji çözümü talep edebilirsiniz
+.
+Teslimat ve Teknik Destek
+Sipariş onaylandıktan sonra,
+jeneratör veya alternatörünüz belirtilen süre içinde teslim edilir
+. İşbir Elektrik olarak,
+kurulum ve devreye alma hizmetleriyle
+sisteminizin tam verimli çalışmasını sağlıyoruz.
+İşbir Elektrik ile Tanışın
+Türkiye’nin Öncü Jeneratör ve Alternatör Üreticisi
+Enerji çözümlerinde 46 yıllık tecrübemiz, 600’den fazla mutlu müşterimiz ve 10.000’den fazla başarılı projeyle güvenilir bir iş ortağı olmaya devam ediyoruz. Savunma sanayi, endüstri, denizcilik ve havacılık sektörlerine özel çözümlerimizle kesintisiz güç sağlıyoruz.
+0
++
+Yıllık Deneyim
+0
++
+Mutlu Müşteri
+0
++
+Başarılı Proje
+0
++
+Uzman Mühendis
+
+### Hesabım
+Giriş Yap
+Kullanıcı adı veya e-posta adresi
+*
+Gerekli
+Parola
+*
+Gerekli
+Beni hatırla
+Forgot Password?
+Giriş Yap
+
+### Hibrit Jeneratörler
+MODEL PRIME KVA STANDBY KVA DEVİR RPM FREKANS MOTOR ALTERNATÖR ÜRÜN DETAY HBR15V1.0 15 17 1500 50 Hz YANMAR ISBECO15 Ürün Detay HBR15V1.1 15 17 1500 50 Hz
+Yaşamla Kesintisiz İşbirliği!
+Hibrit Jeneratörler
+Jeneratör Modelleri
+E-Kataloğu İncele
+HİBRİT JENERATÖR SETLERİ
+HİBRİT JENERATÖR SETLERİ
+MODEL
+PRIME KVA
+STANDBY KVA
+DEVİR RPM
+FREKANS
+MOTOR
+ALTERNATÖR
+ÜRÜN DETAY
+HBR15V1.0
+15
+17
+1500
+50 Hz
+YANMAR
+ISBECO15
+Ürün Detay
+HBR15V1.1
+15
+17
+1500
+50 Hz
+PERKINS
+ISBECO15
+Ürün Detay
+HBR15V1.2
+15
+17
+1500
+50 Hz
+KUBOTA
+ISBECO15
+Ürün Detay
+HBR20V1.0
+20
+22
+1500
+50 Hz
+YANMAR
+ISBECO20
+Ürün Detay
+HBR20V1.1
+20
+22
+1500
+50 Hz
+PERKINS
+ISBECO20
+Ürün Detay
+HBR20V1.2
+20
+22
+1500
+50 Hz
+KUBOTA
+ISBECO20
+Ürün Detay
+HBR30V1.0
+30
+33
+1500
+50 Hz
+YANMAR
+ISBECO30
+Ürün Detay
+HBR30V1.1
+30
+33
+1500
+50 Hz
+PERKINS
+ISBECO30
+Ürün Detay
+HBR30V1.2
+30
+33
+1500
+50 Hz
+KUBOTA
+ISBECO30
+Ürün Detay
+HBR40V1.0
+40
+44
+1500
+50 Hz
+YANMAR
+ISBECO40
+Ürün Detay
+HBR40V1.1
+40
+44
+1500
+50 Hz
+PERKINS
+ISBECO40
+Ürün Detay
+HBR40V1.2
+40
+44
+1500
+50 Hz
+KUBOTA
+ISBECO40
+Ürün Detay
+HBR50V1.0
+50
+55
+1500
+50 Hz
+YANMAR
+ISBECO50
+Ürün Detay
+HBR50V1.1
+50
+55
+1500
+50 Hz
+PERKINS
+ISBECO50
+Ürün Detay
+HBR50V1.2
+50
+55
+1500
+50 Hz
+KUBOTA
+ISBECO50
+Ürün Detay
+
+### İletişim
+BİZE ULAŞIN
+FABRİKA / GENEL MÜDÜRLÜK
+ANKARA BÜRO
+
+### İnovasyon
+Enerji kullanımı ve verimliliğini arttıracak yeni ürünlerin yanı sıra, mevcut ürünlerin teknolojisini yükseltmeyi, maliyeti düşürmeyi, verimliliği arttırmayı
+İŞBİR Elektrik Sanayi A.Ş. - İnovasyon
+Enerji kullanımı ve verimliliğini arttıracak yeni ürünlerin yanı sıra, mevcut ürünlerin teknolojisini yükseltmeyi, maliyeti düşürmeyi, verimliliği arttırmayı amaç edinen İŞBİR Elektrik San. A.Ş., AR-GE faaliyetlerini bu doğrultuda sürdürmeye devam etmektedir.
+İŞBİR standart jeneratör üretiminin dışında ileri teknoloji gerektiren özgün ürünler geliştirip üretmektedir. Günümüzde, “çevreye duyarlı, çevre dostu, sessiz ve hafif jeneratörler talep edilmektedir” fikrinden yola çıkan İŞBİR, bir ilki daha başarmış, 5-10-20-30 kW gücünde Taktik Sessiz Jeneratörleri üretmenin gururunu yaşamaktadır.
+Taktik Sessiz Jeneratörlerinin teknik özellikleri;
+Elektro manyetik uyumluluk ve etkileşim özelliklerini karşılayan,
+40 / +60 derecede depolanabilen,
+30 / + 50 derecede sürekli çalışabilen,
+Yağmur ve nemden etkilenmeyen,
+Şok ve titreşime dayanıklı,
+Çok küçük boyutlu,
+3000 m yükseklikte istenen gücü sürekli verebilen,
+Asenkron ve su soğutmalı alternatöre sahip,
+Çekilen güce göre motor devrini ayarlayarak yakıt tasarrufu sağlayabilen,
+Yurtdışı firmalar tarafından üretilmiş olan muadillerine kıyasla daha düşük ses seviyesine sahip,
+Askeri sistemlerin kullanımlarına uygun,
+Araç üzerine monte edilebilen,
+Tekli veya Dual çalışma prensibine sahip,
+EMI- EMC gereklerini sağlayan,
+Uzaktan izlenebilme ve kumanda edilebilme özelliğine sahip,
+Düşük ağırlık ve hacme sahip,
+Düşük termal ize ve yüksek IR korumaya sahip,
+Alt bileşenleri olabildiğince kabine entegre olacak biçimde kompakt bir yapıya sahip,
+MTBF ( Arızalar arası ortalama süre) değerinin ve dayanımının yüksek olması,
+Taktik sahada güvenilir bir güç kaynağı olarak kullanılmaktadır.
+Türk Silahlı Kuvvetleri ihtiyaçlarını karşılamasının yanı sıra Sivil Naklen Yayın Araçlarında, Mobil Hizmet Araçlarında ve Yatlarda da kullanılabilir özelliktedir.
+İŞBİR; Alternatör, Pano, Fan, Radyatör, Kabin ve birçok malzemesi yerli malı kullanılarak üretilen Taktik Sessiz Jeneratör ile ülkemize katma değer oluşturarak Türk Savunma Sanayisine ve Ülke Ekonomisine büyük destek sağlamayı hedeflemektedir.
+İŞBİR; geliştirilen özgün ürünler ve yürütülen modernizasyon projelerinin yanı sıra, AR-GE merkezi bünyesinde, yoğun bilgi birikimi ve tecrübeli uzman mühendis kadrosu ile hali hazırda, ürün geliştirme, araştırma ve teknoloji geliştirme, süreç yeniliği ve kavram çalışmaları olmak üzere geniş bir çeşitlilik ile projeler yürütmeye devam ediyor. Bu projelerin tamamlanmalarına müteakip, İŞBİR birçok ilke daha imza atmaya devam edecektir.
+
+### İnsan Kaynakları
+İnsan Kaynakları olarak Ana İlkemiz, Şirketin hak ve menfaatleri doğrultusunda çalışanlarının hak ve menfaatlerinin yasal mevzuata uygun şekilde
+İnsan Kaynakları
+İK Süreçlerimiz
+İnsan Kaynakları olarak Ana İlkemiz, Şirketin hak ve menfaatleri doğrultusunda çalışanlarının hak ve menfaatlerinin yasal mevzuata uygun şekilde belirlenmesidir.
+Yüksek etik değerlere sahip, çalışkan, özverili, dürüst, geleceğe yön veren, yaratıcı,liderlik ve motivasyon yönü kuvvetli, bağımsız düşünme becerileri gelişmiş, takım geliştirme özelliği ve kalite anlayışına sahip, hızla değişen teknolojiyi takip ederek bu değişimin öncüsü olabilecek, yenilikçi düşünme yeteneğine sahip adayları İŞBİR ELEKTRİK SAN.A.Ş. ye kazandırma maksadı ile hareket ediyoruz.
+
+### Işık Kulesi
+MODEL PRIME KVA STANDBY KVA DEVİR RPM FREKANS MOTOR ALTERNATÖR RLG10V1.0 10 11 1500 50 Hz RICARDO ISBECO10 RLG20V1.0 20 22 1500 50 Hz RICARDO ISBECO20
+Yaşamla Kesintisiz İşbirliği!
+Işık Kulesi
+Jeneratör Modelleri
+E-Kataloğu İncele
+IŞIK KULESİ JENERATÖR SETLERİ
+IŞIK KULESİ JENERATÖR SETLERİ
+MODEL
+PRIME KVA
+STANDBY KVA
+DEVİR RPM
+FREKANS
+MOTOR
+ALTERNATÖR
+RLG10V1.0
+10
+11
+1500
+50 Hz
+RICARDO
+ISBECO10
+RLG20V1.0
+20
+22
+1500
+50 Hz
+RICARDO
+ISBECO20
+RLG30V1.0
+30
+33
+1500
+50 Hz
+RICARDO
+ISBECO30
+RLG40V1.0
+40
+44
+1500
+50 Hz
+RICARDO
+ISBECO40
+RLG50V1.0
+50
+55
+1500
+50 Hz
+RICARDO
+ISBECO50
+RLG60V1.0
+60
+66
+1500
+50 Hz
+RICARDO
+ISBECO60
+RLG75V1.0
+75
+82
+1500
+50 Hz
+RICARDO
+ISBECO75
+RLG100V1.0
+100
+110
+1500
+50 Hz
+RICARDO
+ISBECO100
+
+### Jeneratör
+MIL STD 810 E/F çevre koşulları (yüksek sıcaklık, düşük sıcaklık, nem, yağmur, buzlanma, şok tireşim) ve MIL STD 461 E/F EMC/EMI (RE102,CS,CE ve RS) askeri
+İŞBİR Elektrik Sanayi A.Ş. Jeneratör Bilgileri;
+MIL STD 810 E/F çevre koşulları (yüksek sıcaklık, düşük sıcaklık, nem, yağmur, buzlanma, şok tireşim) ve MIL STD 461 E/F EMC/EMI (RE102,CS,CE ve RS) askeri standartlarını (NATO dahil) karşılayabilen jeneratör üretimi,
+Jeneratör gürültü seviyesini düşürmeye yönelik yöntemlerin geliştirilmesi,
+Motor egzoz gürültü seviyesini minimize etmeye yönelik susturucu tasarımları,
+Ses izolasyon malzemelerinin; çeşitli ürün konfigürasyonlarında uygulanması ile ses yalıtımlı kabin geliştirilmesi hakkında yapılan AR-GE çalışmaları devam etmektedir.
+
+### Kalite Belgelerimiz
+EN9100 Belgesi HYB 2024 TS EN ISO 9001:2015 ISO 14001 ISO 45001 TS ISO 8528-4 TS ISO 8528-8 TS ISO 8528-5 TS ISO 8528-13 MSB Onaylı Tedarikçi Belgesi Satış
+Kalite Belgelerimiz
+EN9100 Belgesi
+PDF Görüntüle
+HYB 2024
+PDF Görüntüle
+TS EN ISO 9001:2015
+PDF Görüntüle
+ISO 14001
+PDF Görüntüle
+ISO 45001
+PDF Görüntüle
+TS ISO 8528-4
+PDF Görüntüle
+TS ISO 8528-8
+PDF Görüntüle
+TS ISO 8528-5
+PDF Görüntüle
+TS ISO 8528-13
+PDF Görüntüle
+MSB Onaylı
+Tedarikçi Belgesi
+PDF Görüntüle
+Satış Sonrası Hizmet Yeterlilik Belgesi
+PDF Görüntüle
+TS EN60034-1
+Sertifikası
+PDF Görüntüle
+
+### Kataloglar
+Kataloglar
+Taktik Sessiz Kabinli Jeneratör
+PDF Görüntüle
+Portatif Dizel Jeneratörler
+PDF Görüntüle
+Mobil
+Jeneratörler
+PDF Görüntüle
+Askeri Tip Güç
+Konteyneri
+PDF Görüntüle
+Marin
+Jeneratör
+PDF Görüntüle
+Askeri Kombine Jeneratörler
+PDF Görüntüle
+
+### Kurumsal Kimlik
+Kurumsal Kimlik
+İŞBİR Elektrik Logo Paketi TR
+İNDİR
+İŞBİR Elektrik Logo Paketi EN
+İNDİR
+
+### Marin Jeneratör
+İşbir Elektrik Sanayi A.Ş., denizcilik sektörüne yönelik olarak 10 kVA'dan 2250 kVA'ya kadar geniş bir güç aralığında marin jeneratör setleri üretmektedir. Bu
+MARİN JENERATÖR
+Marin Jeneratör
+İşbir Elektrik Sanayi A.Ş., denizcilik sektörüne yönelik olarak 10 kVA’dan 2250 kVA’ya kadar geniş bir güç aralığında marin jeneratör setleri üretmektedir. Bu jeneratörler, askeri gemi klaslama kurallarına uygun olarak tasarlanmış olup, zorlu deniz koşullarında güvenilir ve kesintisiz enerji sağlamaktadır.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Askeri Gemi Klaslama Kurallarına Uygunluk
+Jeneratör Kumanda ve Koruma
+Motor Kontrol (Start/Stop)
+Motor ile Haberleşme
+Scada Sistemi ile Haberleşme (Modbus/Profibus/Optik)
+Programlanabilir Lojik Kontrolör (PLC)
+Otomatik ve Manuel Senkronizasyon
+Barış/Savaş Konumu Kontrolü
+Alternatör Nem Alıcı Kontrolü
+Local/Remote Çalışma Kontrolü
+Hava/Elektrik Start Kontrolü
+Kapsül Havalandırma Kontrolü
+Acil Durumlar için Hava ve Yakıt Kesme Kontrolü
+Dil Seçimi, Alarm İzleme
+Geçmiş Arıza Takibi (5000 Adet)
+Detaylı Koruma Takibi (1000 Adet)
+IP23/66 Arasında Koruma
+LCD Ekran Üzerinden Tüm Fonksiyonların İzlenmesi
+Alternatör Marka :
+İŞBİR
+Tipi :
+Marin
+Nominal Gücü :
+10 ile 2250 kVA
+Nominal Gerilimi :
+110/500VAC, 1/3 Faz, 50/60/400 Hz.
+Devir :
+1500/1800 dev/dak
+Faz Bağlantı Şekli :
+Yıldız (üç telli (nötrsüz)
+Çalışma Sınıfı :
+S1 (Sürekli)
+İzolasyon Sınıfı :
+H veya F
+Koruma Sınıfı :
+IP23, Bağlantı Kutusu IP44
+Sıcaklık Koruması :
+Her Faz Sargısı Altına uygun değerde termistör
+Nem Alıcı Hiter :
+Harici Voltaj ile Çalışan/Otomatik
+Yataklama :
+Tek veya Çift
+Soğutma Sistemi :
+Hava, Su, Soğutma Sisteminden Beslemeli Tatlı Su
+İkaz Şekli :
+Kendinden İkazlı, Statik Egzayterli
+RFI Bastırma Derecesi :
+N (VDE 0875)
+Üretilen Gerilimi :
+STANAG-1008 Ed-9
+Sertifikasyon :
+Türk Loydu
+Eğim ± 15° Trim ± 5°
+Yalpa ± 30° Baş ve Kıç Vurma (Pitch) ± 10° değerlerinde tam performans ile çalışabilecek şekilde tasarlanmıştır
+1,96 ≤ X ≥ 2,51 ; 2,85 ≤ Y ≥ 5,59 ; 10,97 ≤ Z ≥ 14,98 Eksenel olarak oluşan dinamik yükler (m/s2) altında tüm fonksiyonlarını eksiksiz olarak yerine getirebilecek şekilde tasarlanmıştır.
+0,4 G Şiddetindeki dikey yöndeki güverte ivmelenmesinde tam performansında çalışma
+Geminin ± 10° derecelik baş-kıç hareketinde (maks. 3sn) tam performans ile çalışabilme
+Geminin ± 30° derecelik iskele-sancak yalpa hareketinde(maks. 5sn) tam performans ile çalışabilme
+Nominal Gücü :
+10 ile 2250 KVA (İsteğe Göre)
+Nominal Gerilimi :
+110/500VAC, 1/3 Faz, 50/60/400 Hz.
+Nominal Devri :
+1500/1800 rpm
+Askeri Gemi Klaslama Kurallarına Uygun
+Titreşim Önleyici Özellikte Elastik Kaplin
+Gemi Tipi Alternatör
+Makine Başı Paneli (MBP)
+Akustik Kapsül (İsteğe Bağlı)
+Otomatik Yangın Söndürme Sistemi
+Eşanjör
+Soğutucu Fan
+İkaz ve Tehlike İşaretleri
+Çevresel Şartlar
+İlgili Standart/Kriter
+Çevresel Etkilere Karşı Testleri (Şok, Vibrasyon, Nem vs.)
+10 ile 2250 KVA (İsteğe Göre)
+Çalışma Sıcaklığı Testleri
+MIL-STD 810F 501.4
+Sıcaklık Şoku Kriterleri
+MIL-STD 810F 503.4
+Nemli Ortamda Çalışma Kriterleri
+MIL-STD 810F 507.4
+Sudan Koruma
+MIL-STD 810F 507.4
+Gemi İçi Bileşenleri
+IEC 529 IP23
+Güverte Üstündeki Bileşenleri
+IEC 529 IP66
+Güverte Üstündeki Bileşenleri
+MIL-STD-810F 509.4
+Yıldırım Etkisinde Tam Performansında Çalışabilme
+MIL-STD 464
+Titreşim Ortamında Çalışma
+MIL-STD 810F
+İnsan ile Donatılan Mevkilerdeki Gürültü Miktarı
+MIL-STD 1474D
+ISO-3046-1’e Uygun
+NATO F76 Deniz Dizel Yakıt Sistemine Uygun
+Basınçlı Hava ve/veya Hava ve Elektrik Startlı
+Mekanik veya Elektrik/elektronik tip governör
+Türk Loydu Askeri Gemi Klaslama Kurallarına Uygun
+%100 yükte 80 dB(A) (+5 dB tolerans/1 oktav bandı için) aşmamaktadır. Egzoz susturucuları en az 35 dB gürültü azaltımı yapabilmektedir.
+Dikey İvme Değeri :
+< 50 m/s2
+Dikey Hız Değeri :
+< 2 m/s
+İvme :
+1250 m/s2
+Hız :
+3,5 m/s
+Yer Değiştirme :
+35 mm
+%50 Yükten %110 Yüke Geçiş :
+STANAG-1008 Ed-9’a uygun
+%110 Yükten %50 Yüke Geçiş :
+STANAG-1008 Ed-9’a uygun
+Hız ve Voltaj Kontrolü (ANSI 15)
+Aşırı Uyartım Koruması (ANSI 24)
+Otomatik Senkronizasyon (ANSI 25/A)
+Düşük Voltaj Koruması (ANSI 27)
+Ortak Bara Düşük Voltaj Koruması (ANSI 27/B)
+Aşırı Yük Koruması (ANSI 32)
+Düşük Akım Koruması (Elektrik Motorları) (ANSI 37)
+Alan Kaybı, Reaktif Güç, Empedenas Koruması (ANSI 40/Q)
+Ters Güç Koruması (ANSI 46)
+Faz Sırası Koruma (ANSI 47)
+Termal Aşırı Yük Koruması (ANSI 49)
+Devre Kesici Arıcası (ANSI 50 BF)
+Ani Aşırı Akım Koruması (ANSI 50)
+Ani Toprak Aşırı Akım Koruması (ANSI 50 G/N)
+Ayarlanabilir Aşırı Akım Koruması IDMT (6 Eğri) (ANSI 51)
+Ayarlanabilir Toprak Aşırı Akım Koruması IDMT (6 Eğri) (ANSI 51 G/N)
+Aşırı Voltaj Koruması (ANSI 59)
+Ortak Bara Aşırı Voltaj Koruması (ANSI 59 B)
+Toprak Aşırı Voltaj Koruması (ANSI 64)
+Start Engelleme (Elektrik Motorları) (ANSI 66)
+Yönlü Aşırı Akım Koruması IDMT (ANSI 67)
+Yönlü Toprak Aşırı Akım Koruması (ANSI 67GS/GD)
+Vektörel Koruma (ANSI 78)
+Frekans Kontrolü (ANSI 81)
+Ortak Bara Frekans Kontrolü (ANSI 81 B)
+Diferansiyel Koruma (ANSI 87)
+Kısa Devre Kontrolü (ANSI 94)
+Acil Durdurma (Hava ve Yakıt Dolu Kapatılarak)
+Yağ Basıncı (Alarm/Stop)
+Yağ Harareti (Alarm)
+Soğutma Suyu Harareti (Alarm/Stop)
+Soğutma Suyu Basıncı (Alarm)
+Deniz Suyu Basıncı (Alarm)
+Su Seviyesi (Alarm)
+Yakıt Filtresi Diferansiyel Basınç Farkı (Shutdown)
+Yağ Filtresi Diferansiyel Basınç Farkı (Alarm)
+Start Hava Basıncı (Alarm)
+Yakıt Basıncı (Alarm)
+Yakıt Kaçak (Alarm)
+Egzoz Harareti (Alarm)
+Alternatör Ön Yatak Harareti (Alarm)
+Alternatör Arka Yatak Harareti (Alarm)
+Alternatör Sargı Sıcaklığı (Alarm)
+Kapsül Sıcaklığı (Alarm)
+Yangın Sistemi Devrede (Alarm)
+Stop Arızası (Alarm)
+Start Arızası (Alarm)
+DC Voltaj (Alarm)
+Voltaj (3 Faz Ayrı ve Toplam)
+Akım (3 Faz Ayrı ve Toplam)
+Frekans
+V/A/F Anlık ve Demand Ölçümleri
+Devir Sayısı
+Harmonik (V/I)
+Görünür Güç (kVA) (Toplam)
+Aktif Güç (kW) (3 Faz Ayrı ve Toplam)
+Reaktif Güç (kVAR) (3 Faz Ayrı ve Toplam)
+Güç Faktörü (3 Faz Ayrı ve Toplam)
+kWh (En Son Çalışma ve Toplam)
+kVarh(En Son Çalışma ve Toplam)
+Start Sayısı
+En Son Çalışma Süresi
+Toplam Çalışma Süresi
+Yakıt Basıncı
+Yağ Basıncı
+Soğutma Suyu Basıncı
+Deniz Suyu Basıncı
+Soğutma Suyu Hareketi
+Egzoz Hareketi
+Yağ Hareketi
+Kabin Hareketi
+Deniz Suyu Hareketi
+Alternatör Ön Yatak Harareti
+Alternatör Arka Yatak Harareti
+DC Voltaj
+Akustik kapsül işbir mühendisleri tarafından üretilmiştir.
+Modüler Yapı, Bakım Onarım Yapabilme İmkanı, Sökülebilir Şekilde Kapaklı İmalat
+80 Dba Altında Ses Seviyesi
+Sızdırmaz Basınç ve Hava Ortamı (Akustik Kapsül)
+Negatif Basınçlı ve Çalışma Ortamı
+Sistemi Tam Performansta Çalıştıracak Uygun Havalandırma Yapısı
+Mukavim ve Paslanmaz Yapı
+Akustik Kapsül İçi Aydınlatma Donanımı
+Duman ve Isı Artış Sensörlü Otomatik Yangın Algılama ve Söndürme Sistemi
+Deniz Suyu ile Kapsül İçi Soğutma
+Duble Elastik Bağlantılı Minimum Yapısal Gürültü
+Titreşim Sönümlendirici ile Gemiye Bağlantı
+ISO 1940-1 Standartında Titreşim Dayanımı Tertibatı
+Titreşim Sönümlendirici ile Gemiye Bağlantı
+Askeri Gemi Klaslama Kurallarına Tam Uygunluk
+Jeneratör Setini Taşıyabilecek Yapıda Uygun Sayıda Kaldırma Mapaları
+Dizel Jeneratör Seti (DJS); gemi bünyesine iletilen yapısal gürültünün azaltılması amacıyla gerek DJS ana kaidesine (şasi) ve gerekse gemi ana gövdesine özel titreşim ve darbe sönümlendiriciler ile çift elastik olarak bağlanmış ve uygunluğu test edilmiştir.
+istenilen Loyd ile Sertifikalandırma
+Sistem için Gerekli Dökümantasyon
+Prezervasyon (Koruyucu ve Bakım)
+Entegrasyon
+Montaj Yeri ile İlgili Gerekli Dizayn
+Test ve Tecrübeler (Fabrika (FAT), Sahil (SAT), Deniz (HAT))
+Test için İstenilen Ölçü ve Aletleri
+Bakım Onarım, Alet ve Avadanlıklar
+30/60/90 Günlük Gemi Yedekleri
+2 (veya daha fazla) Yıllık Sistem için Sahil Yedekleri
+İstenen RAL Kodunda Boyama
+İşbir tarafından üretilen Marine Alternatörler, İşbir tesislerinde bulunan gelişmiş alternatör test laboratuvarlarında talep edilen her türlü teknik teste tabi tutulabilmektedir.
+
+### Sepet
+No products added to the cart
+Mağazaya geri dön
+
+### Periyodik Bakım
+Jeneratör ün devreye alınması ile kullanma kılavuzlarında belirtilen Periyodik Bakım esaslarına göre Elektrojen Grubu nun kontrolleri aşağıda “Günlük ve
+İŞBİR Elektrik Sanayi A.Ş. Periyodik Bakım
+Jeneratör ün devreye alınması ile kullanma kılavuzlarında belirtilen Periyodik Bakım esaslarına göre Elektrojen Grubu nun kontrolleri aşağıda “Günlük ve Periyodik Bakım Talimatı”nda belirtilen usullere göre kontrolleri ve bakımların yapılması gerekmektedir. Bu kontrollerin yapılma zorunluluğu, Elektrojen Grubu nun (jeneratörün) çalışma süresi ve sıklığı ile doğru orantılıdır.
+Dolayısı ile Elektrojen Grubu (jeneratörün) sorunsuz ve verimli bir şekilde hizmet sunabilmesi için, arızaların en kısa sürede giderilmesi ve mümkünse arızaların oluşumunun engellenmesi için günlük ve periyodik bakımın aksaksız yapılmalı veya yaptırılmalıdır.
+Bakım talep edilen Elektrojen Grupları (jeneratörler) için aşağıda belirtilen bilgilerin jeneratör üzerinden alınarak Hizmetler linki altında bulunan “Arıza Destek” bölümünün detaylar bölümüne veya S.S.H. sorumlusuna sözlü olarak bildirilmesi gerekmektedir.
+İhtiyaç Duyulan Bilgiler;
+Jeneratör/Motor/Alternatör-Marka-Model
+Jeneratör/Motor/Alternatör-Seri No
+Kumanda Sistemi
+Transfer Sistemi
+Çalışma Saati
+Jeneratörün Son Durumu- arızası veya eksik aksam, bakım durumu
+Firma Bilgileri (Adres/Tel)
+Yetkili ve Kullanıcı (Adı Soyadı/ Telefon)
+İŞBİR Elektrik Sanayii A.Ş.’nin üretmiş olduğu ürünlerin Türk Silahlı Kuvvetleri ihtiyaçlarını karşılamasının yanı sıra Sivil Naklen Yayın Araçlarında, Mobil Hizmet Araçlarında ve Yatlarda da kullanılabilir özelliktedir.
+İŞBİR Elektrik Sanayii A.Ş.’nin öncelikle yerli malı kullanarak (%75/80) üretmiş olduğu;; Alternatör, Pano, Fan, Radyatör, Kabin ve birçok malzemesi yerli malı kullanılarak üretilen Taktik Sessiz Jeneratör ile ülkemize katma değer oluşturarak Türk Savunma Sanayisine ve Ülke Ekonomisine büyük destek sağlamayı hedeflemektedir.
+İŞBİR; geliştirilen özgün ürünler ve yürütülen modernizasyon projelerinin yanı sıra, AR-GE merkezi bünyesinde, yoğun bilgi birikimi ve tecrübeli uzman mühendis kadrosu ile hali hazırda, ürün geliştirme, araştırma ve teknoloji geliştirme, süreç yeniliği ve kavram çalışmaları olmak üzere geniş bir çeşitlilik ile projeler yürütmeye devam ediyor. Bu projelerin tamamlanmalarına müteakip, İŞBİR birçok ilke daha imza atmaya devam edecektir.
+Günlük ve Periyodik Bakım Talimatı PDF
+
+### Politikamız
+Enerji sistemlerinin üretilmesine ve geliştirilmesine öncülük etmeyi ve ülke ekonomisine ve savunmaya katkı sağlamayı, Ulusal ve Uluslararası standartlara ve
+Politikamız
+Enerji sistemlerinin üretilmesine ve geliştirilmesine öncülük etmeyi ve ülke ekonomisine ve savunmaya katkı sağlamayı,
+Ulusal ve Uluslararası standartlara ve yasal gerekliliklere uygun bir şekilde müşteri ihtiyaçlarına en etkili şekilde cevap vermeyi ve güvenini sürekli kazanma bilincinde olmayı,
+Gerekli eğitimlerle şirket çalışanlarının üretim ve hizmet bilincini sürekli geliştirmeyi, tüm çalışanlarımızla daha bilinçli ve sorumluluk alarak hizmet ve kalite seviyemizin yükseltilmesini sağlamayı,
+Tüm doğal kaynaklarımızı en verimli biçimde kullanarak üretim sürecimizle ve ürünlerimizle çevreye saygılı olmayı,
+KYS, ÇYS ve İSGYS ile ilgili yürürlükte bulunan tüm kanun ve yönetmeliklerden doğan yükümlülükleri yerine getirerek; bütün faaliyet sahalarında yönetim sistemlerini benimsemeyi, gereklerini yerine getirmeyi ve sürekli iyileştirilmesini sağlamayı,
+Tüm yönetim sistemleri uygulanırken müşterilerimiz de dahil olmak üzere tüm paydaşlarımızın beklentilerini dikkate almayı,
+Üretimin her safhasında, kirliliğin önlenmesini ve KYS, ÇYS ve İSGYS nin sürekli iyileştirilmesini ve geliştirilmesini hedeflemeyi,
+Bütün atıkların kontrolü ile maksimum geri kazanılmasına veya bertaraf edilmesine önem vermek, atıkların kaynağında ayrıştırılmasını ve değerlendirilmesini sağlamayı,
+Enerji tüketiminde modern teknolojiler uygulayarak, enerji tasarrufuna önem vermeyi; doğal kaynak, hammadde ve enerji kullanımını azaltmayı, atıkları en aza indirgemeyi, olası kirliliği mümkün olduğunca önlemeyi,
+Şirket içinde KYS, ÇYS ve İSGYS ve amaçlarının benimsenmesini sağlamak maksadıyla ilgili eğitim ve bilinçlendirme faaliyetlerini organize etmeyi, bu tür faaliyetlere destek vermeyi,
+Tedarikçilerimizi kanunlara ve İŞBİR in KYS, ÇYS ve İSGYS yöntem ve ilkelerine uymaları konusunda teşvik etmeyi,
+Hedef sıfır iş kazası prensibi ile çalışmayı, kazalara ve sağlık bozulmalarına sebebiyet verebilecek tehlikelerin oluşmasını engellemeyi, tehlikeli ortamlarla ilgili genel koruma önlemleri almayı, İŞBİR, İSG risklerinin yapısına ve büyüklüğüne uygun olarak, yaralanmaların ve sağlık bozulmalarını önlenmeyi ve İSG Yönetiminin ve İSG performansını sürekli iyileştirilmeyi,
+Modern İSG uygulamalarını kullanarak tesislerimiz üzerinde genel koruma ve önleme tedbirlerini alarak sürekli iyileştirmeyi, genel korumanın yeterli olmadığı durumlarda kişisel korunma tedbirleri almayı,
+Kalite, Çevre ve İSG hedeflerini belirlemek ve periyodik olarak gözden geçirerek iyileştirilmesini sağlamayı,
+Kalite, Çevre ve İSG kapsamında yapılan tüm çalışmaları dokümante ederek, uygulamak, sürdürmek, muhafaza etmek ve tüm ilgili kişilerin erişimine açmayı,
+Çalışanların kendi bireysel Kalite, Çevre ve İSG sorumluluklarının farkında olmalarını sağlamak, ilgili kayıtların ulaşılabilir olmasını sağlamayı ve kontrolü altında tutmayı,
+Kalite, Çevre ve İş Sağlığı ve Güvenliği kapsamında bünyemizde oluşabilecek riskleri tespit etmeyi ve yönetmeyi,
+Çevre ve İş Sağlığı kapsamında oluşabilecek kazaları tespit etmeyi ve gerekli önlemlerini almayı,
+Taahhüt Ederiz.
 
 ### Portatif Jeneratörler
-P3 Serisi: 1.8 kW - 2.5 kW
-P8 Serisi: Taşınabilir modeller
-Özellikler: Dizel yakıtlı, kompakt tasarım, hafif
-Kolay taşıma ve kullanım
-Küçük güç ihtiyaçları için ideal
+MODEL PRIME KVA STANDBY KVA DEVİR RPM FREKANS MOTOR ALTERNATÖR ÜRÜN DETAY P3.5V1.0 3 3,5 3000 50 Hz Changzhou ISBECO3 Ürün Detay P8V1.0 7,5 8 3000 50 Hz
+Güçlü performans, Uygun Fiyatlı Çözüm
+PORTATİF JENERATÖR SETLERİ
+Jeneratör Setleri
+E-Kataloğu İncele
+PORTATİF JENERATÖR SETLERİ
+PORTATİF JENERATÖR SETLERİ
+MODEL
+PRIME KVA
+STANDBY KVA
+DEVİR RPM
+FREKANS
+MOTOR
+ALTERNATÖR
+ÜRÜN DETAY
+P3.5V1.0
+3
+3,5
+3000
+50 Hz
+Changzhou
+ISBECO3
+Ürün Detay
+P8V1.0
+7,5
+8
+3000
+50 Hz
+Changzhou
+ISBECO8
+Ürün Detay
+P8.5V1.0
+7,5
+8
+3000
+50 Hz
+Changzhou
+ISBECO8
+Ürün Detay
+P10V1.0
+9
+10
+3000
+50 Hz
+Changzhou
+ISBECO10
+Ürün Detay
+P15V1.0
+15
+16,5
+3000
+50 Hz
+Changzhou
+ISBECO15
+Ürün Detay
 
-### Işık Kulesi ve Afet Jeneratörleri
-Mobil aydınlatma kuleleri
-Afet ve acil durum jeneratörleri
-Hızlı müdahale sistemleri
-Portatif ve mobil çözümler
+### Pro Jeneratörler
+İşbir Elektrik’in PRO Jeneratör Setleri, yüksek verimlilik, uzun ömür ve dayanıklılığı bir araya getirerek savunma sanayi, endüstri, ticaret ve kritik enerji
+Güç ve Enerjinin Uyumu
+PRO JENERATÖR SETLERİ
+İşbir Elektrik’in
+PRO Jeneratör Setleri
+,
+yüksek verimlilik, uzun ömür ve dayanıklılığı
+bir araya getirerek
+savunma sanayi, endüstri, ticaret ve kritik enerji ihtiyacı olan tüm sektörlere
+en iyi çözümleri sunar.
+Perkins, Baudouin, Yanmar, Iveco ve Volvo motorları
+ile güçlendirilmiş bu jeneratörler,
+İşbir Alternatör teknolojisiyle
+maksimum performans sağlamaktadır.
+Jeneratör Setleri
+E-Kataloğu İncele
+PRO JENERATÖR SETLERİ
+PRO JENERATÖR SETLERİ
+MODEL
+PRIME KVA
+STANDBY KVA
+DEVİR RPM
+FREKANS
+MOTOR
+ALTERNATÖR
+PRO13PERISBV1.0
+13
+14
+1500
+50 Hz
+PERKINS
+SGS 2913-4TM
+PRO13YANISBV1.0
+13
+14
+1500
+50 Hz
+YANMAR
+SGS 2913-4TM
+PRO13BAUISBV1.0
+13
+14
+1500
+50 Hz
+BAUDOUIN
+SGS 2913-4TM
+PRO15PERISBV1.0
+15
+17
+1500
+50 Hz
+PERKINS
+SGS 2915-4T
+PRO15YANISBV1.0
+15
+17
+1500
+50 Hz
+YANMAR
+SGS 2915-4T
+PRO15BAUISBV1.0
+15
+17
+1500
+50 Hz
+BAUDOUIN
+SGS 2915-4T
+PRO20PERISBV1.0
+20
+22
+1500
+50 Hz
+PERKINS
+SGS 2920-4T
+PRO20YANISBV1.0
+20
+22
+1500
+50 Hz
+YANMAR
+SGS 2920-4T
+PRO20BAUISBV1.0
+20
+22
+1500
+50 Hz
+BAUDOUIN
+SGS 2920-4T
+PRO30FPTISBV1.0
+30
+33
+1500
+50 Hz
+FPT (IVECO)
+SGS 2930-4T
+PRO30YANISBV1.0
+30
+33
+1500
+50 Hz
+YANMAR
+SGS 2930-4T
+PRO30BAUISBV1.0
+30
+33
+1500
+50 Hz
+BAUDOUIN
+SGS 2930-4T
+PRO40FPTISBV1.0
+40
+44
+1500
+50 Hz
+FPT (IVECO)
+SGS 3340-4T
+PRO40YANISBV1.0
+40
+44
+1500
+50 Hz
+YANMAR
+SGS 3340-4T
+PRO40BAUISBV1.0
+40
+44
+1500
+50 Hz
+BAUDOUIN
+SGS 3340-4T
+PRO50FPTISBV1.0
+50
+55
+1500
+50 Hz
+FPT (IVECO)
+SGS 3350-4T
+PRO50YANISBV1.0
+50
+55
+1500
+50 Hz
+YANMAR
+SGS 3350-4T
+PRO50BAUISBV1.0
+50
+55
+1500
+50 Hz
+BAUDOUIN
+SGS 3350-4T
+PRO60FPTISBV1.0
+60
+66
+1500
+50 Hz
+FPT (IVECO)
+SGB 4363-4T
+PRO60YANISBV1.0
+60
+66
+1500
+50 Hz
+YANMAR
+SGB 4363-4T
+PRO60BAUISBV1.0
+60
+66
+1500
+50 Hz
+BAUDOUIN
+SGB 4363-4T
+PRO75FPTISBV1.0
+75
+82
+1500
+50 Hz
+FPT (IVECO)
+SGB 4375-4T
+PRO75BAUISBV1.0
+75
+82
+1500
+50 Hz
+BAUDOUIN
+SGB 4375-4T
+PRO100FPTISBV1.0
+100
+110
+1500
+50 Hz
+FPT (IVECO)
+SGB 43102-4T
+PRO100BAUISBV1.0
+100
+110
+1500
+50 Hz
+BAUDOUIN
+SGB 43102-4T
+PRO130FPTISBV1.0
+130
+143
+1500
+50 Hz
+FPT (IVECO)
+SGB 43125-4T
+PRO130BAUISBV1.0
+130
+143
+1500
+50 Hz
+BAUDOUIN
+SGB 43125-4T
+PRO150FPTISBV1.0
+150
+165
+1500
+50 Hz
+FPT (IVECO)
+SGB 43150-4T
+PRO150BAUISBV1.0
+150
+165
+1500
+50 Hz
+BAUDOUIN
+SGB 43150-4T
+PRO200VOLISBV1.0
+200
+220
+1500
+50 Hz
+VOLVO
+SGB 50200-4T
+PRO200FPTISBV1.0
+200
+220
+1500
+50 Hz
+FPT (IVECO)
+SGB 50200-4T
+PRO200BAUISBV1.0
+200
+220
+1500
+50 Hz
+BAUDOUIN
+SGB 50200-4T
+PRO250VOLISBV1.0
+250
+275
+1500
+50 Hz
+VOLVO
+SGB 50250-4T
+PRO250FPTISBV1.0
+250
+275
+1500
+50 Hz
+FPT (IVECO)
+SGB 50250-4T
+PRO250BAUISBV1.0
+250
+275
+1500
+50 Hz
+BAUDOUIN
+SGB 50250-4T
+PRO300VOLISBV1.0
+300
+330
+1500
+50 Hz
+VOLVO
+SGB 50300-4T
+PRO300BAUISBV1.0
+300
+330
+1500
+50 Hz
+BAUDOUIN
+SGB 50300-4T
+PRO350VOLISBV1.0
+350
+385
+1500
+50 Hz
+VOLVO
+SGB 50350-4T
+PRO350BAUISBV1.0
+350
+385
+1500
+50 Hz
+BAUDOUIN
+SGB 50350-4T
+PRO375VOLISBV1.0
+375
+421
+1500
+50 Hz
+VOLVO
+SGB 60400-4T
+PRO375BAUISBV1.0
+375
+421
+1500
+50 Hz
+BAUDOUIN
+SGB 60400-4T
+PRO400VOLISBV1.0
+400
+440
+1500
+50 Hz
+VOLVO
+SGB 60400-4T
+PRO400BAUISBV1.0
+400
+440
+1500
+50 Hz
+BAUDOUIN
+SGB 60400-4T
+PRO450VOLISBV1.0
+450
+495
+1500
+50 Hz
+VOLVO
+SGB 60500-4T
+PRO450BAUISBV1.0
+450
+495
+1500
+50 Hz
+BAUDOUIN
+SGB 60500-4T
+PRO500VOLISBV1.0
+500
+550
+1500
+50 Hz
+VOLVO
+SGB 60500-4T
+PRO500BAUISBV1.0
+500
+550
+1500
+50 Hz
+BAUDOUIN
+SGB 60500-4T
+PRO600FPTISBV1.0
+600
+660
+1500
+50 Hz
+FPT (IVECO)
+SGB 60625-4H
+PRO600BAUISBV1.0
+600
+660
+1500
+50 Hz
+BAUDOUIN
+SGB 60625-4H
+PRO650VOLISBV1.0
+650
+715
+1500
+50 Hz
+VOLVO
+SGB 60750-4H
+PRO650BAUISBV1.0
+650
+715
+1500
+50 Hz
+BAUDOUIN
+SGB 60750-4H
+PRO700VOLISBV1.0
+700
+770
+1500
+50 Hz
+VOLVO
+SGB 60750-4H
+PRO750BAUISBV1.0
+750
+825
+1500
+50 Hz
+BAUDOUIN
+SGB 60750-4H
+PRO800PERISBV1.0
+800
+880
+1500
+50 Hz
+PERKINS
+SGB 60800-4T
+PRO800BAUISBV1.0
+800
+880
+1500
+50 Hz
+BAUDOUIN
+SGB 60800-4T
+PRO1000PERISBV1.0
+1000
+1100
+1500
+50 Hz
+PERKINS
+SGB 661000-4T
+PRO1000BAUISBV1.0
+1000
+1100
+1500
+50 Hz
+BAUDOUIN
+SGB 661000-4T
+PRO1250PERISBV1.0
+1250
+1375
+1500
+50 Hz
+PERKINS
+SGB 661250-4T
+PRO1250BAUISBV1.0
+1250
+1375
+1500
+50 Hz
+BAUDOUIN
+SGB 661250-4T
+PRO1500PERISBV1.0
+1500
+1650
+1500
+50 Hz
+PERKINS
+SGB 761500-4H
+PRO1500BAUISBV1.0
+1500
+1650
+1500
+50 Hz
+BAUDOUIN
+SGB 761500-4H
+PRO1700PERISBV1.0
+1700
+1870
+1500
+50 Hz
+PERKINS
+SGB 762000-4H
+PRO1700BAUISBV1.0
+1700
+1870
+1500
+50 Hz
+BAUDOUIN
+SGB 762000-4H
+PRO2000PERISBV1.0
+2000
+2200
+1500
+50 Hz
+PERKINS
+SGB 762000-4H
+PRO2000BAUISBV1.0
+2000
+2200
+1500
+50 Hz
+BAUDOUIN
+SGB 762000-4H
 
-### Alternatörler
-DC alternatörler (0-500 kVA)
-Monofaz alternatörler (0-2000 kVA)
-Trifaz alternatörler (0-2000 kVA)
-Özel üretim alternator çözümleri
+### Referanslar
+Referanslar
+admin-e
+2025-03-25T11:28:10+03:00
+
+### Satış Sonrası Hizmetlerimiz
+İŞBİR ELEKTRİK SANAYİİ A.Ş. müşterilerine hizmeti gereksinim duydukları anda verebilmek için yurt sathına yayılmış yaygın satış sonrası hizmetler ağını
+Satış Sonrası Hizmetlerimiz;
+İŞBİR ELEKTRİK SANAYİİ A.Ş. müşterilerine hizmeti gereksinim duydukları anda verebilmek için yurt sathına yayılmış yaygın satış sonrası hizmetler ağını kurmuştur. Garanti kapsamında veya dışında müdehale edilmesi gereken Elektrojen Grubuna (EG) en kısa sürede İŞBİR personeli tarafından çözüm bulunmaktadır.
+İŞBİR müşteri talepleri doğrultusunda Elektrojen Grubunun sigorta ve nakliyesini sözleşme ile taahhüt ederek montaj mahalline teslim eder ve ilk çalıştırma/devreye alma İŞBİR Yetkili Servis Personeli tarafından yapılır. Yine Müşteri ile yapılan sözleşme kapsamında eğer istenirse müşteriye teknik bilgi, kullanım, ilk müdahale eğitimleri verilmektedir. Aynı koşullar dahilinde müşteri ile aylık ve/veya yıllık periyodik bakım anlaşması yapılmaktadır.
+Görüşleriniz Bizim İçin Değerli
+Sunmuş olduğumuz hizmetlerin kalitesini artırmak ve sizlere daha iyi hizmet verebilmek adına geri bildirimleriniz bizim için büyük önem taşımaktadır. Kısa anketimizi doldurarak deneyimlerinizi bizimle paylaşabilirsiniz.
+Aşağıdaki butona tıklayarak müşteri memnuniyet anketine katılabilirsiniz.
+Müşteri Memnuniyet Anketine Katıl
+
+### Tarihçe
+Yurt dışında çalışan Türk İşçilerin dövizli tasarruflarıyla oluşturduğu ve 4148 ortağın katkılarıyla İŞBİR Holding A.Ş. bünyesinde dizel elektrojen grubu
+1977
+Kuruluş
+Yurt dışında çalışan Türk İşçilerin dövizli tasarruflarıyla oluşturduğu ve 4148 ortağın katkılarıyla İŞBİR Holding A.Ş. bünyesinde dizel elektrojen grubu üretmek üzere, 15 Ağustos 1977 yılında kurulmuştur.
+1981-1984
+İŞBİR Elektrik
+1981-1984 yılları arasında Hitzinger lisansı ile özgün alternatör üretimine başlamıştır.
+1987
+İŞBİR Elektrik
+Bu dönemde Yüce Milletimizin bağışları ile Türk Silahlı Kuvvetlerinin savunma sistem ve ürünlerini modern teknolojiye dayalı olarak geliştirmek için kurulan Kara, Deniz ve Hava Kuvvetlerini Güçlendirme Vakıfları, 1987 yılında birleştirilerek Türk Silahlı Kuvvetlerini Güçlendirme Vakfı kurulmuş ve faaliyete başlamıştır.
+1988
+İŞBİR Elektrik
+1988 yılında sermayesinin %99,85 ini alarak İŞBİR Elektrik San. A.Ş. olarak Türk Silahlı Kuvvetlerini Güçlendirme Vakfı bünyesinde faaliyetlerine devam etmiştir.
+2023
+İŞBİR Elektrik
+İŞBİR, 2023 yılı içerisinde, Türkiye'nin ilk ve tek otomasyona dayalı alternatör ve jeneratör fabrikasını faaliyete geçirmeye hazırlanıyor.
+5kVA ile 3000kVA güçleri arasında jeneratör üretimine devam ediyor.
+1977
+1981
+1987
+1988
+2023
+
+### Ücretsiz Yer ve Güç Tespiti
+Güçlü ve kesintisiz enerjiye ihtiyaç duyan evlerden işletmelere, şantiyelerden tarım alanlarına kadar her yerde en doğru jeneratör çözümlerini sunuyoruz.
+Ücretsiz Yer ve Güç Tespiti
+Güçlü ve kesintisiz enerjiye ihtiyaç duyan evlerden işletmelere, şantiyelerden tarım alanlarına kadar her yerde en doğru jeneratör çözümlerini sunuyoruz. Enerji ihtiyacınızı en verimli şekilde karşılayabilmek adına, yerinde detaylı inceleme yaparak uygun jeneratör kapasitesini belirliyoruz. Ücretsiz ön keşif hizmetimiz kapsamında, uzman ekiplerimiz işletmenizi ziyaret ederek güç tespiti ve alan analizi gerçekleştiriyor. Doğru güç seçimiyle hem verimliliğinizi artırıyor hem de gereksiz maliyetlerin önüne geçiyoruz. Güvenilir, ekonomik ve sürdürülebilir enerji çözümleri için bizimle iletişime geçin!
+Tel:
+(0266) 283 00 50
+Dahili: 1154
+Fax:
+(0266) 283 00 66
+-67
+
+### Ürün Detay
+5 kW (6,25 kVA) su soğutmalı jeneratör, enerji ihtiyaçlarını karşılamak için üstün performans ve dayanıklılığı bir araya getirir. Su soğutmalı sistemi,
+TAKTİK SESSİZ KABİNLİ
+JENERATÖR 13 KW/15 KVA
+5 kW (6,25 kVA) su soğutmalı jeneratör, enerji ihtiyaçlarını karşılamak için üstün performans ve dayanıklılığı bir araya getirir. Su soğutmalı sistemi, jeneratörün uzun süreli çalışmalarda bile optimum sıcaklıkta kalmasını sağlar. Bu özellik, cihazın verimliliğini artırırken aşırı ısınma riskini en aza indirir. Sessiz çalışma mekanizması, hem ev kullanımı hem de ticari alanlar için ideal bir çözüm sunar. Güçlü motoru ve sağlam yapısı, zorlu koşullarda dahi kesintisiz enerji sağlar.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+5 kW (3000N 25°C)
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+56 dB (7 m)
+Kuru Ağırlık :
+650 kg
+Ölçüler E x B x Y :
+620 x 1120 x 1120 mm
+Termal İzi :
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Sarfiyatı :
+%100 Güç 2.3 lt/h | %50 Güç 1.6 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Asenkron
+Sürekli Gücü :
+11kW (3000 m, 25°C)
+İkaz :
+Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] :
+2
+Faz Sayısı :
+1
+Frekans :
+50Hz
+Gerilim :
+220V
+Alternatör Soğutma Sistemi :
+Su Soğutmalı
+Alternatör Devri :
+3000 rpm
+Alternatör Koruma Sınıfı :
+IP54
+İzolasyon Sınıfı :
+H
+Voltaj Stabilitesi :
++-3V (220V)
+Güç Faktörü :
+0,8
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2sn
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (1 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### Vizyon & Misyon
+Yenilikçi, katma değeri yüksek ve çevreye duyarlı ürünlerimiz ile ülke ekonomisine katkı sağlayarak; Ülkemizde ve küresel pazarda güven duyulan bir marka
+Vizyonumuz
+Yenilikçi, katma değeri yüksek ve çevreye duyarlı ürünlerimiz ile ülke ekonomisine katkı sağlayarak; Ülkemizde ve küresel pazarda güven duyulan bir marka olarak büyümeyi sürdürmek.
+Misyonumuz
+Türk Silahlı Kuvvetleri başta olmak üzere, jeneratör ve alternatör sistemlerinde beklentileri karşılamak; yerli ve milli katkı payı yüksek, kaliteli, güvenilir, yenilikçi ve rekabetçi teknolojiler ile ürünler üreterek, müşteri memnuniyeti odaklı hizmet anlayışımızı sürdürmek ve ülkemizin jeneratör ve alternatör konusunda yurtdışına bağımlılığını azaltmaktır.
+
+### Yat Jeneratörleri
+MODEL PRIME KVA STANDBY KVA DEVİR RPM FREKANS MOTOR ALTERNATÖR ÜRÜN DETAY ISB-MG7,5 7,5 9 1500 50 Hz KUBOTA SGS 2913-4TM Ürün Detay ISB-MG12 12 14 1500 50 Hz
+Yaşamla Kesintisiz İşbirliği!
+Yat Jeneratörleri
+Jeneratör Modelleri
+E-Kataloğu İncele
+YAT JENERATÖR SETLERİ
+YAT JENERATÖR SETLERİ
+MODEL
+PRIME KVA
+STANDBY KVA
+DEVİR RPM
+FREKANS
+MOTOR
+ALTERNATÖR
+ÜRÜN DETAY
+ISB-MG7,5
+7,5
+9
+1500
+50 Hz
+KUBOTA
+SGS 2913-4TM
+Ürün Detay
+ISB-MG12
+12
+14
+1500
+50 Hz
+KUBOTA
+SGS 2913-4TM
+Ürün Detay
+ISB-MG17
+17
+19
+1500
+50 Hz
+KUBOTA
+SGS 2920-4TM
+Ürün Detay
+ISB-MG24
+24
+27
+1500
+50 Hz
+KUBOTA
+SGS 2920-4TM
+Ürün Detay
+ISB-MG34
+34
+38
+1500
+50 Hz
+KUBOTA
+SGS 3330-4TM
+Ürün Detay
+
+### Yedek Parça Desteği
+Müşteri talepleri doğrultusunda ihtiyaç olan yedek parçalar orjinal veya orjinal ekipman imalatçına ait olmak üzere karşılanmaktadır.
+İŞBİR Elektrik Sanayi A.Ş. Yedek Parça Desteği;
+Müşteri talepleri doğrultusunda ihtiyaç olan yedek parçalar orjinal veya orjinal ekipman imalatçına ait olmak üzere karşılanmaktadır.
+Yedek Parça Hizmeti Verdiğimiz Motor ve Alternatör Çeşitleri Aşağıdadır:
+Motor Çeşitleri
+Cummins
+Deutz
+Hatz Marathon
+Mitsubishi
+Mtu
+Perkins
+Iveco
+Vm
+Volvo Penta
+Alternatör Çeşitleri
+İşbir
+Leroy Sammer
+Sincro
+Stamford
+Detaylı Bilgi için :
+Ersin KARABULUT
+Teklif Hazırlama Uzmanı
+Tel:
+(0266) 283 00 50
+Dahili: 1154
+Tel:
+(0530) 505 82 74
+Fax:
+(0266) 283 00 66
+-67
+E-mail:
+ersin.karabulut@isbirelektrik.com.tr
+Özgür CAN
+Yurt Dışı Yedek Parça Satış Temsilci
+Tel:
+(0266) 283 00 50
+Dahili: 134
+Fax:
+(0266) 283 00 66
+-67
+E-mail:
+TED01@isbirelektrik.com.tr
+İbrahim Oruç
+Satış Sonrası Hizmetler Müdürü
+Tel:
+(0266) 283 00 50
+Dahili: 108
+Fax:
+(0266) 283 00 66
+-67
+E-mail:
+ssh01@isbirelektrik.com.tr
+
+### Yetkili Bayiler
+Gaziosmanpaşaosb Mah. 7. Cad. No: 11/1 Altıeylül/BALIKESİR Tel: 0 266 283 0050 (8HAT) Faks: 0 266 283 0066 - 67 Abide-i Hürriyet Cad. No: 33 34530 Şişli /
+Yetkili Bayiler
+İŞBİR ELEKTRİK SANAYİİ A.Ş.
+BALIKESİR
+Balıkesir Adresimiz
+İletişim Bilgilerimiz
+Balıkesir Adresimiz
+Gaziosmanpaşaosb Mah. 7. Cad. No: 11/1 Altıeylül/BALIKESİR
+İletişim Bilgilerimiz
+Tel:
+0 266 283 0050
+(8HAT)
+Faks:
+0 266 283 0066
+– 67
+İŞBİR ELEKTRİK SANAYİİ A.Ş.
+İSTANBUL
+İstanbul Adresimiz
+İletişim Bilgilerimiz
+İstanbul Adresimiz
+Abide-i Hürriyet Cad. No: 33 34530 Şişli / İSTANBUL
+İletişim Bilgilerimiz
+Tel:
+0 533 014 5830
+İŞBİR ELEKTRİK SANAYİİ A.Ş.
+ANKARA
+Ankara Adresimiz
+İletişim Bilgilerimiz
+Ankara Adresimiz
+Remzi Oğuz Arık Mah. Paris Cad. 43/01 Kavaklıdere / Çankaya / ANKARA
+İletişim Bilgilerimiz
+Tel:
+0 312 473 2600
+Tel:
+0 312 473 2636
+Faks:
+0 312 473 2624
+MAVİ SANCAK JENERATÖR ELEKTRİK ELEKTRONİK SAN. TİC. LTD. ŞTİ.
+İZMİR
+İzmir Adresimiz
+İletişim Bilgilerimiz
+İzmir Adresimiz
+Egemenlik Mahal. 6016/4 Sk. S.S. Geri Kaz. Koop. No:24/1 Bornova / İZMİR
+İletişim Bilgilerimiz
+Tel:
+0 232 436 10 07
+Tel:
+0 532 266 01 94
+Faks:
+0 232 436 11 91
+
+### Yetkili Servisler
+* İlgili şehirin üzerine gelerek Yetkili Servisler ve Yetkili Bayileri
+* İlgili şehirin üzerine gelerek Yetkili Servisler ve Yetkili Bayileri görüntüleyebilirsiniz.
+Bulut Jeneratör Enerji Makine Madencilik San ve Tic Ltd. Şti. Adana
+Adana
+Yeşiloba Mahallesi 46257 Sokak Adana Oto Sanayii Sitesi H Blok No7/8 Z20 Seyhan/ADANA
+Google Haritalarda Gör
+0 532 273 27 57
+0 532 204 54 58
+0 322 233 26 51
+0 322 233 26 52
+isbirservis@gmail.com
+Dost Jeneratör Makine Sanayi Ankara
+Ankara
+Zübeyde Hanım Mahallesi Sebze Bahçeleri Caddesi No:74/11 Yapıcı İşhanı İskitler/Altındağ / ANKARA
+Google Haritalarda Gör
+0 535 592 56 22
+0 312 342 00 87
+dostjenerator@hotmail.com
+JENKON Jeneratör Kontrol Sistemleri Teknik İnş. San ve Tic.Ltd.Şti.
+Ankara
+İvedik Organize Sanayi Bölgesi 1379. Sok. No:15 Yenimahalle / ANKARA
+Google Haritalarda Gör
+0 533 234 98 82
+0 532 681 75 28
+0 554 492 84 87
+info@jenkonjenerator.com.tr
+Tek Jen jeneratör Makina San. Tic. Ltd.Şti.
+Ankara
+Enerji cad. 1208 sokak no:1/N Ostim Yenimahalle Ankara
+Google Haritalarda Gör
+0 532 370 93 37
+0 312 502 00 96
+info@tekjenjenerator.com
+Jen-Set Elk.Enerji otomasyon Jeneratör Yapı İnş. Turizm İth.İhr.San ve Tic.Ltd.Şti. Ankara
+Ankara
+İvedik OSB M.GÖKÇEK Bulvarıroken-2 NO:83İçKapı No: 44 Yenimahalle / ANKARA
+Google Haritalarda Gör
+0 532 636 36 59
+0 554 636 36 59
+0 541 636 36 59
+info@jensetelektrik.com.tr
+jensetelektrik@gmail.com
+Sur Global Savunma San.Tic.A.Ş. Ankara
+Ankara
+Macun Mahallesi ATB İş Merkezi Batı Bulvarı No: 1/246 Yenimahalle / ANKARA
+Google Haritalarda Gör
+0 533 236 07 30
+0 312 397 4965
+surglobalsavunma@gmail.com
+Türker Makine San. ve Tic.Ltd. Şti. Ankara
+Ankara
+Ostim Mah. 1151 Sok. No:9 Yenimahalle/ANKARA
+Google Haritalarda Gör
+444 8 861
+0 313 386 17 70
+y.durmus@turkermakina.com.tr
+Türker Makine San. ve Tic.Ltd. Şti. Samsun
+Samsun
+Esenevler Mahallesi Atatürk Bulvarı Yanyol no:127 Atakum/SAMSUN
+Google Haritalarda Gör
+444 8 861
+0 533 202 30 36
+y.durmus@turkermakina.com.tr
+Türker Makine San. ve Tic.Ltd. Şti. Trabzon
+Trabzon
+Değirmendere Mahallesi Devlet Karayolu Caddesi Ortahisar/TRABZON
+Google Haritalarda Gör
+444 8 861
+0 462 325 35 66
+y.durmus@turkermakina.com.tr
+Jenmar Enerji Sistemleri Müh.San.ve Tic.Ltd.Şti.
+Balıkesir
+Paşaalanı Mah. 20. Sokak No : 22 Karesi / BALIKESİR
+Google Haritalarda Gör
+0 533 364 55 58
+abdullahburhan10@gmail.com
+DNZ Grup Güç Sistemleri
+Balıkesir
+Paşaalanı Mah. Cevdet Demiray cd. No:69/A Karesi / BALIKESİR
+Google Haritalarda Gör
+0 533 084 49 74
+0 533 698 16 11
+0 533 084 49 74
+0 532 379 75 10
+muhasebe@dnzgrupltd.com
+Ceylanlar Elektronik San. ve Tic.
+Bursa
+Üçevler Mah. Nilüfer Ticaret Merkezi 70. Sok. No:133 Nilüfer / BURSA
+Google Haritalarda Gör
+0 224 443 00 72
+0 532 333 88 15
+0 533 374 62 14
+necati@ceylanlarelektronik.com
+Sur Global Savunma San.Tic.A.Ş.
+Diyarbakır
+Talaytepe Mahallesi 4ncü oto sanayi sitesi Y1 Blok No:3 Kayapınar/Diyarbakır
+Google Haritalarda Gör
+0 533 236 07 30
+0 412 229 05 02
+surglobalsavunma@gmail.com
+Sur Global Savunma San.Tic.A.Ş.
+Hatay
+Maşuklu Mahallesi Asi 8 Sok. No:4 Posta Kod: 3610 Antakya / Hatay
+Google Haritalarda Gör
+0 533 236 07 30
+surglobalsavunma@gmail.com
+Balkan Enerji Teknoloji Mühendislik Mimarlık San.Tic.Ltd.Şti.
+Edirne
+Yeni Sanayii 3B Blok No:5 / EDİRNE
+Google Haritalarda Gör
+0 542 567 48 69
+0 541 522 39 59
+balkanenerji@hotmail.com
+irsadiozdinc@yahoo.com.tr
+Doğu Tech Elektronik Haberleşme Bilgisayar ve Elektrik Malzemeleri Tic. San. ve Pazarlama Ltd.Şti.
+Erzurum
+Müftü Salakzade Mah. 79. Sok No: 25/1 Palandöken / ERZURUM
+Google Haritalarda Gör
+0 533 324 44 24
+info@dogutech.com
+Karakaş Jeneratör Elektrik elektronik ithalat ihracat San ve Tic.Ltd.Şti.
+Gaziantep
+Sanayi Mah. 25 Aralık San. Sitesi 60202 Nolu Cad No:38 Şehitkamil / GAZİANTEP
+Google Haritalarda Gör
+0 532 394 66 98
+0 532 610 08 01
+info@karakasjenerator.com.tr
+Budak Makina Güç Sistemleri Sanayi ve Ticaret Limited Şirketi
+Hakkari
+İpek Mah.İpek Yolu Cad.N:93 B Yüksekova / HAKKARİ
+Google Haritalarda Gör
+0 545 455 30 31
+snnbdk33@gmail.com
+ZİRVE GÜÇ JENERATÖR SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ
+Hakkari
+Mezarlık Mah. Gençlik Cad. Özcaner Apt.Altı No:113D Yüksekova/HAKKARİ
+Google Haritalarda Gör
+0 532 061 75 14
+evliyaevin1992@gmail.com
+Muharrem Alcan-Alcan Elektrik
+Iğdır
+Evrenpaşa Cad. No: 66 Merkez /IĞDIR
+Google Haritalarda Gör
+0 536 200 50 95
+alcanelektrik@gmail.com
+Yıldırım Enerji/Tolga Yıldırım
+İstanbul
+Kemalpaşa Mahallesi 1893. Sokak No: 15 A Bağcılar / İSTANBUL
+Google Haritalarda Gör
+0 535 866 05 70
+0 532 400 46 21
+fatmasancakjen@gmail.com
+Çağan Jeneratör İş Makineleri elektrik teknik servis San. ve Tic. Ltd.Şti.
+İstanbul
+Yeşilce Mahallesi Aytekin Sokak No:26/A Seyrantepe Kağıthane / İSTANBUL
+Google Haritalarda Gör
+0 536 854 74 12
+info@caganjenerator.com.tr
+Çağrı Jenetatör Servis Hizmetleri
+İstanbul
+Firuzköy Mah. Hasan Önel Caddesi No:166/1A Avcılar/istanbul
+Google Haritalarda Gör
+0 542 426 60 60
+0 546 695 52 52
+imdatyuksel@cagrijenerator.com
+Yakamoz Jeneratör Motor Makine Servis Yedek Parça Turizm San. Ve Tic. Ltd. Ştİ.
+İzmir
+Fatih Mahallesi 1193 Sokak No:7 Sarnıç/ Gaziemir/İZMİR
+Google Haritalarda Gör
+444 5 012
+0 232 461 87 31
+0 530 040 03 68
+selcuk.izci@yakamozmakina.com
+Yakamoz Jeneratör Motor Makine Servis Yedek Parça Turizm San. Ve Tic. Ltd. Şti.
+Van
+Abdurahnman Gazi Mahallesi Erciş Yolu Bulvarı Sönmez İnşaat Karşısı Dış Kapı No:11C Tuşba /VAN
+Google Haritalarda Gör
+444 5 012
+0 232 461 87 31
+0 535 208 71 04
+selcuk.izci@yakamozmakina.com
+Elektrojen Mak. Motor Bobinaj Jeneratör San. Tic Ltd. Şti.
+Konya
+Karatay Sanayi Fatih Mah. Gelibolu Sok. No:38 Şelçuklu / KONYA
+Google Haritalarda Gör
+0 533 463 06 02
+info@elektrojen.com.tr
+Akgül Jeneratör Satış- Servis- Kiralama- Yedek Parça Uğur AKGÜL
+Malatya
+Çavuşoğlu Mahallesi Helal Caddesi Kalaylı Sokak no 1 Yeşilyurt Malatya
+Google Haritalarda Gör
+0 532 265 05 09
+ugur.akgul@akguljenerator.com
+Ahmet Odabaş/Uzman Enerji
+Samsun
+Atatürk Bulvarı Şabanoğiu Mah. Tekke Köy. No:169/A / SAMSUN
+Google Haritalarda Gör
+0 530 130 27 11
+uzmanenerji_servis@hotmail.com
+Voltaj Elektrik İnş.Enerji San.Tic.Ltd.Şti.
+Siirt
+Hükümet Caddesi Değer Plaza 34/D No : 3 SİİRT
+Google Haritalarda Gör
+0 544 673 97 03
+atiliminsaatyalova@gmail.com
+Atılım Elektrik İnş.Enerji San.Tic.Ltd.Şti.
+Yalova
+Süleyman Bey Mah. Arabacılar Sok.No :15 / YALOVA
+Google Haritalarda Gör
+0 542 213 82 47
+0 226 814 04 34
+atiliminsaatyalova@gmail.com
+Sülem Sistem Elektrik Ltd. Şti.
+Kıbrıs
+Yaman Bey sk. No:6/2 Göçmenköy Lefkoşa/Kıbrıs
+Google Haritalarda Gör
+0 542 882 14 92
+sulemsistem@hotmail.com
+MİNSAN ENGINEERING LTD
+Kıbrıs
+Org. San. Böl. 26. Sok. No:9 Lefkoşa
+Google Haritalarda Gör
+0 533 866 03 21
+mineyarkiner@minsanengineering.com
+Yüksel Elektrik Makina - Atila Bilge
+Aksaray
+8639 SK No: 10 6800 MERKEZ/ AKSARAY
+Google Haritalarda Gör
+0 531 030 56 56
+info@bilgunenerji.com.tr
+MİLJEN SAV UNMA VE GÜÇ SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ
+Ankara
+İnönü Mah. 1752 Sk. No:6/2G Yenimahalle/ Ankara
+Google Haritalarda Gör
+0 552 614 22 03
+info@miljenpower.com
+İŞBİR ELEKTRİK SANAYİİ A.Ş.
+Balıkesir
+Gazi Osmanpaşa Mh, OSB 7. Cd No:11/1, 10100 Altıeylül/Balıkesir
+Google Haritalarda Gör
+0 266 283 0050
+YETKİLİ BAYİ
+İŞBİR ELEKTRİK SANAYİİ A.Ş.
+İSTANBUL
+Cumhuriyet, Abide-i Hürriyet Cd No:33, 34380 Şişli/İstanbul
+Google Haritalarda Gör
+0 533 014 5830
+YETKİLİ BAYİ
+İŞBİR ELEKTRİK SANAYİİ A.Ş.
+ANKARA
+Remzi Oğuz Arık, Paris Cd. No:43, 06680 Çankaya/Ankara
+Google Haritalarda Gör
+0 312 473 2600
+YETKİLİ BAYİ
+Mavi Sancak Jeneratör Elektrik Elektronik Enerji Ltd. Şti.
+İzmir
+Egemenlik Mah. 6016/4 Sk. S.S. Geri Kaz. Koop. No:24/1 Bornova / İZMİR
+Google Haritalarda Gör
+0 232 436 10 07
+0 532 266 01 94
+bahar@mavisancak.net
+YETKİLİ BAYİ
+
+### Yönetim Kurulu
+Yönetim Kurulu
+Mesut ERAY
+Yönetim Kurulu Başkan Vekili
+Prof. Dr. Nurettin ACIR
+Yönetim Kurulu Başkanı
+Prof. Dr. Babür ÖZÇELİK
+Yönetim Kurulu Üyesi
+
+### Ürün: 1.80 kW 2.25 kVA
+PORTATİF DİZEL
+JENERATÖR 1.80 kW 2.25 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 1.80 kW 2.25 kVA portatif dizel jeneratörü, kompakt tasarımı ve yüksek performansıyla dikkat çeken bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda güvenilir bir şekilde çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 95 kg olup, boyutları 595 x 760 x 750 mm’dir. Ayrıca, 7 metre mesafede 82 dB gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 2,5 kW (3000N 25°C)
+Çalışma Sıcaklığı : -32°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+60°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : +90 (25°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 82 dB (7 m)
+Kuru Ağırlık : 95 kg
+Ölçüler E x B x Y : 595 x 760 x 750 mm
+Termal İzi : –
+Yakıt Tipi/Kapasitesi : Dizel/8 Saat
+Yakıt Sarfiyatı : %100 Güç 0.84 lt/h | %50 Güç 0.54 lt/h
+Alternatör Marka : (AVRUPA)
+Tipi : Senkron
+Frekans : 50Hz
+Gerilim : 220V
+Devri : 3000 rpm
+Faz Sayısı : 2
+Alternatör Koruma Sınıfı : IP23
+İzolasyon Sınıfı : H
+Güç Faktörü : 0,8
+Soğutma Sistemi : Hava Soğutmalı
+Voltaj Stabilitesi : +-3[220 V]
+Voltaj Regülatörü : AVR
+Voltaj Regülatör Duyarlılığı : +-%2
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka : ODYSSEY
+Model : PC545
+Volt : 12V
+Amper : 18 Ah (2 Adet)
+En (mm) : 80
+Boy (mm) : 175
+Yükseklik (mm) : 120
+
+### Ürün: 10 kW 12.5 kVA
+TAKTİK SESSİZ KABİNLİ
+JENERATÖR 10 kW 12.5 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 10 kW 12.5 kVA su soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 800 kg olup, boyutları 660 x 1600 x 1400 mm’dir. Ayrıca, 7 metre mesafede 64 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 10 kW (3000N 25°C)
+Cos 1 – In/Cos 0.8 – In : 15, 15A/18, 94 A
+Çalışma Sıcaklığı : -32°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+60°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : +90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 64 dB (7 m)
+Kuru Ağırlık : 800 kg
+Ölçüler E x B x Y : 660 x 1600 x 1400 mm
+Termal İzi : Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi : Dizel/24 Saat
+Yakıt Sarfiyatı : %100 Güç 5.2 lt/h | %50 Güç 3.6 lt/h
+Alternatör Marka : İŞBİR
+Tipi : Asenkron
+Sürekli Gücü : 18W (3000 m, 25°C)
+İkaz : Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] : 2
+Faz Sayısı : 1
+Frekans : 50Hz
+Gerilim : 220V
+Alternatör Soğutma Sistemi : Su Soğutmalı
+Alternatör Devri : 3000 rpm
+Alternatör Koruma Sınıfı : IP54
+İzolasyon Sınıfı : H
+Voltaj Stabilitesi : +-3V (220V)
+Güç Faktörü : 0,8
+Harmonik THD : <3
+Kurtarma Zamanı : 2sn
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka : Mutlu
+Model : AGM
+Volt : 12V
+Amper : 70 Ah (1 Adet)
+CCA (EN) : 815
+En (mm) : 175
+Boy (mm) : 278
+Yükseklik (mm) : 190
+
+### Ürün: 13 kW 15 kVA
+TAKTİK SESSİZ KABİNLİ
+JENERATÖRLER 13 kW 15 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 13 kW 15 kVA su soğutmalı jeneratörü, yüksek performansı ve dayanıklılığıyla dikkat çeken bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda güvenilir bir şekilde çalışabilir. Depolama koşulları ise -40°C ile +90°C arasındadır. Cihazın kuru ağırlığı 750 kg olup, boyutları 640 x 1600 x 1600 mm’dir. Ayrıca, 7 metre mesafede 64 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 13 kW (3000N 25°C)
+Çalışma Sıcaklığı : -32°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+90°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : +90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 64 dB (7 m)
+Kuru Ağırlık : 750 kg
+Ölçüler E x B x Y : 640 x 1600 x 1600 mm
+Termal İzi : Düşük Termal İzi
+Yakıt Tipi/Kapasitesi : Dizel/8 Saat
+Yakıt Sarfiyatı : %100 Güç 6.8 lt/h | %50 Güç 3.2 lt/h
+Alternatör Marka : İŞBİR
+Tipi : Asenkron
+Maksimum Gücü : 25W (3000 m, 25°C)
+Sürekli Gücü : 20W (3000 m, 25°C)
+İkaz : Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] : 2
+Faz Sayısı : 1
+Frekans : 50Hz
+Gerilim : 220V
+Alternatör Soğutma Sistemi : Su Soğutmalı
+Alternatör Devri : 3000 rpm
+Alternatör Koruma Sınıfı : IP54
+İzolasyon Sınıfı : H
+Voltaj Stabilitesi : +-3V (220V)
+Güç Faktörü : 0,8
+Harmonik THD : <3
+Kurtarma Zamanı : 2sn
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka : Mutlu
+Model : AGM
+Volt : 12V
+Amper : 70 Ah (1 Adet)
+CCA (EN) : 815
+En (mm) : 175
+Boy (mm) : 278
+Yükseklik (mm) : 190
+
+### Ürün: 2.52 kW 3.15 kVA
+PORTATİF DİZEL
+JENERATÖR 2.52 kW 3.15 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 2.52 kW 3.15 kVA portatif dizel jeneratörü, kompakt tasarımı ve yüksek performansıyla dikkat çeken bir güç kaynağıdır. Bu jeneratör, -20°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda güvenilir bir şekilde çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 170 kg olup, boyutları 675 x 625 x 900 mm’dir. Ayrıca, 7 metre mesafede 64 dB gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 2,5 kW (3000N 25°C)
+Çalışma Sıcaklığı : -20°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+60°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : +90 (25°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 64 dB (7 m)
+Kuru Ağırlık : 170 kg
+Ölçüler E x B x Y : 675 x 625 x 900 mm
+Termal İzi : Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi : Dizel/18 Saat
+Yakıt Sarfiyatı : %100 Güç 1.4 lt/h | %50 Güç 0.82 lt/h
+Alternatör Marka : (AVRUPA)
+Tipi : Fırçalı/Fırçasız
+Sürekli Gücü : 4,8 kVA
+Frekans : 50Hz
+Gerilim : 220V
+Devri : 3000 rpm
+Kutup Sayısı : 2
+Faz Sayısı : 1
+Güç Faktörü : 0,8
+Alternatör Koruma Sınıfı : IP23
+İzolasyon Sınıfı : H
+Uyartım: Kendinden Uyarmalı
+Soğutma Sistemi : Hava Soğutmalı
+Voltaj Regülatörü : AVR
+Voltaj Regülatör Duyarlılığı : +-%2
+Elektromanyetik Uyumluluk : IEC 61000-6-2
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka : Sprinter P12V875 AGM
+Volt : 12V
+Amper : 40 Ah
+Maksimum Amper : 875 A
+Çalışma Sıcaklığı : -20°C / +50°C
+En (mm) : 198
+Boy (mm) : 168
+Yükseklik (mm) : 175
+
+### Ürün: 20 kW 25 kVA Hava Soğutmalı
+TAKTİK SESSİZ KABİNLİ
+JENERATÖR 20 kW 25 kVA Hava Soğutmalı
+İşbir Elektrik Sanayi A.Ş.’nin 20 kW 25 kVA hava soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 1250 kg olup, boyutları 660 x 1900 x 1430 mm’dir. Ayrıca, 7 metre mesafede 62 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+20 kW (3000N 25°C)
+Cos 1 – In/Cos 0.8 – In :
+30,3A/37,8A
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+62 dB (7 m)
+Kuru Ağırlık :
+1250 kg
+Ölçüler E x B x Y :
+660 x 1900 x 1430 mm
+Termal İzi :
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 9.8 lt/h | %50 Güç 5.4 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Asenkron
+Maksimum Gücü :
+32W (3000 m, 25°C)
+Sürekli Gücü :
+25,6W (3000 m, 25°C)
+İkaz :
+Uyartılı
+Polarite [Kutup Sayısı] :
+4
+Faz Sayısı :
+3
+Frekans :
+50Hz
+Gerilim :
+380/220V
+Alternatör Soğutma Sistemi :
+Hava Soğutmalı
+Alternatör Devri :
+1500 rpm
+Alternatör Koruma Sınıfı :
+IP23
+İzolasyon Sınıfı :
+H
+Voltaj Stabilitesi :
++-3V (220V)
+Güç Faktörü :
+0,8
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2sn
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (2 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### Ürün: 20 kW 25 kVA Su Soğutmalı
+TAKTİK SESSİZ KABİNLİ
+JENERATÖRLER 20 kW 25 kVA Su Soğutmalı
+İşbir Elektrik Sanayi A.Ş.’nin 20 kW 25 kVA su soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -32°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 1000 kg olup, boyutları 660 x 1900 x 1430 mm’dir. Ayrıca, 7 metre mesafede 62 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü :
+20 kW (3000N 25°C)
+Cos 1 – In/Cos 0.8 – In :
+30,3A/37,8A
+Çalışma Sıcaklığı :
+-32°C/+55°C
+Depolama/Saklama Sıcaklığı :
+-40°C/+60°C
+Çalıştırma Yüksekliği :
+3000 m
+Bağıl Nem :
++90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı :
+120 km/saat
+Gürültü Seviyesi :
+62 dB (7 m)
+Kuru Ağırlık :
+1000 kg
+Ölçüler E x B x Y :
+660 x 1900 x 1430 mm
+Termal İzi :
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi :
+Dizel/8 Saat
+Yakıt Sarfiyatı :
+%100 Güç 9.8 lt/h | %50 Güç 5.4 lt/h
+Alternatör Marka :
+İŞBİR
+Tipi :
+Asenkron
+Maksimum Gücü :
+32W (3000 m, 25°C)
+Sürekli Gücü :
+27W (3000 m, 25°C)
+İkaz :
+Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] :
+2
+Faz Sayısı :
+3
+Frekans :
+50Hz
+Gerilim :
+380/220V
+Alternatör Soğutma Sistemi :
+Su Soğutmalı
+Alternatör Devri :
+3000 rpm
+Alternatör Koruma Sınıfı :
+IP54
+İzolasyon Sınıfı :
+H
+Voltaj Stabilitesi :
++-3V (220V)
+Güç Faktörü :
+0,8
+Harmonik THD :
+<3
+Kurtarma Zamanı :
+2sn
+Açma/Kapama Düğmeler
+AC Ampermetre
+(Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati
+(Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu
+(Düğmeler ve Göstergeler)
+Anahtar Hata By Pass
+(Switch Failre By Pass)
+Akü Marka :
+Mutlu
+Model :
+AGM
+Volt :
+12V
+Amper :
+70 Ah (2 Adet)
+CCA (EN) :
+815
+En (mm) :
+175
+Boy (mm) :
+278
+Yükseklik (mm) :
+190
+
+### Ürün: 28 Klimatize
+ASKERİ MONBİNE JENERATÖR
+28 Klimatize
+İşbir Elektrik Sanayi A.Ş.’nin 28V Klimatize jeneratörü, zorlu çevre koşullarında güvenilir enerji sağlamak üzere tasarlanmış, entegre klima sistemiyle donatılmış yüksek performanslı bir güç kaynağıdır.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 18 kW (3000m 25°C)
+Çalışma Sıcaklığı : -32°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+60°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : %90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 64 dB (7 m)
+Kuru Ağırlık : 570 kg
+Ölçüler : E x B x Y 960 x 2100 x 780 mm
+Termal İzi : Düşük Termal İzi
+Yakıt Tipi/Kapasitesi : Dizel/8 Saat
+Yakıt Sarfiyatı :%100 Güç 6 lt/h / %50 Güç 3.6 lt/h
+Alternatör Marka : İŞBİR
+Tipi : Pençe
+Maksimum Gücü : 800A (3000 m, 25°C)
+Sürekli Gücü : 600A (3000 m, 25°C)
+Gerilim : 28V
+Alternatör Soğutma Sistemi : Hava Soğutmalı
+Alternatör Devri : 1000-4800 rpm
+Alternatör Koruma Sınıfı : IP23
+İzolasyon Sınıfı : H
+Harmonik THD : <3
+Kurtarma Zamanı : 2 sn
+Açma/Kapama Düğmeleri
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler
+Anahtar Hata By Pass (Switch Failre By Pass
+Military Paint Ral 1001 Sand Khaki
+Military Paint Ral 1019 Desert Storm
+Military Paint Ral 6003 Olive Green
+Military Paint Ral 6014 Olive Drap
+Military Paint Ral 6031 Forest Green
+Military Paint Ral 7013 Brown Uniform
+Military Paint Ral 7016 Anthracite
+Military Paint Ral 7038 Grey
+Military Paint Ral 8027 Mud Brown
+Military Paint Ral 9010 Flat White
+Military Paint Ral 9021 Flat Black
+Military Paint Camouflage Design
+Klima Gücü : 3 kW (3000m 25°C)
+Çalışma Sıcaklığı : -32°C/+55°C
+Isıtma : 17/23°C
+Soğutma : 17/23°C
+Nem Alma : %95/%40
+CE102
+CS114
+CS115
+CS116
+CS118
+RE102
+RS103
+Alçak Basınç Metod500. 4, Pr. II ve Pr. I
+Yüksek Sıcaklık Metod501. 4, Pr. II ve Pr. I
+Düşük Sıcaklık Metod502. 4, Pr. II ve Pr. I
+Yağış Metod506. 4, Pr. I
+Nem Metod507. 4
+Küf Metod508. 5
+Tuz Sisi Metod509. 4
+Kum Toz Metod510. 4, Pr. II ve Pr. I
+Şok Metod514. 5, Pr. I, Mtd.C-VII, Mtd.5C-III
+Sarsıntı Metod516. 5, Fgr.C3
+Buzlanma Metod521. 2, Pr. I
+Güneş Yükü Metod505.5-A2
+
+### Ürün: 28 V (40 A)
+DC ALTERNATÖR
+28 V (40 A)
+İŞBİR DC alternatörler, yüksek verimlilik ve dayanıklılık odaklı tasarlanmıştır. Düşük devirlerde bile kararlı doğru akım üretebilen sistemimiz, özellikle güneş enerjisi destekli uygulamalar, mobil araçlar ve bağımsız enerji çözümleri için idealdir. Kompakt yapısı, sessiz çalışması ve bakım kolaylığı sayesinde uzun ömürlü ve güvenilir bir enerji kaynağı sunar. İhtiyaca özel üretim seçenekleriyle projelerinize güç katıyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+DC JENERATÖR SETLERİ
+28 V (40 A) JENERATÖR
+MODEL
+PRIME KVA
+STANDBY KVA
+DEVİR RPM
+FREKANS
+MOTOR
+ALTERNATÖR
+ECO20RIC_V1.0
+20
+22
+1500
+50 Hz
+RICARDO
+ISBECO20
+ECO30RIC_V1.0
+30
+33
+1500
+50 Hz
+RICARDO
+ISBECO30
+ECO40RIC_V1.0
+40
+44
+1500
+50 Hz
+RICARDO
+ISBECO40
+ECO50RIC_V1.0
+50
+55
+1500
+50 Hz
+RICARDO
+ISBECO50
+ECO60RIC_V1.0
+60
+66
+1500
+50 Hz
+RICARDO
+ISBECO60
+ECO75RIC_V1.0
+75
+82
+1500
+50 Hz
+RICARDO
+ISBECO75
+ECO100RIC_V1.0
+100
+110
+1500
+50 Hz
+RICARDO
+ISBECO100
+ECO150RIC_V1.0
+150
+165
+1500
+50 Hz
+RICARDO
+ISBECO150
+ECO200RIC_V1.0
+200
+220
+1500
+50 Hz
+RICARDO
+ISBECO200
+ECO250RIC_V1.0
+250
+275
+1500
+50 Hz
+RICARDO
+ISBECO250
+ECO300RIC_V1.0
+300
+330
+1500
+50 Hz
+RICARDO
+ISBECO300
+ECO40WEI_V1.0
+40
+44
+1500
+50 Hz
+WEICHAI
+ISBECO40
+ECO50WEI_V1.0
+50
+55
+1500
+50 Hz
+WEICHAI
+ISBECO50
+ECO75WEI_V1.0
+75
+82
+1500
+50 Hz
+WEICHAI
+ISBECO75
+ECO150WEI_V1.0
+150
+165
+1500
+50 Hz
+WEICHAI
+ISBECO150
+ECO250WEI_V1.0
+250
+275
+1500
+50 Hz
+WEICHAI
+ISBECO250
+ECO300WEI_V1.0
+300
+330
+1500
+50 Hz
+WEICHAI
+ISBECO300
+Alternatör Serisi Kodlama
+SGS
+SENKRON ALTERNATÖR
+AGW
+ASENKRON ALTERNATÖR
+DCG
+DC ALTERNATÖR
+HSG
+YÜKSEK DEVİRLİ ALTERNATÖR
+LSG
+DÜŞÜK DEVİRLİ ALTERNATÖR
+AVG
+ASENKRON DEĞİŞKEN DEVİRLİ ALTERNATÖR
+SVG
+SENKRON DEĞİŞKEN DEVİRLİ ALTERNATÖR
+PTO
+YARDIMCI GÜÇ ALTERNATÖRÜ
+MVG
+ORTA GERİLİM ALTERNATÖR
+PMG
+SABİT MIKNATISLI ALTERNATÖR
+Kısaltmalar ve Açıklamalar
+T
+Tek Yataklı Alternatör
+H
+Çift Yataklı Alternatör
+M
+Monofaze ( M İşareti yoksa Trifazedir )
+4T
+4 Kutuplu, Tek Yataklı, Trifaze
+4TM
+4 Kutuplu, Tek Yataklı, Monofaze
+4H
+4 Kutuplu, Çift Yataklı, Trifaze
+2T
+2 Kutuplu, Tek Yataklı, Trifaze
+2TM
+2 Kutuplu, Tek Yataklı, Monofaze
+
+### Ürün: 28V 60A / 56V 60A Klimatize
+ASKERİ MONBİNE JENERATÖR
+28V 60A / 56V 60A Klimatize
+İşbir Elektrik Sanayi A.Ş.’nin 28V 60A / 56V 60A askeri kombine jeneratörü, zorlu çevre koşullarında güvenilir ve kesintisiz enerji sağlamak üzere tasarlanmış yüksek performanslı bir güç kaynağıdır.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 6 kW (3000m 25°C)
+Çalışma Sıcaklığ :ı -32°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+60°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : %90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 64 dB (7 m)
+Kuru Ağırlık : 550 kg
+Ölçüler : E x B x Y 680 x 1600 x 675 mm
+Termal İzi : Düşük Termal İzi
+Yakıt Tipi/Kapasitesi : Dizel/8 Saat
+Yakıt Sarfiyatı :%100 Güç 2 lt/h / %50 Güç 1.3 lt/h
+Alternatör Marka : İŞBİR
+Tipi : Pençe
+Maksimum Gücü : 80A (3000 m, 25°C)
+Sürekli Gücü : 60A (3000 m, 25°C)
+Gerilim : 28V/56V
+Alternatör Soğutma Sistemi : Hava Soğutmalı
+Alternatör Devri : 1000-4800 rpm
+Alternatör Koruma Sınıfı : IP23
+İzolasyon Sınıfı : H
+Harmonik THD : <3
+Kurtarma Zamanı : 2 sn
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka : Mutlu
+Model : AGM
+Volt : 12V
+Amper : 70 Ah (6 Adet)
+CCA (EN) : 815
+En (mm) : 175
+Boy (mm) : 278
+Yükseklik (mm) : 190
+
+### Ürün: 30 kW 37.5 kVA Hava Soğutmalı
+TAKTİK SESSİZ KABİNLİ
+JENERATÖR 30 kW 37.5 kVA Hava Soğutmalı
+İşbir Elektrik Sanayi A.Ş.’nin 30 kW 37.5 kVA hava soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -30°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 1200 kg olup, boyutları 670 x 2010 x 1470 mm’dir. Ayrıca, 7 metre mesafede 64 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 30 kW (3000N 25°C)
+Çalışma Sıcaklığı : -30°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+60°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : +90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 64 dB (7 m)
+Kuru Ağırlık : 1200 kg
+Ölçüler E x B x Y : 670 x 2010 x 1470 mm
+Termal İzi : Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi : Dizel/8 Saat
+Yakıt Sarfiyatı : %100 Güç 13.3 lt/h | %50 Güç 7.3 lt/h
+Alternatör Marka : İŞBİR
+Tipi : Asenkron
+Sürekli Gücü : 42W (3000 m, 25°C)
+İkaz : Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] : 4
+Faz Sayısı : 3
+Frekans : 50Hz
+Gerilim : 380/220V
+Alternatör Soğutma Sistemi : Hava Soğutmalı
+Alternatör Devri : 1500 rpm
+Alternatör Koruma Sınıfı : IP23
+İzolasyon Sınıfı : H
+Voltaj Stabilitesi : +-3V (220V)
+Güç Faktörü : 0,8
+Harmonik THD : <3
+Kurtarma Zamanı : 2sn
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka : Mutlu
+Model : AGM
+Volt : 12V
+Amper : 70 Ah (2 Adet)
+CCA (EN) : 815
+En (mm) : 175
+Boy (mm) : 278
+Yükseklik (mm) : 190
+
+### Ürün: 30 kW 37.5 kVA Su Soğutmalı
+TAKTİK SESSİZ KABİNLİ
+JENERATÖRLER 30 kW 37.5 kVA
+İşbir Elektrik Sanayi A.Ş.’nin 30 kW 37.5 kVA su soğutmalı jeneratörü, zorlu çevre koşullarında yüksek performans ve güvenilirlik sunan bir güç kaynağıdır. Bu jeneratör, -30°C ile +55°C arasındaki çalışma sıcaklıklarında ve 3000 metreye kadar olan irtifalarda sorunsuz çalışabilir. Depolama koşulları ise -40°C ile +60°C arasındadır. Cihazın kuru ağırlığı 1200 kg olup, boyutları 670 x 2010 x 1470 mm’dir. Ayrıca, 7 metre mesafede 64 dB gibi düşük bir gürültü seviyesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 30 kW (3000N 25°C)
+Çalışma Sıcaklığı : -30°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+60°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : +90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 64 dB (7 m)
+Kuru Ağırlık : 1200 kg
+Ölçüler E x B x Y : 670 x 2010 x 1470 mm
+Termal İzi : Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Tipi/Kapasitesi : Dizel/8 Saat
+Yakıt Sarfiyatı : %100 Güç 13.3 lt/h | %50 Güç 7.3 lt/h
+Alternatör Marka : İŞBİR
+Tipi : Asenkron
+Sürekli Gücü : 42W (3000 m, 25°C)
+İkaz : Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] : 2
+Faz Sayısı : 3
+Frekans : 50Hz
+Gerilim : 380/220V
+Alternatör Soğutma Sistemi : Su Soğutmalı
+Alternatör Devri : 3000 rpm
+Alternatör Koruma Sınıfı : IP54
+İzolasyon Sınıfı : H
+Voltaj Stabilitesi : +-3V (220V)
+Güç Faktörü : 0,8
+Harmonik THD : <3
+Kurtarma Zamanı : 2sn
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka : Mutlu
+Model : AGM
+Volt : 12V
+Amper : 70 Ah (2 Adet)
+CCA (EN) : 815
+En (mm) : 175
+Boy (mm) : 278
+Yükseklik (mm) : 190
+
+### Ürün: 400 Hz
+MOBİL
+JENERATÖR 400 Hz
+İşbir Elektrik Sanayi A.Ş.’nin 400 Hz mobil jeneratörleri, özellikle askeri ve havacılık uygulamaları için tasarlanmış, yüksek frekanslı enerji ihtiyacını karşılayan güvenilir ve dayanıklı güç kaynaklarıdır. Özellikle askeri operasyonlar ve havacılık sektöründe tercih edilen bu sistemler, mobilite ve dayanıklılık açısından üstün özellikler sunar.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Bakım Gerektirmeyen Tip Akü
+7 Gün / 24 Saat Tam Yükte Çalışabilme
+2 Bakım Personelinin Aynı Anda Çalışmasına Uygun Yapı
+Helikopter ile Havadan Taşınabilecek Özellikte
+Yan %20, Dikine %60 Eğimde Hareket Kabiliyetine Sahip
+Tam Yükte 12 Saat Çalışma Kapasiteli Yakıt Tankı
+40/60/80 mt Güç Çıkış Kablosu (Opsiyonel)
+Mobil Enerji Kaynağı Asfalt Yollarda; en az 60 (Altmış) km/saat Hız Kabiliyeti Asfalt Olmayan Stabilize Yollarda; En Az 30 (Otuz) km/saat hız kabiliyeti
+1.1. Alternatör 1 :
+SGB 60/32 400Hz 75 kVA 3 Faz 220 V AC
+1.2. Alternatör 2 :
+SGB 43/4 50Hz 100 kVA 3 Faz 220 V AC
+1.3. Kaplin 1 :
+ME 240
+1.4. Kaplin 2 :
+E 220
+1.5. Araflanş :
+SAE ½-SAE 2
+1.6. Şase :
+3700 mm
+1.7. Akü :
+12V 150 Ah
+1.8. Pano Ölçüleri :
+(600+400)x1000x350 mm
+2.0. Römork :
+Çift Akslı 4750×2000 mm
+3.0. Kabin Ebatları :
+4750x2000x1900 mm
+4.0. Kablo Özellikleri :
+2×40 mt 3×50+25 mm² BLDL 2X40 mt 3×35 + 16 mm² BLDL
+1.1. Alternatör 1 :
+SGB 60/32 400Hz 75 kVA 3 Faz 220 V AC
+1.2. Alternatör 2 :
+SGB 29/4 50Hz 15 kVA 1 Faz 220 V AC
+1.3. Kaplin 1 :
+ME 220
+1.4. Kaplin 2 :
+E 150
+1.5. Araflanş :
+SAE ½-SAE 2
+1.6. Şase :
+3300 mm
+1.7. Akü :
+12V 150 Ah.
+1.8. Pano Ölçüleri :
+(600+400)x1000x350 mm
+2.0. Römork :
+Çift Akslı 4750×2000 mm
+3.0. Kabin Ebatları :
+4750x2000x1900 mm
+4.0. Kablo Özellikleri :
+1×40 mt 3×10 BLDL 1×40 mt 3×35 + 16 mm² BLDL
+1.1. Alternatör 1 :
+SGB 60/32 400Hz 125 kVA 3 Faz 220 V AC
+1.2. Alternatör 2 :
+SGB 29/4 50Hz 15 kVA 1 Faz 220 V AC
+1.3. Kaplin 1 :
+ME 240
+1.4. Kaplin 2 :
+E 150
+1.5. Araflanş :
+SAE ½-SAE 2
+1.6. Şase :
+3700 mm
+1.7. Akü :
+12V 150 Ah.
+1.8. Pano Ölçüleri :
+(600+400)x1000x350 mm
+2.0. Römor :
+k Çift Akslı 4750×2000 mm
+3.0. Kabin Ebatları :
+4750x2000x1900 mm
+4.0. Kablo Özellikleri :
+1×40 mt 3×10 BLDL 1X40 mt 3×70 + 35 mm² BLDL
+1.1. Alternatör 1 :
+SGB 60/32 400Hz 75 kVA 3 Faz 220 V AC
+1.2. Alternatör 2 :
+SGB 29/4 50Hz 15 kVA 1 Faz 220 V AC
+1.3. Kaplin 1 :
+ME 220
+1.4. Kaplin 2 :
+E 150
+1.5. Araflanş :
+SAE ½-SAE 2
+1.6. Şase :
+3700 mm
+1.7. Akü :
+12V 150 Ah.
+1.8. Pano Ölçüleri :
+(600+400)x1000x350 mm
+2.0. Römork :
+Çift Akslı 4750×2000 mm
+3.0. Kabin Ebatları :
+4750x2000x1900 mm
+4.0. Kablo Özellikleri :
+1×40 mt 3×10 BLDL 1X40 mt 3×70 BLDL, 1×40 mt 4×10 BLDL
+5.0. Trafo Özellikleri :
+25 kVA, Giriş 3 Faz 400Hz 220 V AC Çıkış 54 V DC (± 27 V DC)
+Fırçasız/Senkron/Kendinden İkazlı
+110-500V / 50-40Hz / 1-3 Faz / 1.500 Dev/Dak 0.8 Güç Faktörü
+Elektronik Regülasyon
+Voltaj Ayar Poyansiyometresi
+TS 3033/EN 60529/IP 23 Koruma Sınıfı
+Rotoru Dinamik Balanslı
+%15 Max Geçici Gerilim
+%1 Max Kararlı Hal
+%3,5 Max Harmonik Salınım
+TS 3336/EN 60085 H Sınıfı
+Aşırı İkaz Koruması
+27 V DC Çıkış (Opsiyonel)
+32 Kutuplu (400 Hz)
+Tipi :
+SGB 605/4-H
+Frekans :
+400 Hz
+Standartlar :
+ISO 8528/EN 12601/55011
+Koruma Derecesi :
+IP23
+Gerilim :
+127/220 V
+Akımı :
+197/328 Amper
+Yataklar :
+Çift
+Voltaj Regülasyonu :
+± %1
+Geçici Voltaj Değişimi :
+<%18 (Pf:0.8)
+Yükseklik, Sıcaklık :
+<1000m. 40°C
+Isınma Sınırı :
+90°C
+İzolasyon Sınıfı :
+F/H Sınıf
+Uyartım Sistemi :
+Fırçasız
+İkaz Şekli :
+Kendinden İkazlı
+Kısa Devre Kapasitesi :
+2.5 – 4 x In
+Sargı Adımı :
+2/3
+Parazit Bastırma Derecesi :
+VDE0875N
+AVR Modeli :
+ISAVR
+Devir Sayısı :
+1500/1800 Dev/Dak
+Sürekli Güç :
+200 kVA
+Aşırı Güç Yüklenebilme Sınırı :
+2 Dakika Süre ile %150
+Arıza ve Aşırı Yüke Karşı Koruma :
+Var
+Amortisör Sargısı :
+Var
+Gerilim Ayar Sınırı :
+± %10
+Bağlantı Şekli :
+Yıldız Bağlantı
+Güç Faktörü :
+0.8-1
+Elektromanyetik Uyumluluk :
+EN 61000-6-2
+TIF :
+<%50
+THD :
+<%3.5
+THF :
+<%3.5
+STANAG 4101’e Uygun Taşıma Mekanizması
+Karayolları Trafik Tüzüğüne Uygun ve Tescilli
+Şok Emici Yay Sistemi ile Destekli Bağlantı Halkası
+6000 kg Ağırlık Taşıyacak Kapasite Çift Dingilli
+Hareket Esnasında Katlanabilir 1 Adet Taşıma Tekeri
+En Az %40 Eğimli Yolda Römorku Emniyetle Tutabilecek Havalı Fren Sistemi
+En Az %20 Yan Eğimde ve En Az %60 Dikine Eğimde Hareket Kabiliyet
+En Az 80 cm Sert Zeminde Su Geçme Kabiliyeti
+Araca Bağlantı için Taşıma Kolu veya 2 Adet Zincir
+12,5×20 Ebatlarında Tubeless Lastik, 1 Adet Stepne ve Stepne Yeri
+Şok Emici Yay Sistemi
+Dört Tarafına Monteli Teleskopik Ayaklar
+Tam Yükte Çalışma Esnasında Lastik Değişimine İmkan Veren Kriko Sistem
+24 V DC Römork Elektrik Sistemi
+Elle Kumanda Edilen Park Freni
+Park/Fren/Karartma/Arka Boyut Lambaları, Sağ-Sol Dönüş Sinyalleri ile Arka ve Yanlarda Yuvarlak Reflektör
+Özel Yağmur Oluğu
+Kapaklar Lastik Conta ile Dış Hava Koşullarına KarşıKorumalı (IP44)
+Özel Tip Susturucu
+Yağ ve Kum Parçalarına Karşı Koruma
+Paslanmaya ve Korozyana Karşı Koruma
+Römorkun Sağında ve Solunda 1’er Adet Kızaklı Merdiven
+Güç Çıkış Kablolarının Dolanarak SaklanmasınıSağlayan Makara Sistemi
+Kabin İçinde ve Dışında Aydınlatma
+
+### Ürün: 5 kW 6.25 kVA
+TAKTİK SESSİZ KABİNLİ
+JENERATÖR 13 KW/15 KVA
+5 kW (6,25 kVA) su soğutmalı jeneratör, enerji ihtiyaçlarını karşılamak için üstün performans ve dayanıklılığı bir araya getirir. Su soğutmalı sistemi, jeneratörün uzun süreli çalışmalarda bile optimum sıcaklıkta kalmasını sağlar. Bu özellik, cihazın verimliliğini artırırken aşırı ısınma riskini en aza indirir. Sessiz çalışma mekanizması, hem ev kullanımı hem de ticari alanlar için ideal bir çözüm sunar. Güçlü motoru ve sağlam yapısı, zorlu koşullarda dahi kesintisiz enerji sağlar.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Jeneratörün Sürekli Gücü : 5 kW (3000N 25°C)
+Çalışma Sıcaklığı : -32°C/+55°C
+Depolama/Saklama Sıcaklığı : -40°C/+60°C
+Çalıştırma Yüksekliği : 3000 m
+Bağıl Nem : +90 (35°C’de, Yoğunlaşmalı)
+Rüzgar Hızı : 120 km/saat
+Gürültü Seviyesi : 56 dB (7 m)
+Kuru Ağırlık : 650 kg
+Ölçüler E x B x Y : 620 x 1120 x 1120 mm
+Termal İzi : Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Yakıt Sarfiyatı : %100 Güç 2.3 lt/h | %50 Güç 1.6 lt/h
+Alternatör Marka : İŞBİR
+Tipi : Asenkron
+Sürekli Gücü : 11kW (3000 m, 25°C)
+İkaz : Kapasitörlü (Kondansatör)
+Polarite [Kutup Sayısı] : 2
+Faz Sayısı : 1
+Frekans : 50Hz
+Gerilim : 220V
+Alternatör Soğutma Sistemi : Su Soğutmalı
+Alternatör Devri : 3000 rpm
+Alternatör Koruma Sınıfı : IP54
+İzolasyon Sınıfı : H
+Voltaj Stabilitesi : +-3V (220V)
+Güç Faktörü : 0,8
+Harmonik THD : <3
+Kurtarma Zamanı : 2sn
+Açma/Kapama Düğmeler
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler)
+Anahtar Hata By Pass (Switch Failre By Pass)
+Akü Marka : Mutlu
+Model : AGM
+Volt : 12V
+Amper : 70 Ah (1 Adet)
+CCA (EN) : 815
+En (mm) : 175
+Boy (mm) : 278
+Yükseklik (mm) : 190
+
+### Ürün: 50 Hz DUAL
+MOBİL
+JENERATÖRLER 50 Hz DUAL
+İşbir Elektrik Sanayi A.Ş.’nin 50 Hz Dual mobil jeneratörleri, çift jeneratör setiyle kesintisiz ve güvenilir enerji sağlayan, özellikle askeri ve endüstriyel uygulamalar için tasarlanmış mobil enerji kaynaklarıdır. Bu sistemler, 2×15 kVA’dan 2×70 kVA’ya kadar farklı güç seçenekleri sunar ve 7 gün 24 saat tam yükte çalışabilme kapasitesine sahiptir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+2×15 kVA / 2×70 kVA (2x Talep Edilen Güç) Mobil Dual Enerji Kaynağı
+7 Gün / 24 Saat Tam Yükte Çalışabilme
+Uzaktan Kontrol Edilebilme Kabiliyeti
+Asfalt Yollarda en az 60km/saat, Asfalt Olmayan Stabilize Yollarda en az 30km/saat Hız Kabiliyeti
+Yan %20, Dik %60 Eğimde Hareket Kabiliyeti
+Helikopter ile Havadan Taşınabilme Kabiliyeti
+2 Bakım Personelinin Aynı Anda Çalışmasına Uygun Yapı
+Tüm Yükte 24 saatlik Ortak Yakıt Tankı
+Kolay Çalıştırma için İki Farklı Isıtma Sistemi
+Senkron Çalışma
+TS 3033, EN 60523, IP52 Standardında Kontrol Sistemi
+DIN VDE 530, N VDE 0875 Radyo Frekans Bastırma Elektrik, Radyo Frekansı, Radyasyon ve Darbelere Karşı Koruma
+Uyarı Sinyalleri ve Sistemleri
+Kendinden Soğutuculu Akü Şark Redresörü
+Acil Durdurma Butonu
+Güç kesintisi olmaksızın, bir set çalışırken, ikinci setin bakımının yapabilme imkanı
+Sadece kontrol ünitesi kullanarek, meydana gelebilecek arızaların en az %90’ını teşhis edebilme imkanı
+İki Farklı Ön Isıtma Sistemi
+Şehir Şebekesinden Beslenme İmkanı
+Aşırı Şarjı Önleyen Elektronik Koruma
+Fırçasız, Senkron, Kendinden İkazlı
+230V, 50 Hz, 1500 devir/dakika, 0,8 Güç Faktörü
+Elektronik Regülasyon
+Voltaj Ayar Potansiyometresi
+TS 3033, EN 60529, IP 23 Koruma Sınıfı
+Rotoru Dinamik Balanslı
+%15 Maksimum Geçici Gerilim
+%1 Maksimum Kararlı Hal
+%3,5 Maksimum Harmonik Salınım
+TS 3336, EN 60085, H sınıfı izolasyon
+Aşırı İkaz Koruması
+Frekans/Voltaj/Akım/İşletme Zaman/Aşırı Yük/Yağ Sıcaklığı/Yağ Basıncı/Yakıt Seviyesi/Akü Bakımı/Çıkış Gücü/Çıkış Voltajı/Çıkış Akımı
+Aşırı-Düşük Frekans/Aşırı-Düşük Voltaj/Aşırı-Düşük DC Voltaj/Aşırı Akım/Aşırı Sıcaklık/Düşük Basınç/Şarj Arızası/Start Arızası/Bakım Zamanı/vb.
+1 adet şebeke girişi
+2 adet yük çıkışı
+1 adet uzak komuta girişi
+STANAG 4101’e Uygun Taşıma Mekanizması
+Şok Emici Yay Sistemi ile Destekli Bağlantı Halkası
+Hareket Esnasında Katlanabilir 1 Adet Taşıma Tekeri
+En Az %40 Eğimli Yolda Römorku Emniyetle Tutabilecek Fren Sistemi
+Araca Bağlantı için Taşıma Kolu veya 2 Adet Zincir
+12,5 x 20 Ebatlarında Tubeless Lastik, 1 Adet Stepne ve Stepne Yeri
+Şok Emici Yay Sistemi
+Arka Tarafa Monteli Teleskopik Ayaklar
+Amortisörler Yardımıyla Açılan Kabin Yan Kapakları
+Çevre Sıcaklığına Bağlı Olarak Açılıp Kapanabilen Otomatik Termostat Kontrollü Jaluzi Sistemi
+Tam Yükte Çalışma Esnasında Lastik Değişimine İmkan Veren Kriko Sistemi
+24 V Dc Römork Elektrik Sistemi
+Park/Fern/Karartma/Arka Boyut Lambaları, Sağ-Sol Dönüş Sinyalleri İle Arka ve Yanlarda Toplam 6 Adet Yuvarlak Reflektör
+Özel Yağmur Oluğu
+Kapaklar Lastik Conta İle Dış Hava Koşullarına Karşı Korumalı
+Özel Tip Susturucu
+En Az 80 Cm Sert Zeminde Su Geçme Kabiliyeti
+Yağ ve Yakıt İkmali Uygun Tasarım
+Toz ve Kum Parçalarına Karşı Koruma
+Paslanmaya ve Korozyona Karşı Koruma
+Infrared Boya
+(-) 40°C ile (+) 55°C Sıcaklık Arasında
+(+) 40°C Sıcaklıkta En Az %90 Bağıl Nem Oranında
+3000 metre yükseklikte güç kaybı olmadan çalışabilme
+İşbir Mobil Dual Dizel Jeneratörleri akredite olmuş laboratuvar ortamında şartlandırılmış çevre koşullarındaki performans testlerinden başarıyla geçmiştir.
+1. Manuel
+2 .Otomatik
+a. Öncelikli Jeneratör Setinde Arıza Oluşması Durumunda Yedek Jeneratör Devreye Girer ve Yükü Otomatik Olarak Üzerine Alırb. Ayarlanan Çalışma Süresi Sonunda Sistemi Besleyen Jeneratör Yedek Jeneratör ile Senkrona Girer ve Yedek Jeneratör yükü üzerine alır.
+3. Test (Yükte/Yüksüz)
+Güç Dağıtım Panosu
+Şebeke Dağıtım Kutusu
+Bakım Gerektirmeyen Jel Akü
+Makaraya Sarılı Her İki Ucu Konnektörlü 50 Metre Güç Kablosu (Hd 21 Ve Hd 22 Uyumlu)
+TS 862-7 En 3-7’ye Uygun Tip Yangın Söndürücü (2 Kg)
+10 Metre Uzatma Kablolu Seyyar Lamba
+Manuel ve Elektrikli Yakıt İkmal Pompas
+Yedek Parça (Hava-Yağ-Yakıt Filtre Seti)
+Takoz (2 adet)
+Bakım ve Tamir Set
+
+### Ürün: 56 V (50 A)
+DC ALTERNATÖR
+56 V (50 A)
+İŞBİR DC alternatörler, yüksek verimlilik ve dayanıklılık odaklı tasarlanmıştır. Düşük devirlerde bile kararlı doğru akım üretebilen sistemimiz, özellikle güneş enerjisi destekli uygulamalar, mobil araçlar ve bağımsız enerji çözümleri için idealdir. Kompakt yapısı, sessiz çalışması ve bakım kolaylığı sayesinde uzun ömürlü ve güvenilir bir enerji kaynağı sunar. İhtiyaca özel üretim seçenekleriyle projelerinize güç katıyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: AGW 30 (0 - 25 kVA)
+TRİFAZ
+AGW 30 (0 - 25 kVA)
+İŞBİR trifaz alternatörler, sanayi tesislerinden tarım makinelerine kadar geniş bir kullanım alanı için tasarlanmıştır. Yüksek güç çıkışı, kararlı performans ve uzun ömürlü yapısıyla trifaz alternatörlerimiz, ağır hizmet koşullarında bile güvenilir enerji sağlar. İhtiyaca özel üretim ve mühendislik desteğiyle, işletmenize en uygun çözümü sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: AGW 30 (0 – 25 kVa)
+MONOFAZ
+AGW 30 (0 – 25 kVa)
+İŞBİR monofaz alternatörler, ev tipi kullanımdan hafif ticari uygulamalara kadar birçok alanda güvenilir enerji üretimi sağlar. Kompakt yapısı, sessiz çalışması ve yüksek verimliliğiyle öne çıkan ürünümüz, istikrarlı ve kaliteli elektrik akımı sunar. Uzun ömürlü, bakımı kolay ve ihtiyaca göre özelleştirilebilir yapısıyla projelerinize güçlü bir çözüm sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: AGW 34 (10 – 25 kVa)
+MONOFAZ
+AGW 34 (10 – 25 kVa)
+İŞBİR monofaz alternatörler, ev tipi kullanımdan hafif ticari uygulamalara kadar birçok alanda güvenilir enerji üretimi sağlar. Kompakt yapısı, sessiz çalışması ve yüksek verimliliğiyle öne çıkan ürünümüz, istikrarlı ve kaliteli elektrik akımı sunar. Uzun ömürlü, bakımı kolay ve ihtiyaca göre özelleştirilebilir yapısıyla projelerinize güçlü bir çözüm sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: AGW 34 (25 - 40 kVA)
+TRİFAZ
+AGW 34 (25 - 40 kVA)
+İŞBİR trifaz alternatörler, sanayi tesislerinden tarım makinelerine kadar geniş bir kullanım alanı için tasarlanmıştır. Yüksek güç çıkışı, kararlı performans ve uzun ömürlü yapısıyla trifaz alternatörlerimiz, ağır hizmet koşullarında bile güvenilir enerji sağlar. İhtiyaca özel üretim ve mühendislik desteğiyle, işletmenize en uygun çözümü sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: Elektromanyetik Uyumlu Senkronize Konteyner
+ASKERİ GÜÇ KONTEYNERİ
+Elektromanyetik Uyumlu Senkronize Konteyner
+İşbir Elektrik Sanayi A.Ş.’nin Elektromanyetik Uyumlu Senkronize Konteyneri, özellikle askeri uygulamalar için tasarlanmış, yüksek elektromanyetik uyumluluk ve senkronizasyon kabiliyetine sahip mobil bir enerji çözümüdür. Bu sistem, zorlu çevre koşullarında güvenilir ve kesintisiz enerji sağlamak üzere geliştirilmiştir.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+2 x 250 kVA (2 x Talep Edilen Güç) Mobil Dual Enerji Kaynağı
+7 Gün / 24 Saat Tam Yükte Çalışabilme
+2 Bakım Personelinin Aynı Anda Çalışmasına Uygun Yapı
+Yan %24, Dikine %18 Eğimde Çalıştırabilme
+Harici Yakıt İkmal Kabiliyeti
+Tam Yükte 48 Saat Çalışma Kapasiteli Yakıt Tankı
+50/100/200 mt Güç Çıkış Kablosu (Opsiyonel)
+Kolay Çalıştırma için İki Farklı Isıtma Sistemi
+Uzaktan Kontrol Edilebilme Kabiliyeti
+Bakım Gerektirmeyen Tip Akü
+(-) 40°C ile (+) 55°C Sıcaklık Arasında
+(+) 40°C Sıcaklıkta En Az %90 Bağıl Nem Oranında
+3000 metre yükseklikte güç kaybı olmadan çalışabilme
+İşbir Mobil Dual Dizel Jeneratörleri akredite olmuş laboratuvar ortamında şartlandırılmış çevre koşullarındaki performans testlerinden başarıyla geçmiştir.
+Sürekli Çıkış Gücü : 2×250 kVA(3000 m 25°C)
+Güç Faktörü : 0.8-1
+Çıkış Voltajı : 380/220V
+Frekans : 50Hz
+Çalışma Devri : 1500 rpm
+Ağırlık : 17.500 kg
+Yakıt Tankı Kapasitesi : 2 x 360 lt
+Yakıt Tipi : Dizel
+Voltaj Regülasyonu : < 4 %
+Voltaj Stabilitesi : < 4 %
+Voltaj THD : < 15 %
+Frekans Regülasyonu : < 4 %
+Frekans Regülasyonu : < 4 %
+Soğutma Sistemi : Su Soğutmalı
+Çalıştırma Sistemi : Elektrik Startlı(Ops. Hava Startlı)
+1. Manuel
+2 .Otomatik
+a. Öncelikli Jeneratör Setinde Arıza Oluşması Durumunda Yedek Jeneratör Devreye Girer ve Yükü Otomatik Olarak Üzerine Alırb. Ayarlanan Çalışma Süresi Sonunda Sistemi Besleyen Jeneratör Yedek Jeneratör ile Senkrona Girer ve Yedek Jeneratör yükü üzerine alır.
+3. Test (Yükte/Yüksüz
+TS ISO 668 Standartına Uygun Konteyner
+TS ISO 1161 Standartına Uygun Bağlantı Parçaları
+AL 5754 Alüminyum Karkas Yapı
+4 Adet Ağır Bakım Kapısı
+1 Adet Personel Kullanım Kapısı
+Pasif/Aktif Yangın Algılama ve Söndürme
+Düşük Egzoz Sıcaklığı, Düşük Termal İzi
+Özel Yağmur Oluğu
+Kapaklar Lastik Conta İle Dış Hava Koşullarına Karşı Korumalı
+Özel Tip Susturucu
+Yağ ve Yakıt İkmali Uygun Tasarım
+Toz ve Kum Parçalarına Karşı Koruma
+Paslanmaya ve Korozyona Karşı Koruma
+Infrared Boya
+Şok Emici Yay Sistemi
+Amortisörler Yardımıyla Açılan Kabin Yan Kapakları
+Fırçasız, Senkron, Kendinden İkazlı
+230 V, 50 Hz, 1500 devir/dakika, 0.8 Güç Faktörü
+Elektronik Regülasyon
+Voltaj Ayar Potansiyometresi
+TS 3033, EN 60529, IP 23 Koruma Sınıfı
+Rotoru Dinamik Balanslı
+%15 Maksimum Geçici Gerilim
+%1 Maksimum Kararlı Hal
+%3,5 Maksimum Harmonik Salınım
+TS 3336, EN 60085, H sınıfı izolasyon
+Aşırı İkaz Koruması
+CE102
+CS114
+CS115
+CS116
+CS118
+RE102
+RS103
+Alçak Basınç : Metod500. 4, Pr. II ve Pr. I
+Yüksek Sıcaklık : Metod501. 4, Pr. II ve Pr. I
+Düşük Sıcaklık : Metod502. 4, Pr. II ve Pr. I
+Yağış : Metod506. 4, Pr. I
+Nem :Metod507. 4
+Küf : Metod508. 5
+Tuz Sisi : Metod509. 4
+Kum Toz : Metod510. 4, Pr. II ve Pr. I
+Şok : Metod514. 5, Pr. I, Mtd.C-VII, Mtd.5C-III
+Sarsıntı : Metod516. 5, Fgr.C3
+Buzlanma : Metod521. 2, Pr. I
+Güneş Yükü : Metod505.5-A2
+Senkron çalışma
+TS 3033, EN 60523, IP52 Standardında Kontrol Sistemi
+DIN VDE 530, N VDE 0875 Radyo Frekans BastırmaElektrik, Radyo Frekansı, Radyasyon ve Darbelere karşı Koruma
+Uyarı Sinyalleri ve Sistemleri
+Kendinden Soğutuculu Akü Şarj Redresörü
+Acil Durdurma Butonu
+Güç kesintici olmaksızın, bir set çalışırken, ikinci setin bakımının yapabilme imkanı
+Sadece kontrol ünitesi kullanarak, meydana gelebilecek arızaların en az %90’ını teşhis edebilme imkanı
+İki Farklı Ön Isıtma Sistemi
+Şehir Şebekesinden Beslenme İmkanı
+Aşırı Şarjı Önleyen Elektronik Koruma
+Frekans/Voltaj/Akım/İşletme Zaman/Aşırı Yük/Yağ Sıcaklığı/Yağ Basıncı/Yakıt Seviyesi/Akü Akımı/Çıkış Gücü/Çıkış Voltajı/Çıkış Akımı
+Aşırı-Düşük Frekans/Aşırı- Düşük Voltaj/Aşırı-Düşük DC Voltaj/Aşırı Akım/Aşırı Sıcaklık/Düşük Basınç/Şarj Arızası/Start Arızası/Bakım Zamanı/vb.
+4 adet şebeke girişi
+4 adet yük çıkışı
+1 adet uzak komuta girişi
+1 adet ethernet girişi
+1 adet fiber optik girişi
+2 adet DC girişi
+Güç Dağırım Panosu
+Şebeke Dağıtım Kutusu
+Bakım Gerektirmeyen Jel Akü
+Makaraya Sarılı Her İki Ucu Konnektörlü 50 Metre Güç Kablosu (Hd 21 Ve Hd 22 Uyumlu)
+TS 862-7 En 3-7’Ye Uygun Tip Yangın Söndürücü (2 Kg)
+10 Metre Uzatma Kablolu Seyyar Lamba
+Manuel ve Elektrikli Yakıt İkmal Pompası
+Yedek Parça (Hava-Yağ-Yakıt Filtre Seti)
+Bakım ve Tamir Set
+
+### Ürün: Marin Jeneratör
+MARİN JENERATÖR
+Marin Jeneratör
+İşbir Elektrik Sanayi A.Ş., denizcilik sektörüne yönelik olarak 10 kVA’dan 2250 kVA’ya kadar geniş bir güç aralığında marin jeneratör setleri üretmektedir. Bu jeneratörler, askeri gemi klaslama kurallarına uygun olarak tasarlanmış olup, zorlu deniz koşullarında güvenilir ve kesintisiz enerji sağlamaktadır.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Askeri Gemi Klaslama Kurallarına Uygunluk
+Jeneratör Kumanda ve Koruma
+Motor Kontrol (Start/Stop)
+Motor ile Haberleşme
+Scada Sistemi ile Haberleşme (Modbus/Profibus/Optik)
+Programlanabilir Lojik Kontrolör (PLC)
+Otomatik ve Manuel Senkronizasyon
+Barış/Savaş Konumu Kontrolü
+Alternatör Nem Alıcı Kontrolü
+Local/Remote Çalışma Kontrolü
+Hava/Elektrik Start Kontrolü
+Kapsül Havalandırma Kontrolü
+Acil Durumlar için Hava ve Yakıt Kesme Kontrolü
+Dil Seçimi, Alarm İzleme
+Geçmiş Arıza Takibi (5000 Adet)
+Detaylı Koruma Takibi (1000 Adet)
+IP23/66 Arasında Koruma
+LCD Ekran Üzerinden Tüm Fonksiyonların İzlenmesi
+Alternatör Marka : İŞBİR
+Tipi : Marin
+Nominal Gücü : 10 ile 2250 kVA
+Nominal Gerilimi : 110/500VAC, 1/3 Faz, 50/60/400 Hz.
+Devir : 1500/1800 dev/dak
+Faz Bağlantı Şekli : Yıldız (üç telli (nötrsüz)
+Çalışma Sınıfı : S1 (Sürekli)
+İzolasyon Sınıfı : H veya F
+Koruma Sınıfı : IP23, Bağlantı Kutusu IP44
+Sıcaklık Koruması : Her Faz Sargısı Altına uygun değerde termistör
+Nem Alıcı Hiter : Harici Voltaj ile Çalışan/Otomatik
+Yataklama : Tek veya Çift
+Soğutma Sistemi : Hava, Su, Soğutma Sisteminden Beslemeli Tatlı Su
+İkaz Şekli : Kendinden İkazlı, Statik Egzayterli
+RFI Bastırma Derecesi : N (VDE 0875)
+Üretilen Gerilimi : STANAG-1008 Ed-9
+Sertifikasyon : Türk Loydu
+Eğim ± 15° Trim ± 5°
+Yalpa ± 30° Baş ve Kıç Vurma (Pitch) ± 10° değerlerinde tam performans ile çalışabilecek şekilde tasarlanmıştır
+1,96 ≤ X ≥ 2,51 ; 2,85 ≤ Y ≥ 5,59 ; 10,97 ≤ Z ≥ 14,98 Eksenel olarak oluşan dinamik yükler (m/s2) altında tüm fonksiyonlarını eksiksiz olarak yerine getirebilecek şekilde tasarlanmıştır.
+0,4 G Şiddetindeki dikey yöndeki güverte ivmelenmesinde tam performansında çalışma
+Geminin ± 10° derecelik baş-kıç hareketinde (maks. 3sn) tam performans ile çalışabilme
+Geminin ± 30° derecelik iskele-sancak yalpa hareketinde(maks. 5sn) tam performans ile çalışabilme
+Nominal Gücü :10 ile 2250 KVA (İsteğe Göre)
+Nominal Gerilimi :110/500VAC, 1/3 Faz, 50/60/400 Hz.
+Nominal Devri :1500/1800 rpm
+Askeri Gemi Klaslama Kurallarına Uygun
+Titreşim Önleyici Özellikte Elastik Kaplin
+Gemi Tipi Alternatör
+Makine Başı Paneli (MBP)
+Akustik Kapsül (İsteğe Bağlı)
+Otomatik Yangın Söndürme Sistemi
+Eşanjör
+Soğutucu Fan
+İkaz ve Tehlike İşaretleri
+Çevresel Şartlar İlgili Standart/Kriter
+Çevresel Etkilere Karşı Testleri (Şok, Vibrasyon, Nem vs.)10 ile 2250 KVA (İsteğe Göre)
+Çalışma Sıcaklığı Testleri MIL-STD 810F 501.4
+Sıcaklık Şoku Kriterleri MIL-STD 810F 503.4
+Nemli Ortamda Çalışma Kriterleri MIL-STD 810F 507.4
+Sudan Koruma MIL-STD 810F 507.4
+Gemi İçi Bileşenleri IEC 529 IP23
+Güverte Üstündeki Bileşenleri IEC 529 IP66
+Güverte Üstündeki Bileşenleri MIL-STD-810F 509.4
+Yıldırım Etkisinde Tam Performansında Çalışabilme MIL-STD 464
+Titreşim Ortamında Çalışma MIL-STD 810F
+İnsan ile Donatılan Mevkilerdeki Gürültü Miktarı MIL-STD 1474D
+ISO-3046-1’e Uygun
+NATO F76 Deniz Dizel Yakıt Sistemine Uygun
+Basınçlı Hava ve/veya Hava ve Elektrik Startlı
+Mekanik veya Elektrik/elektronik tip governör
+Türk Loydu Askeri Gemi Klaslama Kurallarına Uygun
+%100 yükte 80 dB(A) (+5 dB tolerans/1 oktav bandı için) aşmamaktadır. Egzoz susturucuları en az 35 dB gürültü azaltımı yapabilmektedir.
+Dikey İvme Değeri : < 50 m/s2
+Dikey Hız Değeri : < 2 m/s
+İvme : 1250 m/s2
+Hız : 3,5 m/s
+Yer Değiştirme : 35 mm
+%50 Yükten %110 Yüke Geçiş : STANAG-1008 Ed-9’a uygun
+%110 Yükten %50 Yüke Geçiş : STANAG-1008 Ed-9’a uygun
+Hız ve Voltaj Kontrolü (ANSI 15)
+Aşırı Uyartım Koruması (ANSI 24)
+Otomatik Senkronizasyon (ANSI 25/A)
+Düşük Voltaj Koruması (ANSI 27)
+Ortak Bara Düşük Voltaj Koruması (ANSI 27/B)
+Aşırı Yük Koruması (ANSI 32)
+Düşük Akım Koruması (Elektrik Motorları) (ANSI 37)
+Alan Kaybı, Reaktif Güç, Empedenas Koruması (ANSI 40/Q)
+Ters Güç Koruması (ANSI 46)
+Faz Sırası Koruma (ANSI 47)
+Termal Aşırı Yük Koruması (ANSI 49)
+Devre Kesici Arıcası (ANSI 50 BF)
+Ani Aşırı Akım Koruması (ANSI 50)
+Ani Toprak Aşırı Akım Koruması (ANSI 50 G/N)
+Ayarlanabilir Aşırı Akım Koruması IDMT (6 Eğri) (ANSI 51)
+Ayarlanabilir Toprak Aşırı Akım Koruması IDMT (6 Eğri) (ANSI 51 G/N)
+Aşırı Voltaj Koruması (ANSI 59)
+Ortak Bara Aşırı Voltaj Koruması (ANSI 59 B)
+Toprak Aşırı Voltaj Koruması (ANSI 64)
+Start Engelleme (Elektrik Motorları) (ANSI 66)
+Yönlü Aşırı Akım Koruması IDMT (ANSI 67)
+Yönlü Toprak Aşırı Akım Koruması (ANSI 67GS/GD)
+Vektörel Koruma (ANSI 78)
+Frekans Kontrolü (ANSI 81)
+Ortak Bara Frekans Kontrolü (ANSI 81 B)
+Diferansiyel Koruma (ANSI 87)
+Kısa Devre Kontrolü (ANSI 94)
+Acil Durdurma (Hava ve Yakıt Dolu Kapatılarak)
+Yağ Basıncı (Alarm/Stop)
+Yağ Harareti (Alarm)
+Soğutma Suyu Harareti (Alarm/Stop)
+Soğutma Suyu Basıncı (Alarm)
+Deniz Suyu Basıncı (Alarm)
+Su Seviyesi (Alarm)
+Yakıt Filtresi Diferansiyel Basınç Farkı (Shutdown)
+Yağ Filtresi Diferansiyel Basınç Farkı (Alarm)
+Start Hava Basıncı (Alarm)
+Yakıt Basıncı (Alarm)
+Yakıt Kaçak (Alarm)
+Egzoz Harareti (Alarm)
+Alternatör Ön Yatak Harareti (Alarm)
+Alternatör Arka Yatak Harareti (Alarm)
+Alternatör Sargı Sıcaklığı (Alarm)
+Kapsül Sıcaklığı (Alarm)
+Yangın Sistemi Devrede (Alarm)
+Stop Arızası (Alarm)
+Start Arızası (Alarm)
+DC Voltaj (Alarm)
+Voltaj (3 Faz Ayrı ve Toplam)
+Akım (3 Faz Ayrı ve Toplam)
+Frekans
+V/A/F Anlık ve Demand Ölçümleri
+Devir Sayısı
+Harmonik (V/I)
+Görünür Güç (kVA) (Toplam)
+Aktif Güç (kW) (3 Faz Ayrı ve Toplam)
+Reaktif Güç (kVAR) (3 Faz Ayrı ve Toplam)
+Güç Faktörü (3 Faz Ayrı ve Toplam)
+kWh (En Son Çalışma ve Toplam)
+kVarh(En Son Çalışma ve Toplam)
+Start Sayısı
+En Son Çalışma Süresi
+Toplam Çalışma Süresi
+Yakıt Basıncı
+Yağ Basıncı
+Soğutma Suyu Basıncı
+Deniz Suyu Basıncı
+Soğutma Suyu Hareketi
+Egzoz Hareketi
+Yağ Hareketi
+Kabin Hareketi
+Deniz Suyu Hareketi
+Alternatör Ön Yatak Harareti
+Alternatör Arka Yatak Harareti
+DC Voltaj
+Akustik kapsül işbir mühendisleri tarafından üretilmiştir.
+Modüler Yapı, Bakım Onarım Yapabilme İmkanı, Sökülebilir Şekilde Kapaklı İmalat
+80 Dba Altında Ses Seviyesi
+Sızdırmaz Basınç ve Hava Ortamı (Akustik Kapsül)
+Negatif Basınçlı ve Çalışma Ortamı
+Sistemi Tam Performansta Çalıştıracak Uygun Havalandırma Yapısı
+Mukavim ve Paslanmaz Yapı
+Akustik Kapsül İçi Aydınlatma Donanımı
+Duman ve Isı Artış Sensörlü Otomatik Yangın Algılama ve Söndürme Sistemi
+Deniz Suyu ile Kapsül İçi Soğutma
+Duble Elastik Bağlantılı Minimum Yapısal Gürültü
+Titreşim Sönümlendirici ile Gemiye Bağlantı
+ISO 1940-1 Standartında Titreşim Dayanımı Tertibatı
+Titreşim Sönümlendirici ile Gemiye Bağlantı
+Askeri Gemi Klaslama Kurallarına Tam Uygunluk
+Jeneratör Setini Taşıyabilecek Yapıda Uygun Sayıda Kaldırma Mapaları
+Dizel Jeneratör Seti (DJS); gemi bünyesine iletilen yapısal gürültünün azaltılması amacıyla gerek DJS ana kaidesine (şasi) ve gerekse gemi ana gövdesine özel titreşim ve darbe sönümlendiriciler ile çift elastik olarak bağlanmış ve uygunluğu test edilmiştir.
+istenilen Loyd ile Sertifikalandırma
+Sistem için Gerekli Dökümantasyon
+Prezervasyon (Koruyucu ve Bakım)
+Entegrasyon
+Montaj Yeri ile İlgili Gerekli Dizayn
+Test ve Tecrübeler (Fabrika (FAT), Sahil (SAT), Deniz (HAT))
+Test için İstenilen Ölçü ve Aletleri
+Bakım Onarım, Alet ve Avadanlıklar
+30/60/90 Günlük Gemi Yedekleri
+2 (veya daha fazla) Yıllık Sistem için Sahil Yedekleri
+İstenen RAL Kodunda Boyama
+İşbir tarafından üretilen Marine Alternatörler, İşbir tesislerinde bulunan gelişmiş alternatör test laboratuvarlarında talep edilen her türlü teknik teste tabi tutulabilmektedir.
+
+### Ürün: SGB 43 (30 – 40 kVa)
+MONOFAZ
+SGB 43 (30 – 40 kVa)
+İŞBİR monofaz alternatörler, ev tipi kullanımdan hafif ticari uygulamalara kadar birçok alanda güvenilir enerji üretimi sağlar. Kompakt yapısı, sessiz çalışması ve yüksek verimliliğiyle öne çıkan ürünümüz, istikrarlı ve kaliteli elektrik akımı sunar. Uzun ömürlü, bakımı kolay ve ihtiyaca göre özelleştirilebilir yapısıyla projelerinize güçlü bir çözüm sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: SGB 43 (50 - 150 kVA)
+TRİFAZ
+SGB 43 (50 - 150 kVA)
+İŞBİR trifaz alternatörler, sanayi tesislerinden tarım makinelerine kadar geniş bir kullanım alanı için tasarlanmıştır. Yüksek güç çıkışı, kararlı performans ve uzun ömürlü yapısıyla trifaz alternatörlerimiz, ağır hizmet koşullarında bile güvenilir enerji sağlar. İhtiyaca özel üretim ve mühendislik desteğiyle, işletmenize en uygun çözümü sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+ÜRÜN ÖZELLİKLERİ
+Ürün Özellikleri
+Alternatör Marka : İŞBİR
+Tipi : Pençe
+Maksimum Gücü : 800A (3000 m, 25°C)
+Sürekli Gücü : 600A (3000 m, 25°C)
+Gerilim : 28V
+Alternatör Soğutma Sistemi : Hava Soğutmalı
+Alternatör Devri : 1000-4800 rpm
+Alternatör Koruma Sınıfı : IP23
+İzolasyon Sınıfı : H
+Harmonik THD : <3
+Kurtarma Zamanı : 2 sn
+Açma/Kapama Düğmeleri
+AC Ampermetre (Her bir faz için)
+Frekans Metre
+Akü DC Volt Metresi
+Yakıt Seviye Göstergesi
+Çalışma Saati (Geçen zamanı ölçer)
+Yağ Basıncı Göstergesi
+Su Isısı Göstergesi
+Motor Ön Isıtma Fonksiyonu (Düğmeler ve Göstergeler
+Anahtar Hata By Pass (Switch Failre By Pass
+Military Paint Ral 1001 Sand Khaki
+Military Paint Ral 1019 Desert Storm
+Military Paint Ral 6003 Olive Green
+Military Paint Ral 6014 Olive Drap
+Military Paint Ral 6031 Forest Green
+Military Paint Ral 7013 Brown Uniform
+Military Paint Ral 7016 Anthracite
+Military Paint Ral 7038 Grey
+Military Paint Ral 8027 Mud Brown
+Military Paint Ral 9010 Flat White
+Military Paint Ral 9021 Flat Black
+Military Paint Camouflage Design
+Klima Gücü : 3 kW (3000m 25°C)
+Çalışma Sıcaklığı : -32°C/+55°C
+Isıtma : 17/23°C
+Soğutma : 17/23°C
+Nem Alma : %95/%40
+CE102
+CS114
+CS115
+CS116
+CS118
+RE102
+RS103
+Alçak Basınç Metod500. 4, Pr. II ve Pr. I
+Yüksek Sıcaklık Metod501. 4, Pr. II ve Pr. I
+Düşük Sıcaklık Metod502. 4, Pr. II ve Pr. I
+Yağış Metod506. 4, Pr. I
+Nem Metod507. 4
+Küf Metod508. 5
+Tuz Sisi Metod509. 4
+Kum Toz Metod510. 4, Pr. II ve Pr. I
+Şok Metod514. 5, Pr. I, Mtd.C-VII, Mtd.5C-III
+Sarsıntı Metod516. 5, Fgr.C3
+Buzlanma Metod521. 2, Pr. I
+Güneş Yükü Metod505.5-A2
+
+### Ürün: SGB 50 (150 - 250 kVA)
+TRİFAZ
+SGB 50 (150 - 250 kVA)
+İŞBİR trifaz alternatörler, sanayi tesislerinden tarım makinelerine kadar geniş bir kullanım alanı için tasarlanmıştır. Yüksek güç çıkışı, kararlı performans ve uzun ömürlü yapısıyla trifaz alternatörlerimiz, ağır hizmet koşullarında bile güvenilir enerji sağlar. İhtiyaca özel üretim ve mühendislik desteğiyle, işletmenize en uygun çözümü sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: SGB 60 (250 - 800 kVA)
+TRİFAZ
+SGB 60 (250 - 800 kVA)
+İŞBİR trifaz alternatörler, sanayi tesislerinden tarım makinelerine kadar geniş bir kullanım alanı için tasarlanmıştır. Yüksek güç çıkışı, kararlı performans ve uzun ömürlü yapısıyla trifaz alternatörlerimiz, ağır hizmet koşullarında bile güvenilir enerji sağlar. İhtiyaca özel üretim ve mühendislik desteğiyle, işletmenize en uygun çözümü sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: SGB 66 (800 - 1250 kVA)
+TRİFAZ
+SGB 66 (800 - 1250 kVA)
+İŞBİR trifaz alternatörler, sanayi tesislerinden tarım makinelerine kadar geniş bir kullanım alanı için tasarlanmıştır. Yüksek güç çıkışı, kararlı performans ve uzun ömürlü yapısıyla trifaz alternatörlerimiz, ağır hizmet koşullarında bile güvenilir enerji sağlar. İhtiyaca özel üretim ve mühendislik desteğiyle, işletmenize en uygun çözümü sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: SGB 76 (1250 - 2000 kVA)
+TRİFAZ
+SGB 76 (1250 - 2000 kVA)
+İŞBİR trifaz alternatörler, sanayi tesislerinden tarım makinelerine kadar geniş bir kullanım alanı için tasarlanmıştır. Yüksek güç çıkışı, kararlı performans ve uzun ömürlü yapısıyla trifaz alternatörlerimiz, ağır hizmet koşullarında bile güvenilir enerji sağlar. İhtiyaca özel üretim ve mühendislik desteğiyle, işletmenize en uygun çözümü sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: SGS 29 (0 - 20 kVA)
+MONOFAZ
+SGS 29 (0 - 20 kVA)
+İŞBİR monofaz alternatörler, ev tipi kullanımdan hafif ticari uygulamalara kadar birçok alanda güvenilir enerji üretimi sağlar. Kompakt yapısı, sessiz çalışması ve yüksek verimliliğiyle öne çıkan ürünümüz, istikrarlı ve kaliteli elektrik akımı sunar. Uzun ömürlü, bakımı kolay ve ihtiyaca göre özelleştirilebilir yapısıyla projelerinize güçlü bir çözüm sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: SGS 29 (0 - 30 kVA)
+TRİFAZ
+SGS 29 (0 - 30 kVA)
+İŞBİR trifaz alternatörler, sanayi tesislerinden tarım makinelerine kadar geniş bir kullanım alanı için tasarlanmıştır. Yüksek güç çıkışı, kararlı performans ve uzun ömürlü yapısıyla trifaz alternatörlerimiz, ağır hizmet koşullarında bile güvenilir enerji sağlar. İhtiyaca özel üretim ve mühendislik desteğiyle, işletmenize en uygun çözümü sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: SGS 33 (20 - 30 kVA)
+MONOFAZ
+SGS 33 (20 - 30 kVA)
+İŞBİR monofaz alternatörler, ev tipi kullanımdan hafif ticari uygulamalara kadar birçok alanda güvenilir enerji üretimi sağlar. Kompakt yapısı, sessiz çalışması ve yüksek verimliliğiyle öne çıkan ürünümüz, istikrarlı ve kaliteli elektrik akımı sunar. Uzun ömürlü, bakımı kolay ve ihtiyaca göre özelleştirilebilir yapısıyla projelerinize güçlü bir çözüm sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
+
+### Ürün: SGS 33 (40 - 50 kVA)
+TRİFAZ
+SGS 33 (40 - 50 kVA)
+İŞBİR trifaz alternatörler, sanayi tesislerinden tarım makinelerine kadar geniş bir kullanım alanı için tasarlanmıştır. Yüksek güç çıkışı, kararlı performans ve uzun ömürlü yapısıyla trifaz alternatörlerimiz, ağır hizmet koşullarında bile güvenilir enerji sağlar. İhtiyaca özel üretim ve mühendislik desteğiyle, işletmenize en uygun çözümü sunuyoruz.
+Ürün Özellikleri
+E-Kataloğu İncele
 
 ### Fiyatlandırma Politikası
 Fiyatlarımız donanım ve projeye göre değişiklik göstermektedir.
@@ -115,34 +5234,3 @@ Profesyonel kurulum ve devreye alma hizmeti mevcuttur.
 Periyodik bakım hizmetleri sağlanır.
 Orijinal yedek parça tedariki yapılır.
 Hızlı arıza müdahale ekipleri vardır.
-
-### Referanslar ve Sertifikalar
-600'den fazla kurumsal müşteri
-10,000'den fazla başarılı proje
-TSE, CE, ISO sertifikaları
-Türk Loydu onaylı ürünler
-MIL-STD askeri standartlarına uygunluk
-
-### Üretim Kapasitesi
-Modern üretim tesisi Balıkesir'de
-Ar-Ge merkezi
-Kalite kontrol laboratuvarları
-Yıllık binlerce ünite üretim kapasitesi
-
-### Çevre ve Sürdürülebilirlik
-Çevre dostu üretim teknolojileri
-Düşük emisyonlu motor seçenekleri
-Enerji verimliliği odaklı tasarımlar
-Geri dönüştürülebilir malzeme kullanımı
-
-### Garanti ve Servis Ağı
-Türkiye genelinde servis ağı
-Kapsamlı garanti programları
-Hızlı yedek parça temini
-Uzman teknik ekipler
-
-### Özel Projeler
-Müşteri ihtiyaçlarına özel tasarım
-Proje bazlı özel çözümler
-Danışmanlık hizmetleri
-Teknik destek ve eğitim

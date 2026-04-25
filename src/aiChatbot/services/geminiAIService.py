@@ -1,6 +1,7 @@
 """
 Gemini AI Service implementation using Google GenAI SDK (AI Studio).
 Combines template's clean architecture with İşbir's knowledge base and intent features.
+Supports both RAG (semantic search) and keyword-based knowledge base.
 """
 
 import logging
@@ -15,6 +16,7 @@ from ..utils.promptManager import PromptManager
 from ..utils.languageDetector import LanguageDetector
 from .sessionManager import SessionManager
 from .knowledgeBase import LightweightKnowledgeBase
+from .ragService import RAGService
 from .intentDetector import (
     isSimpleGreeting,
     isPurePriceQuestion,
@@ -32,6 +34,10 @@ class GeminiAIService(AIService):
     """
     AI service using Google GenAI SDK (AI Studio) for Gemini integration.
     Combines template architecture with İşbir's knowledge base and intent detection.
+    
+    Supports two knowledge retrieval modes:
+    - RAG (default): ChromaDB + Gemini Embeddings ile semantik arama
+    - Keyword (fallback): Basit keyword eşleştirme
     """
     
     def __init__(
@@ -39,18 +45,24 @@ class GeminiAIService(AIService):
         config: BotConfig,
         sessionManager: SessionManager,
         knowledgeBase: Optional[LightweightKnowledgeBase] = None,
+        ragService: Optional[RAGService] = None,
         promptManager: Optional[PromptManager] = None,
     ):
         self.config = config
         self.sessionManager = sessionManager
         self.knowledgeBase = knowledgeBase
+        self.ragService = ragService
         self.promptManager = promptManager or PromptManager()
         self.languageDetector = LanguageDetector()
+        
+        # Hangi bilgi erişim modu aktif?
+        self._useRAG = ragService is not None and ragService.isIndexed
         
         logger.info(
             "GeminiAIService initialized",
             extra={
-                "hasKnowledgeBase": knowledgeBase is not None,
+                "useRAG": self._useRAG,
+                "hasKeywordKB": knowledgeBase is not None,
             }
         )
     
@@ -107,12 +119,10 @@ class GeminiAIService(AIService):
         session: ChatSession,
         message: str,
     ) -> str:
-        """Generate response using Gemini AI with knowledge base context"""
+        """Generate response using Gemini AI with RAG or keyword-based context"""
         try:
-            # Get knowledge base context if available
-            kbContext = ""
-            if self.knowledgeBase:
-                kbContext = self.knowledgeBase.findRelevantContent(message) or ""
+            # Get knowledge context — RAG veya keyword
+            kbContext = self._getKnowledgeContext(message)
             
             # Build the user prompt with knowledge context
             userPrompt = self._buildUserPrompt(message, kbContext)
@@ -142,6 +152,7 @@ class GeminiAIService(AIService):
                     "userId": session.userId,
                     "responseLength": len(answer),
                     "hasKBContext": bool(kbContext),
+                    "contextSource": "RAG" if self._useRAG else "keyword",
                 }
             )
             
@@ -150,6 +161,29 @@ class GeminiAIService(AIService):
         except Exception as e:
             logger.error(f"Gemini response error: {e}", exc_info=True)
             raise
+    
+    def _getKnowledgeContext(self, message: str) -> str:
+        """
+        Kullanıcı mesajına uygun bilgi bağlamını döndürür.
+        
+        Öncelik sırası:
+        1. RAG (semantik arama) — aktifse
+        2. Keyword KB (fallback) — RAG yoksa
+        """
+        # RAG ile semantik arama
+        if self._useRAG and self.ragService:
+            try:
+                context = self.ragService.findRelevantContent(message)
+                if context:
+                    return context
+            except Exception as e:
+                logger.warning(f"RAG query failed, falling back to keyword: {e}")
+        
+        # Keyword-based arama (fallback)
+        if self.knowledgeBase:
+            return self.knowledgeBase.findRelevantContent(message) or ""
+        
+        return ""
     
     def _buildUserPrompt(self, message: str, kbContext: str) -> str:
         """Build the user prompt with knowledge base context"""

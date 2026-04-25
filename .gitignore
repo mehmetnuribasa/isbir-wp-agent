@@ -39,3 +39,9 @@ htmlcov/
 
 # Docker
 docker-compose.override.yml
+
+# ChromaDB vector database
+data/chroma_db/
+
+# Knowledge base backup
+data/*.bak

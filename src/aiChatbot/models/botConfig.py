@@ -118,6 +118,18 @@ class BotConfig(BaseSettings):
         validation_alias=AliasChoices("KNOWLEDGE_BASE_PATH", "knowledgeBasePath"),
     )
 
+    # RAG configuration
+    ragEnabled: bool = Field(
+        default=True,
+        description="Enable RAG (semantic search) mode. If False, uses keyword-based KB.",
+        validation_alias=AliasChoices("RAG_ENABLED", "ragEnabled"),
+    )
+    chromaDbPath: str = Field(
+        default="data/chroma_db",
+        description="ChromaDB persistent storage path",
+        validation_alias=AliasChoices("CHROMA_DB_PATH", "chromaDbPath"),
+    )
+
     # Logging configuration
     logLevel: str = Field(
         default="INFO",

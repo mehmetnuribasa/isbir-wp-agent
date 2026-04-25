@@ -25,7 +25,6 @@ from .intentDetector import (
     getPriceResponse,
     getGoodbyeResponse,
 )
-from .businessHours import isOutsideBusinessHours, getOutOfHoursMessage
 
 logger = logging.getLogger(__name__)
 
@@ -88,16 +87,6 @@ class GeminiAIService(AIService):
         Handles intent detection shortcuts and Gemini AI responses.
         """
         try:
-            # 0. Business hours check
-            if isOutsideBusinessHours(
-                hoursStart=self.config.businessHoursStart,
-                hoursEnd=self.config.businessHoursEnd,
-                timezone_name=self.config.businessTimezone,
-                businessDays=self.config.businessDays,
-            ):
-                logger.info("Outside business hours — OOH message sent", extra={"userId": session.userId})
-                return getOutOfHoursMessage()
-            
             # 1. Goodbye shortcut
             if isGoodbye(message):
                 return getGoodbyeResponse()

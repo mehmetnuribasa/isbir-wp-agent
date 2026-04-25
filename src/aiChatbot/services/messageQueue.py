@@ -25,38 +25,108 @@ class QueuedMessage:
     max_retries: int = 2
 
 
-class MessageDebouncer:
+class SmartMessageDebouncer:
     """
-    Per-user message debouncing to handle rapid message floods.
-    Only processes the most recent message within a time window.
+    Per-user message debouncing with smart concatenation.
+    Merges rapid messages together with safety limits to prevent spam/OOM.
     """
     
-    def __init__(self, debounceSeconds: float = 2.0):
+    def __init__(self, target_queue: asyncio.Queue, debounceSeconds: float = 2.0):
+        self.target_queue = target_queue
         self.debounceSeconds = debounceSeconds
-        self.pendingMessages: Dict[str, QueuedMessage] = {}
-        self.lastProcessed: Dict[str, datetime] = {}
+        
+        # 3-Layer Security Limits
+        self.maxMessages = 10        # Max 10 mesaj birleştirilebilir
+        self.maxChars = 1500         # Toplam karakter sınırı
+        self.maxWaitSeconds = 10.0   # En fazla 10 saniye bekletilebilir
+        
+        self.sessions: Dict[str, dict] = {}
         self._lock = asyncio.Lock()
-    
-    async def shouldProcess(self, phone: str, newMessage: QueuedMessage) -> bool:
-        """Determine if a message should be processed or debounced."""
+        
+    async def processMessage(self, phone: str, newMessage: QueuedMessage) -> bool:
+        """Process incoming message. Returns True if accepted into concatenation buffer."""
         async with self._lock:
             now = datetime.now()
             
-            lastTime = self.lastProcessed.get(phone)
-            if lastTime and (now - lastTime).total_seconds() < self.debounceSeconds:
-                self.pendingMessages[phone] = newMessage
-                logger.info(
-                    f"Debouncing message from {phone} (rapid messages)",
-                    extra={"phone": phone}
-                )
-                return False
+            if phone in self.sessions:
+                session = self.sessions[phone]
+                
+                # Güvenlik Kontrolleri (Limits)
+                timeElapsed = (now - session["firstTime"]).total_seconds()
+                currentChars = sum(len(m.text) for m in session["messages"])
+                
+                if (timeElapsed >= self.maxWaitSeconds or 
+                    len(session["messages"]) >= self.maxMessages or 
+                    currentChars + len(newMessage.text) > self.maxChars):
+                    
+                    # Sınır aşıldı: Eskileri hemen kuyruğa at, yenisi için yeni seans başlat
+                    logger.warning(f"Debounce limits hit for {phone}, forcing push.")
+                    await self._pushSessionUnsafe(phone)
+                    self._startSessionUnsafe(phone, newMessage, now)
+                    return True
+                
+                # Sınırlar güvenliyse: Listeye ekle ve zamanlayıcıyı sıfırla
+                session["messages"].append(newMessage)
+                session["lastTime"] = now
+                
+                session["task"].cancel()
+                session["task"] = asyncio.create_task(self._waitAndPush(phone))
+                
+                logger.info(f"Concatenated message {len(session['messages'])} for {phone}")
+                return True
+                
+            else:
+                self._startSessionUnsafe(phone, newMessage, now)
+                return True
+                
+    def _startSessionUnsafe(self, phone: str, msg: QueuedMessage, now: datetime):
+        """Start a new concatenation session for user (internal, unsafe)."""
+        task = asyncio.create_task(self._waitAndPush(phone))
+        self.sessions[phone] = {
+            "messages": [msg],
+            "firstTime": now,
+            "lastTime": now,
+            "task": task
+        }
+        
+    async def _waitAndPush(self, phone: str):
+        """Wait for silence, then push to main queue."""
+        try:
+            await asyncio.sleep(self.debounceSeconds)
+        except asyncio.CancelledError:
+            return  # Yeni mesaj geldi, zamanlayıcı sıfırlandı
             
-            if phone in self.pendingMessages:
-                self.pendingMessages.pop(phone)
-                logger.info(f"Skipping old message, processing latest from {phone}")
+        async with self._lock:
+            await self._pushSessionUnsafe(phone)
             
-            self.lastProcessed[phone] = now
-            return True
+    async def _pushSessionUnsafe(self, phone: str):
+        """Merge all messages and push to the actual processing queue."""
+        if phone not in self.sessions:
+            return
+            
+        session = self.sessions.pop(phone)
+        messages = session["messages"]
+        if not messages:
+            return
+            
+        # Mesajları birleştir
+        mergedText = "\n".join(m.text for m in messages)
+        firstMsg = messages[0]
+        
+        mergedMsg = QueuedMessage(
+            phone=phone,
+            text=mergedText,
+            message_id=firstMsg.message_id,
+            timestamp=firstMsg.timestamp,
+            retry_count=0,
+            max_retries=firstMsg.max_retries
+        )
+        
+        try:
+            self.target_queue.put_nowait(mergedMsg)
+            logger.info(f"Pushed merged message ({len(messages)} parts) to main queue for {phone}")
+        except asyncio.QueueFull:
+            logger.error(f"Queue full! Dropped merged message for {phone}")
 
 
 class MessageQueue:
@@ -82,7 +152,7 @@ class MessageQueue:
         self.workers: list = []
         self.running = False
         
-        self.debouncer = MessageDebouncer(debounceSeconds)
+        self.debouncer = SmartMessageDebouncer(self.queue, debounceSeconds)
         
         self.stats = {
             "total_enqueued": 0,
@@ -121,28 +191,22 @@ class MessageQueue:
         logger.info("Queue workers stopped")
     
     async def enqueue(self, message: QueuedMessage) -> bool:
-        """Add message to queue with debouncing."""
+        """Add message to queue with smart debouncing & concatenation."""
         try:
-            shouldProcess = await self.debouncer.shouldProcess(message.phone, message)
-            
-            if not shouldProcess:
-                self.stats["total_debounced"] += 1
-                return False
-            
-            try:
-                self.queue.put_nowait(message)
+            accepted = await self.debouncer.processMessage(message.phone, message)
+            if accepted:
                 self.stats["total_enqueued"] += 1
                 logger.debug(
-                    f"Enqueued message from {message.phone}",
-                    extra={"phone": message.phone, "queueSize": self.queue.qsize()}
+                    f"Buffered message from {message.phone}",
+                    extra={"phone": message.phone}
                 )
                 return True
-            except asyncio.QueueFull:
-                logger.error(f"Queue full! Cannot enqueue message from {message.phone}")
+            else:
+                self.stats["total_debounced"] += 1
                 return False
                 
         except Exception as e:
-            logger.error(f"Error enqueueing message: {e}")
+            logger.error(f"Error enqueueing message: {e}", exc_info=True)
             return False
     
     async def _worker(self, workerId: int) -> None:

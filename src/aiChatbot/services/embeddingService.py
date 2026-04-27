@@ -44,59 +44,50 @@ class EmbeddingService:
         Returns:
             Embedding vektörü (float listesi)
         """
-        return self._embedWithRetry(text)
+        results = self._embedBatchWithRetry([text])
+        return results[0]
 
     def embedTexts(self, texts: list[str]) -> list[list[float]]:
         """
-        Birden fazla metni tek tek embedding vektörlerine dönüştürür.
-        Her istek arasında kısa bekleme yaparak rate limit'i aşmaz.
-        
-        Args:
-            texts: Embedding oluşturulacak metinler
-            
-        Returns:
-            Her metin için embedding vektörü listesi
+        Birden fazla metni TEK BİR API İSTEĞİ ile embedding vektörlerine dönüştürür.
+        Günlük 1500 istek limitinden 20 kat tasarruf sağlar.
         """
         if not texts:
             return []
 
-        embeddings = []
-        for i, text in enumerate(texts):
-            embedding = self._embedWithRetry(text)
-            embeddings.append(embedding)
-            
-            # Rate limit koruması: her istek arasında kısa bekleme
-            if i < len(texts) - 1:
-                time.sleep(0.7)  # ~85 istek/dakika — güvenli aralık
+        # Listeyi tek seferde gönder
+        return self._embedBatchWithRetry(texts)
 
-        logger.info(
-            f"Batch embedding completed: {len(embeddings)} texts",
-            extra={"count": len(embeddings)},
-        )
-        return embeddings
-
-    def _embedWithRetry(self, text: str, maxRetries: int = 3) -> list[float]:
+    def _embedBatchWithRetry(self, texts: list[str], maxRetries: int = 4) -> list[list[float]]:
         """
-        Tek bir metni embedding'e dönüştürür, rate limit'te otomatik retry yapar.
+        Bir metin listesini tek seferde gönderir ve hata durumunda bekleyip tekrar dener.
         """
         for attempt in range(maxRetries):
             try:
                 result = self.client.models.embed_content(
                     model=EMBEDDING_MODEL,
-                    contents=text,
+                    contents=texts,
                 )
-                return list(result.embeddings[0].values)
+                
+                embeddings = [list(e.values) for e in result.embeddings]
+                
+                logger.info(
+                    f"Batch embedding successful: {len(embeddings)} texts in 1 API call",
+                    extra={"count": len(embeddings)},
+                )
+                return embeddings
+                
             except Exception as e:
                 errorStr = str(e)
-                if "429" in errorStr or "RESOURCE_EXHAUSTED" in errorStr:
-                    waitTime = 60 * (attempt + 1)  # 60, 120, 180 sn
+                if any(x in errorStr for x in ["429", "RESOURCE_EXHAUSTED", "503", "500"]):
+                    waitTime = 60 * (attempt + 1)  # 60, 120, 180, 240 sn
                     logger.warning(
-                        f"Rate limit hit (attempt {attempt + 1}/{maxRetries}), "
-                        f"waiting {waitTime}s..."
+                        f"Rate limit or API error (attempt {attempt + 1}/{maxRetries}), "
+                        f"waiting {waitTime}s before retry..."
                     )
                     time.sleep(waitTime)
                 else:
-                    logger.error(f"Embedding error: {e}", exc_info=True)
+                    logger.error(f"Embedding batch error: {e}", exc_info=True)
                     raise
         
-        raise RuntimeError(f"Embedding failed after {maxRetries} retries")
+        raise RuntimeError(f"Batch embedding failed after {maxRetries} retries")

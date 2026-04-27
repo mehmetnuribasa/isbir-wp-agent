@@ -166,7 +166,7 @@ def createApp(config: BotConfig, channelManager: ChannelManager) -> FastAPI:
         """Handle incoming WhatsApp messages (POST)"""
         try:
             data = await request.json()
-            logger.debug(f"Webhook data received")
+            logger.info(f"Webhook data received: {data}")
             
             # Get WhatsApp adapter
             adapter = channelManager.getAdapter("whatsapp")
@@ -196,41 +196,9 @@ def createApp(config: BotConfig, channelManager: ChannelManager) -> FastAPI:
             # Mark as read
             await adapter.markAsRead(messageId)
             
-            # Handle simple greeting with interactive menu
-            if isSimpleGreeting(text):
-                greetingText = (
-                    "Merhaba! Ben İşbir Elektrik dijital asistanıyım. 👋\n"
-                    "Size nasıl yardımcı olabilirim?"
-                )
-                sections = [
-                    {
-                        "title": "🔌 Ürünlerimiz",
-                        "rows": [
-                            {"id": "Pro jeneratörler", "title": "Pro Jeneratörler", "description": "13-2000 kVA"},
-                            {"id": "Eco jeneratörler", "title": "Eco Jeneratörler", "description": "20-300 kVA"},
-                            {"id": "Hibrit jeneratörler", "title": "Hibrit Jeneratörler", "description": "HBR Serisi"},
-                            {"id": "Askeri jeneratörler", "title": "Askeri Jeneratörler", "description": "MIL-STD standartları"},
-                            {"id": "Marin jeneratörler", "title": "Marin Jeneratörler", "description": "Türk Loydu sertifikalı"},
-                        ],
-                    },
-                    {
-                        "title": "🛠️ Hizmetler & Diğer",
-                        "rows": [
-                            {"id": "Teknik destek", "title": "Teknik Destek", "description": "7/24 destek hizmeti"},
-                            {"id": "Fiyat teklifi", "title": "Fiyat Teklifi", "description": "Satış ekibine bağlanma"},
-                            {"id": "Iletisim bilgileri", "title": "İletişim Bilgileri", "description": "Büro ve fabrika"},
-                        ],
-                    },
-                ]
-                await adapter.sendInteractiveList(
-                    phone,
-                    bodyText=greetingText,
-                    buttonLabel="Konu Seç",
-                    sections=sections,
-                    footerText="📞 444 09 10  |  📧 isbir@isbirelektrik.com.tr",
-                )
-                logger.info(f"Greeting menu sent to {phone}")
-                return Response(status_code=200)
+            # Tüm mesajlar debouncer'a girer, 3 saniye sessizlik sonrası
+            # birleşik metin _processMessage içinde kontrol edilir.
+
             
             # Create queued message for non-greeting messages
             queuedMsg = QueuedMessage(
@@ -258,7 +226,7 @@ def createApp(config: BotConfig, channelManager: ChannelManager) -> FastAPI:
 async def _processMessage(phone: str, text: str, messageId: str) -> None:
     """
     Process a user message through the AI pipeline.
-    Called by the message queue worker.
+    Called by the message queue worker after debouncing/concatenation.
     """
     global _channelManager
     
@@ -266,6 +234,42 @@ async def _processMessage(phone: str, text: str, messageId: str) -> None:
         adapter = _channelManager.getAdapter("whatsapp") if _channelManager else None
         if not adapter or not isinstance(adapter, WhatsAppAdapter):
             logger.error("No WhatsApp adapter available for response")
+            return
+        
+        # Greeting kontrolü burada yapılır — birleşik metin üzerinde
+        if isSimpleGreeting(text):
+            greetingText = (
+                "Merhaba! Ben İşbir Elektrik dijital asistanıyım. 👋\n"
+                "Size nasıl yardımcı olabilirim?"
+            )
+            sections = [
+                {
+                    "title": "🔌 Ürünlerimiz",
+                    "rows": [
+                        {"id": "Pro jeneratörler", "title": "Pro Jeneratörler", "description": "13-2000 kVA"},
+                        {"id": "Eco jeneratörler", "title": "Eco Jeneratörler", "description": "20-300 kVA"},
+                        {"id": "Hibrit jeneratörler", "title": "Hibrit Jeneratörler", "description": "HBR Serisi"},
+                        {"id": "Askeri jeneratörler", "title": "Askeri Jeneratörler", "description": "MIL-STD standartları"},
+                        {"id": "Marin jeneratörler", "title": "Marin Jeneratörler", "description": "Türk Loydu sertifikalı"},
+                    ],
+                },
+                {
+                    "title": "🛠️ Hizmetler & Diğer",
+                    "rows": [
+                        {"id": "Teknik destek", "title": "Teknik Destek", "description": "7/24 destek hizmeti"},
+                        {"id": "Fiyat teklifi", "title": "Fiyat Teklifi", "description": "Satış ekibine bağlanma"},
+                        {"id": "Iletisim bilgileri", "title": "İletişim Bilgileri", "description": "Büro ve fabrika"},
+                    ],
+                },
+            ]
+            await adapter.sendInteractiveList(
+                phone,
+                bodyText=greetingText,
+                buttonLabel="Konu Seç",
+                sections=sections,
+                footerText="📞 444 09 10  |  📧 isbir@isbirelektrik.com.tr",
+            )
+            logger.info(f"Greeting menu sent to {phone}")
             return
         
         # Typing indicator

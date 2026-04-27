@@ -174,9 +174,9 @@ class RAGService:
 
             except Exception as e:
                 logger.error(f"Indexing batch error: {e}", exc_info=True)
-                # Rate limit hatasıysa ekstra bekle
-                if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
-                    logger.info("Rate limit hit — waiting 60s before retry...")
+                # Rate limit veya Google geçici erişim hatası (503) ise ekstra bekle
+                if any(x in str(e) for x in ["429", "RESOURCE_EXHAUSTED", "503", "500"]):
+                    logger.info("Rate limit or Server Error hit — waiting 60s before retry...")
                     time.sleep(60)
                     # Tekrar dene
                     try:
@@ -194,11 +194,11 @@ class RAGService:
                 continue
 
         # 6) Hash değerini collection metadatasına kaydet
-        self.collection.modify(metadata={"hnsw:space": "cosine", "content_hash": contentHash})
+        self.collection.modify(metadata={"content_hash": contentHash})
         
         self._isIndexed = True
         logger.info(
-            f"✅ Knowledge base indexing complete: {totalIndexed} chunks",
+            f"Knowledge base indexing complete: {totalIndexed} chunks",
             extra={
                 "totalChunks": totalIndexed,
                 "totalSections": len(sections),

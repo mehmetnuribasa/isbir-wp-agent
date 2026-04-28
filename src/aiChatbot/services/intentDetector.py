@@ -25,11 +25,11 @@ def isSimpleGreeting(text: str) -> bool:
 def isPurePriceQuestion(text: str) -> bool:
     """Check if the message is purely about pricing."""
     text_lower = text.lower()
-    price_words = ["fiyat", "kaç para", "ne kadar", "ücret"]
+    price_words = ["fiyat", "kaç para", "ücret", "maliyeti"]
     
     has_price = any(pw in text_lower for pw in price_words)
     
-    feature_words = ["özellik", "teknik", "nasıl", "hangi", "bilgi"]
+    feature_words = ["özellik", "teknik", "nasıl", "hangi", "bilgi", "güç", "kva"]
     has_feature = any(fw in text_lower for fw in feature_words)
     
     return has_price and not has_feature

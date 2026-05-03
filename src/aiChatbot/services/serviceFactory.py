@@ -1,5 +1,6 @@
 """
 Service factory for building and wiring core services.
+Milestone 6: PostgreSQL DatabaseManager entegrasyonu eklendi.
 """
 
 import logging
@@ -10,6 +11,7 @@ from google import genai
 
 from ..models.botConfig import BotConfig
 from ..utils.promptManager import PromptManager, getPromptManager
+from ..database.connection import DatabaseManager, init_database
 from .geminiAIService import GeminiAIService
 from .sessionManager import SessionManager
 from .knowledgeBase import LightweightKnowledgeBase
@@ -32,77 +34,97 @@ async def buildGeminiService(
 ) -> Tuple[GeminiAIService, Optional[RAGService]]:
     """
     Build and configure the Gemini AI service with all dependencies.
-    
+
+    Milestone 6 değişiklikleri:
+        - PostgreSQL DatabaseManager oluşturulur ve başlatılır
+        - SessionManager'a dbManager enjekte edilir
+
     RAG modu etkinse (varsayılan):
         - EmbeddingService + RAGService oluşturulur
         - Knowledge base ChromaDB'ye indekslenir
         - GeminiAIService RAG servisiyle çalışır
-    
+
     RAG modu devre dışıysa:
         - Eski LightweightKnowledgeBase kullanılır (keyword arama)
-    
+
     Args:
         config: Bot configuration
-        
+
     Returns:
         Tuple of (GeminiAIService, RAGService or None)
     """
-    # Load prompts
+    # ── PostgreSQL Bağlantısı (Milestone 6) ───────────────────────────────────
+    dbManager: Optional[DatabaseManager] = None
+
+    if config.databaseUrl:
+        try:
+            dbManager = DatabaseManager()
+            await dbManager.init(config.databaseUrl, echo=config.databaseEcho)
+            await dbManager.create_tables()
+            logger.info("PostgreSQL connected and tables verified ✓")
+        except Exception as e:
+            logger.error(
+                f"PostgreSQL connection failed — falling back to RAM-only mode: {e}",
+                exc_info=True,
+            )
+            dbManager = None
+    else:
+        logger.warning("DATABASE_URL not set — running in RAM-only session mode (no persistence)")
+
+    # ── Load prompts ───────────────────────────────────────────────────────────
     promptManager = getPromptManager()
-    
-    # Create Gemini client (AI Studio)
+
+    # ── Create Gemini client (AI Studio) ───────────────────────────────────────
     client = genai.Client(api_key=config.geminiApiKey)
     logger.info("Gemini AI Studio client created")
-    
-    # ── RAG veya Keyword KB seçimi ──
+
+    # ── RAG veya Keyword KB seçimi ─────────────────────────────────────────────
     ragService: Optional[RAGService] = None
     knowledgeBase: Optional[LightweightKnowledgeBase] = None
-    
+
     kbPath = _resolveDataPath(config.knowledgeBasePath)
-    
+
     if config.ragEnabled:
-        # RAG modunu kullan
         logger.info("RAG mode enabled — initializing embedding and vector DB")
-        
+
         embeddingService = EmbeddingService(client=client)
-        
+
         chromaDbPath = _resolveDataPath(config.chromaDbPath)
         ragService = RAGService(
             embeddingService=embeddingService,
             chromaDbPath=chromaDbPath,
         )
-        
-        # Knowledge base'i indeksle (ilk çalıştırmada)
+
         if Path(kbPath).exists():
             indexedCount = ragService.indexKnowledgeBase(kbPath)
             logger.info(f"RAG indexed {indexedCount} chunks from {kbPath}")
         else:
             logger.warning(f"Knowledge base not found for RAG: {kbPath}")
     else:
-        # Eski keyword arama modunu kullan (fallback)
         logger.info("RAG disabled — using keyword-based knowledge base")
-        
+
         if Path(kbPath).exists():
             knowledgeBase = LightweightKnowledgeBase(kbPath)
             logger.info(f"Knowledge base loaded from {kbPath}")
         else:
             logger.warning(f"Knowledge base file not found: {kbPath}")
-    
-    # Build system instruction
+
+    # ── Build system instruction ────────────────────────────────────────────────
     systemInstruction = promptManager.getSystemInstruction()
-    
-    # Create session manager
+
+    # ── Create session manager (with optional PostgreSQL) ──────────────────────
     sessionManager = SessionManager(
         client=client,
         modelName="gemini-2.5-flash",
         systemInstruction=systemInstruction,
         sessionTimeoutMinutes=60,
+        dbManager=dbManager,  # Milestone 6: PostgreSQL bağlantısı
     )
-    
+
     # Start session cleanup
     await sessionManager.startCleanup()
-    
-    # Create AI service
+
+    # ── Create AI service ──────────────────────────────────────────────────────
     aiService = GeminiAIService(
         config=config,
         sessionManager=sessionManager,
@@ -110,14 +132,15 @@ async def buildGeminiService(
         ragService=ragService,
         promptManager=promptManager,
     )
-    
+
     logger.info(
         "GeminiAIService built and configured",
         extra={
             "ragEnabled": config.ragEnabled,
             "hasRAG": ragService is not None,
             "hasKeywordKB": knowledgeBase is not None,
+            "postgresEnabled": dbManager is not None,
         },
     )
-    
+
     return aiService, ragService

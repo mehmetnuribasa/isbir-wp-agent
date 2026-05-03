@@ -37,6 +37,11 @@ dependencies = [
 
     # RAG pipeline
     "chromadb>=0.5.0",
+
+    # PostgreSQL — async veritabanı (Milestone 6)
+    "sqlalchemy[asyncio]>=2.0.0",
+    "asyncpg>=0.29.0",
+    "alembic>=1.13.0",
 ]
 
 [project.optional-dependencies]

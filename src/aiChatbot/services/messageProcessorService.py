@@ -1,5 +1,6 @@
 """
 Message processor service for orchestrating the message processing pipeline.
+Milestone 6: Her kullanıcı mesajı ve AI cevabı PostgreSQL'e kaydedilir.
 """
 
 import logging
@@ -17,9 +18,10 @@ logger = logging.getLogger(__name__)
 class MessageProcessorService(MessageProcessor):
     """
     Orchestrates the message processing pipeline.
-    Integrates AI service, session management, and language detection.
+    Integrates AI service, session management, language detection,
+    and persistent message storage (PostgreSQL — Milestone 6).
     """
-    
+
     def __init__(
         self,
         aiService: AIService,
@@ -30,36 +32,61 @@ class MessageProcessorService(MessageProcessor):
         self.sessionManager = sessionManager
         self.languageDetector = LanguageDetector()
         self.defaultLanguage = defaultLanguage
-        
+
         logger.info("MessageProcessorService initialized")
-    
+
     async def processMessage(self, message: StandardMessage) -> str:
         """
         Process incoming message through the complete pipeline.
-        
-        1. Get or create session
+
+        1. Get or create session (RAM + PostgreSQL)
         2. Detect language
-        3. Process with AI service
-        4. Return response
+        3. Update user language in DB
+        4. Save user message to PostgreSQL
+        5. Process with AI service
+        6. Save assistant response to PostgreSQL
+        7. Return response
         """
         try:
-            # Get or create session
+            # ── 1. Get or create session ──────────────────────────────────────
             session = await self.sessionManager.getOrCreateSession(
                 userId=message.userId,
                 channelId=message.channelId,
                 channelType=message.channelType,
             )
-            
-            # Detect language
+
+            # ── 2. Detect language ────────────────────────────────────────────
             detectedLanguage = self.languageDetector.detectLanguage(message.content)
             session.language = detectedLanguage
-            
-            # Process message with AI service
+
+            # ── 3. Update user language in PostgreSQL (fire-and-forget) ───────
+            await self.sessionManager.updateUserLanguage(
+                userId=message.userId,
+                channelType=message.channelType,
+                language=detectedLanguage,
+            )
+
+            # ── 4. Save user message to PostgreSQL ────────────────────────────
+            await self.sessionManager.saveUserMessage(
+                userId=message.userId,
+                channelType=message.channelType,
+                content=message.content,
+                metadata={"messageId": message.messageId},
+            )
+
+            # ── 5. Process message with AI service ────────────────────────────
             response = await self.aiService.processMessage(
                 session=session,
                 message=message.content,
             )
-            
+
+            # ── 6. Save assistant response to PostgreSQL ──────────────────────
+            await self.sessionManager.saveAssistantMessage(
+                userId=message.userId,
+                channelType=message.channelType,
+                content=response,
+            )
+
             logger.info(
                 f"Message processed",
                 extra={
@@ -69,9 +96,9 @@ class MessageProcessorService(MessageProcessor):
                     "responseLength": len(response),
                 }
             )
-            
+
             return response
-            
+
         except Exception as e:
             logger.error(
                 f"Error processing message from {message.userId}: {e}",

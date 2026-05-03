@@ -179,22 +179,16 @@ class BotConfig(BaseSettings):
         validation_alias=AliasChoices("USER_MESSAGE_DEBOUNCE_SECONDS", "userMessageDebounceSeconds"),
     )
 
-    # Business hours
-    businessHoursStart: str = Field(
-        default="08:00",
-        validation_alias=AliasChoices("BUSINESS_HOURS_START", "businessHoursStart"),
+    # PostgreSQL Database (Milestone 6)
+    databaseUrl: str = Field(
+        default="",
+        description="PostgreSQL async connection URL (postgresql+asyncpg://...)",
+        validation_alias=AliasChoices("DATABASE_URL", "databaseUrl"),
     )
-    businessHoursEnd: str = Field(
-        default="18:00",
-        validation_alias=AliasChoices("BUSINESS_HOURS_END", "businessHoursEnd"),
-    )
-    businessTimezone: str = Field(
-        default="Europe/Istanbul",
-        validation_alias=AliasChoices("BUSINESS_TIMEZONE", "businessTimezone"),
-    )
-    businessDays: str = Field(
-        default="0,1,2,3,4",
-        validation_alias=AliasChoices("BUSINESS_DAYS", "businessDays"),
+    databaseEcho: bool = Field(
+        default=False,
+        description="SQLAlchemy SQL query logging (debug only)",
+        validation_alias=AliasChoices("DATABASE_ECHO", "databaseEcho"),
     )
 
     @property

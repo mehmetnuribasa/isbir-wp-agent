@@ -77,14 +77,8 @@ class GeminiAIService(AIService):
         session: ChatSession,
         message: str,
     ) -> str:
-        """Generate response using Gemini AI with RAG or keyword-based context"""
+        """Generate response using Gemini AI native session with Tool Calling"""
         try:
-            # Get knowledge context — RAG veya keyword
-            kbContext = self._getKnowledgeContext(message)
-            
-            # Build the user prompt with knowledge context
-            userPrompt = self._buildUserPrompt(message, kbContext)
-            
             # Use native Gemini chat session for response
             geminiChat = session.geminiSession
             if geminiChat is None:
@@ -92,13 +86,14 @@ class GeminiAIService(AIService):
                 session = await self.createSession(session.userId, session.channelType)
                 geminiChat = session.geminiSession
             
-            response = geminiChat.send_message(userPrompt)
+            # Agentic RAG: Tool (araç) kullanımı Gemini tarafından otomatik yönetilir
+            response = geminiChat.send_message(message)
             
             if not response or not response.text:
                 logger.warning("Empty response from Gemini")
                 return self.promptManager.getErrorMessage(session.language)
             
-            # Doğrudan AI'ın cevabını kullanıyoruz (Prompt'ta tekrarlama yasağı var)
+            # Doğrudan AI'ın cevabını kullanıyoruz
             answer = response.text.strip()
             
             # Update session activity
@@ -109,8 +104,6 @@ class GeminiAIService(AIService):
                 extra={
                     "userId": session.userId,
                     "responseLength": len(answer),
-                    "hasKBContext": bool(kbContext),
-                    "contextSource": "RAG",
                 }
             )
             
@@ -120,25 +113,4 @@ class GeminiAIService(AIService):
             logger.error(f"Gemini response error: {e}", exc_info=True)
             raise
     
-    def _getKnowledgeContext(self, message: str) -> str:
-        """
-        Kullanıcı mesajına uygun bilgi bağlamını (RAG ile) döndürür.
-        """
-        if self.ragService:
-            try:
-                context = self.ragService.findRelevantContent(message)
-                if context:
-                    return context
-            except Exception as e:
-                logger.error(f"RAG query failed: {e}")
-        
-        return ""
-    
-    def _buildUserPrompt(self, message: str, kbContext: str) -> str:
-        """Build the user prompt with knowledge base context"""
-        parts = [f"Kullanıcı Sorusu: {message}"]
-        
-        if kbContext:
-            parts.append(f"\nBilgi Bankası:\n{kbContext}")
-        
-        return "\n".join(parts)
+

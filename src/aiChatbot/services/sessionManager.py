@@ -42,6 +42,7 @@ class SessionManager:
         sessionTimeoutMinutes: int = 60,
         cleanupIntervalSeconds: int = 300,
         dbManager: Optional[DatabaseManager] = None,
+        tools: Optional[list] = None,
     ):
         self.client = client
         self.modelName = modelName
@@ -49,6 +50,7 @@ class SessionManager:
         self.sessionTimeoutMinutes = sessionTimeoutMinutes
         self.cleanupIntervalSeconds = cleanupIntervalSeconds
         self.dbManager = dbManager  # None ise sadece RAM (eski davranış)
+        self.tools = tools
 
         # RAM cache: sessionKey -> ChatSession (Gemini SDK session'ı içerir)
         self._sessions: Dict[str, ChatSession] = {}
@@ -254,6 +256,7 @@ class SessionManager:
                 model=self.modelName,
                 config=types.GenerateContentConfig(
                     system_instruction=self.systemInstruction or None,
+                    tools=self.tools,
                     safety_settings=[
                         types.SafetySetting(
                             category="HARM_CATEGORY_HARASSMENT",

@@ -94,6 +94,21 @@ async def buildGeminiService(
     else:
         logger.warning(f"Knowledge base not found for RAG: {kbPath}")
 
+    # ── LLM Araçları (Tools) Tanımlama ──────────────────────────────────────────
+    def search_isbir_knowledge_base(query: str) -> str:
+        """İşbir Elektrik jeneratörleri, özellikleri, fiyatları, hizmetleri ve iletişim bilgileri hakkında veritabanında arama yapar.
+
+        Args:
+            query: Aranacak teknik konu veya soru (örn: '100 kVA jeneratör yakıt tüketimi', 'iletişim numarası', 'marin jeneratör nedir')
+        """
+        logger.info(f"GenAI Tool called: search_isbir_knowledge_base(query='{query}')")
+        context = ragService.findRelevantContent(query)
+        if context:
+            return f"Arama Sonuçları:\n{context}"
+        return "Veritabanında bu konuya ait bir bilgi bulunamadı."
+
+    llm_tools = [search_isbir_knowledge_base] if ragService else None
+
     # ── Build system instruction ────────────────────────────────────────────────
     systemInstruction = promptManager.getSystemInstruction()
 
@@ -104,6 +119,7 @@ async def buildGeminiService(
         systemInstruction=systemInstruction,
         sessionTimeoutMinutes=1440,  # 24 saat — endüstriyel destek gün boyu sürebilir
         dbManager=dbManager,  # PostgreSQL bağlantısı
+        tools=llm_tools,      # Agentic RAG Araçları
     )
 
     # Start session cleanup

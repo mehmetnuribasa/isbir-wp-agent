@@ -17,14 +17,6 @@ from ..utils.languageDetector import LanguageDetector
 from .sessionManager import SessionManager
 from .knowledgeBase import LightweightKnowledgeBase
 from .ragService import RAGService
-from .intentDetector import (
-    isSimpleGreeting,
-    isPurePriceQuestion,
-    isGoodbye,
-    removeEchoOpening,
-    getPriceResponse,
-    getGoodbyeResponse,
-)
 
 logger = logging.getLogger(__name__)
 
@@ -87,15 +79,7 @@ class GeminiAIService(AIService):
         Handles intent detection shortcuts and Gemini AI responses.
         """
         try:
-            # 1. Goodbye shortcut
-            if isGoodbye(message):
-                return getGoodbyeResponse()
-            
-            # 2. Pure price question shortcut
-            if isPurePriceQuestion(message):
-                return getPriceResponse()
-            
-            # 3. Normal Gemini AI processing (greetings also go through AI for richer response)
+            # Tüm mesajlar Gemini AI'a gönderiliyor — doğal ve bağlama uygun cevaplar için
             return await self._generateGeminiResponse(session, message)
             
         except Exception as e:
@@ -129,8 +113,8 @@ class GeminiAIService(AIService):
                 logger.warning("Empty response from Gemini")
                 return self.promptManager.getErrorMessage(session.language)
             
-            # Clean up echoes from the response
-            answer = removeEchoOpening(response.text.strip())
+            # Doğrudan AI'ın cevabını kullanıyoruz (Prompt'ta tekrarlama yasağı var)
+            answer = response.text.strip()
             
             # Update session activity
             session.updateActivity()

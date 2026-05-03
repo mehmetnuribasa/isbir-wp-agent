@@ -117,7 +117,7 @@ async def buildGeminiService(
         client=client,
         modelName="gemini-2.5-flash",
         systemInstruction=systemInstruction,
-        sessionTimeoutMinutes=60,
+        sessionTimeoutMinutes=1440,  # 24 saat — endüstriyel destek gün boyu sürebilir
         dbManager=dbManager,  # Milestone 6: PostgreSQL bağlantısı
     )
 

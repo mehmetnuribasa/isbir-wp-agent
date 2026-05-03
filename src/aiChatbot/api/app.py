@@ -236,8 +236,11 @@ async def _processMessage(phone: str, text: str, messageId: str) -> None:
             logger.error("No WhatsApp adapter available for response")
             return
         
-        # Greeting kontrolü burada yapılır — birleşik metin üzerinde
-        if isSimpleGreeting(text):
+        # ── Akıllı Karşılama Menüsü (Sadece ilk mesajda) ──────────────────────
+        sessionManager = _channelManager.messageProcessor.sessionManager
+        has_active = await sessionManager.hasActiveSession(phone, "whatsapp")
+        
+        if not has_active and isSimpleGreeting(text):
             greetingText = (
                 "Merhaba! Ben İşbir Elektrik dijital asistanıyım. 👋\n"
                 "Size nasıl yardımcı olabilirim?"
@@ -269,9 +272,10 @@ async def _processMessage(phone: str, text: str, messageId: str) -> None:
                 sections=sections,
                 footerText="📞 444 09 10  |  📧 isbir@isbirelektrik.com.tr",
             )
-            logger.info(f"Greeting menu sent to {phone}")
+            logger.info(f"Smart greeting menu sent to {phone} (New Session)")
             return
         
+        # ── Yapay Zeka Akışı (Normal mesajlar) ────────────────────────────────
         # Typing indicator
         await adapter.sendTypingIndicator(phone)
         

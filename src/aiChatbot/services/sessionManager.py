@@ -134,6 +134,41 @@ class SessionManager:
 
             return session
 
+    async def hasActiveSession(self, userId: str, channelType: str = "whatsapp") -> bool:
+        """Kullanıcının RAM'de veya DB'de aktif bir oturumu olup olmadığını kontrol eder."""
+        sessionKey = f"{channelType}:{userId}"
+        
+        # 1. Önce RAM'e bak (Çok hızlı)
+        async with self._lock:
+            if sessionKey in self._sessions:
+                if not self._sessions[sessionKey].isExpired(self.sessionTimeoutMinutes):
+                    return True
+
+        # 2. RAM'de yoksa, DB'ye bak
+        if self._db_enabled:
+            try:
+                async with self.dbManager.session() as db:
+                    from ..database.repository import ChatRepository
+                    repo = ChatRepository(db)
+                    
+                    # Kullanıcının id'sini bul
+                    from sqlalchemy import select
+                    from ..database.models import UserModel
+                    stmt = select(UserModel.id).where(
+                        UserModel.phone_number == userId,
+                        UserModel.channel_type == channelType
+                    )
+                    res = await db.execute(stmt)
+                    user_id = res.scalar_one_or_none()
+                    
+                    if user_id:
+                        db_session = await repo.get_active_session(user_id, self.sessionTimeoutMinutes)
+                        return db_session is not None
+            except Exception as e:
+                logger.debug(f"Error checking active DB session: {e}")
+                
+        return False
+
     async def saveUserMessage(
         self,
         userId: str,

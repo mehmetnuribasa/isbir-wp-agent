@@ -14,7 +14,6 @@ from ..utils.promptManager import PromptManager, getPromptManager
 from ..database.connection import DatabaseManager, init_database
 from .geminiAIService import GeminiAIService
 from .sessionManager import SessionManager
-from .knowledgeBase import LightweightKnowledgeBase
 from .embeddingService import EmbeddingService
 from .ragService import RAGService
 
@@ -39,13 +38,10 @@ async def buildGeminiService(
         - PostgreSQL DatabaseManager oluşturulur ve başlatılır
         - SessionManager'a dbManager enjekte edilir
 
-    RAG modu etkinse (varsayılan):
+    RAG (Zorunlu):
         - EmbeddingService + RAGService oluşturulur
         - Knowledge base ChromaDB'ye indekslenir
-        - GeminiAIService RAG servisiyle çalışır
-
-    RAG modu devre dışıysa:
-        - Eski LightweightKnowledgeBase kullanılır (keyword arama)
+        - GeminiAIService sadece RAG servisiyle çalışır
 
     Args:
         config: Bot configuration
@@ -53,7 +49,7 @@ async def buildGeminiService(
     Returns:
         Tuple of (GeminiAIService, RAGService or None)
     """
-    # ── PostgreSQL Bağlantısı (Milestone 6) ───────────────────────────────────
+    # ── PostgreSQL Bağlantısı  ───────────────────────────────────
     dbManager: Optional[DatabaseManager] = None
 
     if config.databaseUrl:
@@ -78,36 +74,25 @@ async def buildGeminiService(
     client = genai.Client(api_key=config.geminiApiKey)
     logger.info("Gemini AI Studio client created")
 
-    # ── RAG veya Keyword KB seçimi ─────────────────────────────────────────────
+    # ── RAG Servisinin Başlatılması ─────────────────────────────────
     ragService: Optional[RAGService] = None
-    knowledgeBase: Optional[LightweightKnowledgeBase] = None
-
     kbPath = _resolveDataPath(config.knowledgeBasePath)
 
-    if config.ragEnabled:
-        logger.info("RAG mode enabled — initializing embedding and vector DB")
+    logger.info("Initializing RAG (semantic search) mode with embedding and vector DB")
 
-        embeddingService = EmbeddingService(client=client)
+    embeddingService = EmbeddingService(client=client)
+    chromaDbPath = _resolveDataPath(config.chromaDbPath)
+    
+    ragService = RAGService(
+        embeddingService=embeddingService,
+        chromaDbPath=chromaDbPath,
+    )
 
-        chromaDbPath = _resolveDataPath(config.chromaDbPath)
-        ragService = RAGService(
-            embeddingService=embeddingService,
-            chromaDbPath=chromaDbPath,
-        )
-
-        if Path(kbPath).exists():
-            indexedCount = ragService.indexKnowledgeBase(kbPath)
-            logger.info(f"RAG indexed {indexedCount} chunks from {kbPath}")
-        else:
-            logger.warning(f"Knowledge base not found for RAG: {kbPath}")
+    if Path(kbPath).exists():
+        indexedCount = ragService.indexKnowledgeBase(kbPath)
+        logger.info(f"RAG indexed {indexedCount} chunks from {kbPath}")
     else:
-        logger.info("RAG disabled — using keyword-based knowledge base")
-
-        if Path(kbPath).exists():
-            knowledgeBase = LightweightKnowledgeBase(kbPath)
-            logger.info(f"Knowledge base loaded from {kbPath}")
-        else:
-            logger.warning(f"Knowledge base file not found: {kbPath}")
+        logger.warning(f"Knowledge base not found for RAG: {kbPath}")
 
     # ── Build system instruction ────────────────────────────────────────────────
     systemInstruction = promptManager.getSystemInstruction()
@@ -118,17 +103,15 @@ async def buildGeminiService(
         modelName="gemini-2.5-flash",
         systemInstruction=systemInstruction,
         sessionTimeoutMinutes=1440,  # 24 saat — endüstriyel destek gün boyu sürebilir
-        dbManager=dbManager,  # Milestone 6: PostgreSQL bağlantısı
+        dbManager=dbManager,  # PostgreSQL bağlantısı
     )
 
     # Start session cleanup
     await sessionManager.startCleanup()
 
-    # ── Create AI service ──────────────────────────────────────────────────────
     aiService = GeminiAIService(
         config=config,
         sessionManager=sessionManager,
-        knowledgeBase=knowledgeBase,
         ragService=ragService,
         promptManager=promptManager,
     )
@@ -136,9 +119,7 @@ async def buildGeminiService(
     logger.info(
         "GeminiAIService built and configured",
         extra={
-            "ragEnabled": config.ragEnabled,
             "hasRAG": ragService is not None,
-            "hasKeywordKB": knowledgeBase is not None,
             "postgresEnabled": dbManager is not None,
         },
     )

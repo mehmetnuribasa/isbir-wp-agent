@@ -15,7 +15,6 @@ from ..models.botConfig import BotConfig
 from ..utils.promptManager import PromptManager
 from ..utils.languageDetector import LanguageDetector
 from .sessionManager import SessionManager
-from .knowledgeBase import LightweightKnowledgeBase
 from .ragService import RAGService
 
 logger = logging.getLogger(__name__)
@@ -25,37 +24,23 @@ class GeminiAIService(AIService):
     """
     AI service using Google GenAI SDK (AI Studio) for Gemini integration.
     Combines template architecture with İşbir's knowledge base and intent detection.
-    
-    Supports two knowledge retrieval modes:
-    - RAG (default): ChromaDB + Gemini Embeddings ile semantik arama
-    - Keyword (fallback): Basit keyword eşleştirme
+    Uses RAG (ChromaDB + Gemini Embeddings) for semantic search.
     """
     
     def __init__(
         self,
         config: BotConfig,
         sessionManager: SessionManager,
-        knowledgeBase: Optional[LightweightKnowledgeBase] = None,
         ragService: Optional[RAGService] = None,
         promptManager: Optional[PromptManager] = None,
     ):
         self.config = config
         self.sessionManager = sessionManager
-        self.knowledgeBase = knowledgeBase
         self.ragService = ragService
         self.promptManager = promptManager or PromptManager()
         self.languageDetector = LanguageDetector()
         
-        # Hangi bilgi erişim modu aktif?
-        self._useRAG = ragService is not None and ragService.isIndexed
-        
-        logger.info(
-            "GeminiAIService initialized",
-            extra={
-                "useRAG": self._useRAG,
-                "hasKeywordKB": knowledgeBase is not None,
-            }
-        )
+        logger.info("GeminiAIService initialized with RAG support")
     
     async def createSession(self, userId: str, channelType: str) -> ChatSession:
         """Create a new chat session"""
@@ -125,7 +110,7 @@ class GeminiAIService(AIService):
                     "userId": session.userId,
                     "responseLength": len(answer),
                     "hasKBContext": bool(kbContext),
-                    "contextSource": "RAG" if self._useRAG else "keyword",
+                    "contextSource": "RAG",
                 }
             )
             
@@ -137,24 +122,15 @@ class GeminiAIService(AIService):
     
     def _getKnowledgeContext(self, message: str) -> str:
         """
-        Kullanıcı mesajına uygun bilgi bağlamını döndürür.
-        
-        Öncelik sırası:
-        1. RAG (semantik arama) — aktifse
-        2. Keyword KB (fallback) — RAG yoksa
+        Kullanıcı mesajına uygun bilgi bağlamını (RAG ile) döndürür.
         """
-        # RAG ile semantik arama
-        if self._useRAG and self.ragService:
+        if self.ragService:
             try:
                 context = self.ragService.findRelevantContent(message)
                 if context:
                     return context
             except Exception as e:
-                logger.warning(f"RAG query failed, falling back to keyword: {e}")
-        
-        # Keyword-based arama (fallback)
-        if self.knowledgeBase:
-            return self.knowledgeBase.findRelevantContent(message) or ""
+                logger.error(f"RAG query failed: {e}")
         
         return ""
     
